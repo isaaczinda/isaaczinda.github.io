@@ -1,0 +1,6 @@
+j'ai entendu
+tu as entendu
+il/elle a entendu
+nous avons entendu
+vous avez entendu
+ils/elles ont entendu

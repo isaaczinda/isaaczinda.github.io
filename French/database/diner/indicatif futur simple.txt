@@ -1,0 +1,6 @@
+je dinerai
+tu dineras
+il/elle dinera
+nous dinerons
+vous dinerez
+ils/elles dineront

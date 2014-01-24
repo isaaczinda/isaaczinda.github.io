@@ -1,0 +1,6 @@
+j'aie reussi
+tu aies reussi
+il/elle ait reussi
+nous ayons reussi
+vous ayez reussi
+ils/elles aient reussi

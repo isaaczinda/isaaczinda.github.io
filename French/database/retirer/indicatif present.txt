@@ -1,0 +1,6 @@
+je retire
+tu retires
+il/elle retire
+nous retirons
+vous retirez
+ils/elles retirent

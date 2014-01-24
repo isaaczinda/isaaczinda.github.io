@@ -1,0 +1,6 @@
+je souvins
+tu souvins
+il/elle souvint
+nous souvinmes
+vous souvintes
+ils/elles souvinrent

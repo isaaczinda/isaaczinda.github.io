@@ -1,0 +1,6 @@
+je bougeasse
+tu bougeasses
+il/elle bouge&acirc;t
+nous bougeassions
+vous bougeassiez
+ils/elles bougeassent

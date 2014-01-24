@@ -1,0 +1,6 @@
+je chargeasse
+tu chargeasses
+il/elle charge&acirc;t
+nous chargeassions
+vous chargeassiez
+ils/elles chargeassent

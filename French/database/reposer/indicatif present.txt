@@ -1,0 +1,6 @@
+je repose
+tu reposes
+il/elle repose
+nous reposons
+vous reposez
+ils/elles reposent

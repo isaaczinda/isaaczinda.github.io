@@ -1,0 +1,6 @@
+je manquasse
+tu manquasses
+il/elle manqu&acirc;t
+nous manquassions
+vous manquassiez
+ils/elles manquassent

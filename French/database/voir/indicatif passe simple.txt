@@ -1,0 +1,6 @@
+je vis
+tu vis
+il/elle vit
+nous vimes
+vous vites
+ils/elles virent

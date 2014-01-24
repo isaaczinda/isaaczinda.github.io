@@ -1,0 +1,6 @@
+j'ai charge
+tu as charge
+il/elle a charge
+nous avons charge
+vous avez charge
+ils/elles ont charge

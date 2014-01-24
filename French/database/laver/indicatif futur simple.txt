@@ -1,0 +1,6 @@
+je laverai
+tu laveras
+il/elle lavera
+nous laverons
+vous laverez
+ils/elles laveront

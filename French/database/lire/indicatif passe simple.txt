@@ -1,0 +1,6 @@
+je lus
+tu lus
+il/elle lut
+nous lumes
+vous lutes
+ils/elles lurent

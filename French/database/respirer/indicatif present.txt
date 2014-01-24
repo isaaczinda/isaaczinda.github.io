@@ -1,0 +1,6 @@
+je respire
+tu respires
+il/elle respire
+nous respirons
+vous respirez
+ils/elles respirent

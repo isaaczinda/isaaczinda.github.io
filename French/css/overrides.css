@@ -1,0 +1,29 @@
+button
+{
+	padding: 0px;
+	text-align: center;
+	border-radius: 7px;
+	border: 1px solid rgb(0, 0, 0);
+}
+
+button:hover
+{
+	background-color: #cccccc;
+}
+
+h1, h2, h3, h4, h5
+{
+  color: rgb(40, 40, 40);
+}
+
+body
+{
+  font-family:"governor", Sans-Serif;
+}
+
+input, select
+{
+	padding: 0px;
+	border-radius: 5px;
+	border: 1px solid #666666;
+}

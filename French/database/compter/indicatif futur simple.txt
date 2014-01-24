@@ -1,0 +1,6 @@
+je compterai
+tu compteras
+il/elle comptera
+nous compterons
+vous compterez
+ils/elles compteront

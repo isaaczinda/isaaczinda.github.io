@@ -1,0 +1,6 @@
+je montre
+tu montres
+il/elle montre
+nous montrons
+vous montrez
+ils/elles montrent

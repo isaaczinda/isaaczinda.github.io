@@ -1,0 +1,6 @@
+j'ai vecu
+tu as vecu
+il/elle a vecu
+nous avons vecu
+vous avez vecu
+ils/elles ont vecu

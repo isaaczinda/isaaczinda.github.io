@@ -1,0 +1,6 @@
+je reveillerai
+tu reveilleras
+il/elle reveillera
+nous reveillerons
+vous reveillerez
+ils/elles reveilleront

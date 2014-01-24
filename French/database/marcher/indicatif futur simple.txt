@@ -1,0 +1,6 @@
+je marcherai
+tu marcheras
+il/elle marchera
+nous marcherons
+vous marcherez
+ils/elles marcheront

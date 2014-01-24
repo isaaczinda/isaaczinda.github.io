@@ -1,0 +1,6 @@
+j'aie assis
+tu aies assis
+il/elle ait assis
+nous ayons assis
+vous ayez assis
+ils/elles aient assis

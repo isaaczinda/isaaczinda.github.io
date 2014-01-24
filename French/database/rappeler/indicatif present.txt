@@ -1,0 +1,6 @@
+je rappelle
+tu rappelles
+il/elle rappelle
+nous rappelons
+vous rappelez
+ils/elles rappellent

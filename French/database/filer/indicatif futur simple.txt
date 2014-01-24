@@ -1,0 +1,6 @@
+je filerai
+tu fileras
+il/elle filera
+nous filerons
+vous filerez
+ils/elles fileront

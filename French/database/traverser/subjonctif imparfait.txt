@@ -1,0 +1,6 @@
+je traversasse
+tu traversasses
+il/elle travers&acirc;t
+nous traversassions
+vous traversassiez
+ils/elles traversassent

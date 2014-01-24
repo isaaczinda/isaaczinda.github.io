@@ -1,0 +1,6 @@
+je tombe
+tu tombes
+il/elle tombe
+nous tombons
+vous tombez
+ils/elles tombent

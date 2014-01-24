@@ -1,0 +1,6 @@
+je decouvre
+tu decouvres
+il/elle decouvre
+nous decouvrons
+vous decouvrez
+ils/elles decouvrent

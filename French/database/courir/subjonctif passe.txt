@@ -1,0 +1,6 @@
+j'aie couru
+tu aies couru
+il/elle ait couru
+nous ayons couru
+vous ayez couru
+ils/elles aient couru

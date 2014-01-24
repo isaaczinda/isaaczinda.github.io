@@ -1,0 +1,6 @@
+je couche
+tu couches
+il/elle couche
+nous couchons
+vous couchez
+ils/elles couchent

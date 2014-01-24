@@ -1,0 +1,6 @@
+je coute
+tu coutes
+il/elle coute
+nous coutons
+vous coutez
+ils/elles coutent

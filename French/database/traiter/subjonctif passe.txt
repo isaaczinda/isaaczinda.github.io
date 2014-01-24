@@ -1,0 +1,6 @@
+j'aie traite
+tu aies traite
+il/elle ait traite
+nous ayons traite
+vous ayez traite
+ils/elles aient traite

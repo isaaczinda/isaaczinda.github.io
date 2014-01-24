@@ -1,0 +1,6 @@
+je touche
+tu touches
+il/elle touche
+nous touchons
+vous touchez
+ils/elles touchent

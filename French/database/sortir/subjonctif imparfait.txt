@@ -1,0 +1,7 @@
+je sortisse
+tu sortisses
+il/elle sortit
+
+nous sortissions
+vous sortissiez
+ils sortissent

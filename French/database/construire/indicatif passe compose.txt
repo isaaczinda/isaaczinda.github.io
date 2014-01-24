@@ -1,0 +1,6 @@
+j'ai construit
+tu as construit
+il/elle a construit
+nous avons construit
+vous avez construit
+ils/elles ont construit

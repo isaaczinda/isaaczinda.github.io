@@ -1,0 +1,6 @@
+j'ai etudie
+tu as etudie
+il/elle a etudie
+nous avons etudie
+vous avez etudie
+ils/elles ont etudie

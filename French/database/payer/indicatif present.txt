@@ -1,0 +1,6 @@
+je paye/paie
+tu payes/paies
+il/elle paye/paie
+nous payons
+vous payez
+ils/elles payent/paient

@@ -1,0 +1,2 @@
+attaque
+ayant attaque

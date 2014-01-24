@@ -1,0 +1,6 @@
+je revins
+tu revins
+il/elle revint
+nous revinmes
+vous revintes
+ils/elles revinrent

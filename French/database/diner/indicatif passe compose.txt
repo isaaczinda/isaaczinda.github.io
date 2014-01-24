@@ -1,0 +1,6 @@
+j'ai dine
+tu as dine
+il/elle a dine
+nous avons dine
+vous avez dine
+ils/elles ont dine

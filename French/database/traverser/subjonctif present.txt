@@ -1,0 +1,6 @@
+je traverse
+tu traverses
+il/elle traverse
+nous traversions
+vous traversiez
+ils/elles traversent

@@ -1,0 +1,6 @@
+je vendis
+tu vendis
+il/elle vendit
+nous vendimes
+vous vendites
+ils/elles vendirent

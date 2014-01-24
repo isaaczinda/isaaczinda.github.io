@@ -1,0 +1,6 @@
+je pardonne
+tu pardonnes
+il/elle pardonne
+nous pardonnons
+vous pardonnez
+ils/elles pardonnent

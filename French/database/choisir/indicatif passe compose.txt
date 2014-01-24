@@ -1,0 +1,6 @@
+j'ai choisi
+tu as choisi
+il/elle a choisi
+nous avons choisi
+vous avez choisi
+ils/elles ont choisi

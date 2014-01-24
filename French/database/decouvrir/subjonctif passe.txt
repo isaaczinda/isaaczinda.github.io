@@ -1,0 +1,6 @@
+j'aie decouvert
+tu aies decouvert
+il/elle ait decouvert
+nous ayons decouvert
+vous ayez decouvert
+ils/elles aient decouvert

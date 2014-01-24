@@ -1,0 +1,6 @@
+j'envoie
+tu envoies
+il/elle envoie
+nous envoyons
+vous envoyez
+ils/elles envoient

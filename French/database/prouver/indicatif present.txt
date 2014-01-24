@@ -1,0 +1,6 @@
+je prouve
+tu prouves
+il/elle prouve
+nous prouvons
+vous prouvez
+ils/elles prouvent

@@ -1,0 +1,6 @@
+j'ai perdu
+tu as perdu
+il/elle a perdu
+nous avons perdu
+vous avez perdu
+ils/elles ont perdu

@@ -1,0 +1,6 @@
+j'aie ecoute
+tu aies ecoute
+il/elle ait ecoute
+nous ayons ecoute
+vous ayez ecoute
+ils/elles aient ecoute

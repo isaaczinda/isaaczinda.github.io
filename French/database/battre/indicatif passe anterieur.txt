@@ -1,0 +1,6 @@
+j'eus battu
+tu eus battu
+il/elle eut battu
+nous eumes battu
+vous eutes battu
+ils/elles eurent battu

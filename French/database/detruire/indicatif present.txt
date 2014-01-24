@@ -1,0 +1,6 @@
+je detruis
+tu detruis
+il/elle detruit
+nous detruisons
+vous detruisez
+ils/elles detruisent

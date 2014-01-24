@@ -1,0 +1,6 @@
+j'ai pardonne
+tu as pardonne
+il/elle a pardonne
+nous avons pardonne
+vous avez pardonne
+ils/elles ont pardonne

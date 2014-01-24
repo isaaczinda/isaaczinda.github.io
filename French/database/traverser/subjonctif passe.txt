@@ -1,0 +1,6 @@
+j'aie traverse
+tu aies traverse
+il/elle ait traverse
+nous ayons traverse
+vous ayez traverse
+ils/elles aient traverse

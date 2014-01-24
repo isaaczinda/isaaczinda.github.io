@@ -1,0 +1,6 @@
+j'attaque
+tu attaques
+il/elle attaque
+nous attaquons
+vous attaquez
+ils/elles attaquent

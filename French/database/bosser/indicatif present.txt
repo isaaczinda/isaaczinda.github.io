@@ -1,0 +1,6 @@
+je bosse
+tu bosses
+il/elle bosse
+nous bossons
+vous bossez
+ils/elles bossent
