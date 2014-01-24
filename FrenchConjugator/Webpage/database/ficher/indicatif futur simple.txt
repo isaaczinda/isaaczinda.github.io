@@ -1,7 +1,0 @@
-je ficherai
-tu ficheras
-il/elle fichera
-
-nous ficherons
-vous ficherez
-ils/elles ficheront

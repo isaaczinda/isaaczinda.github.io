@@ -1,6 +1,0 @@
-je parle
-tu parles
-il/elle parle
-nous parlions
-vous parliez
-ils/elles parlent

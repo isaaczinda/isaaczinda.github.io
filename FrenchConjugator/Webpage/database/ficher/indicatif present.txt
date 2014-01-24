@@ -1,6 +1,0 @@
-je fiche
-tu fiches
-il/elle fiche
-nous fichons
-vous fichez
-ils/elles fichent

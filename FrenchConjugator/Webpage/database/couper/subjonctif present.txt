@@ -1,6 +1,0 @@
-je coupe
-tu coupes
-il/elle coupe
-nous coupions
-vous coupiez
-ils/elles coupent

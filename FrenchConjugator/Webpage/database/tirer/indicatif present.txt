@@ -1,6 +1,0 @@
-je tire
-tu tires
-il/elle tire
-nous tirons
-vous tirez
-ils/elles tirent

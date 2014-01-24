@@ -1,6 +1,0 @@
-j'ai marche
-tu as marche
-il/elle a marche
-nous avons marche
-vous avez marche
-ils/elles ont marche

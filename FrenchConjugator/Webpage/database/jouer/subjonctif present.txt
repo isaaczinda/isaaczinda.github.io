@@ -1,6 +1,0 @@
-je joue
-tu joues
-il/elle joue
-nous jouions
-vous jouiez
-ils/elles jouent

@@ -1,6 +1,0 @@
-je dormisse
-tu dormisses
-il/elle dormit
-nous dormissions
-vous dormissiez
-ils/elles dormissent

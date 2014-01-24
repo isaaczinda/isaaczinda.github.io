@@ -1,6 +1,0 @@
-je bougerai
-tu bougeras
-il/elle bougera
-nous bougerons
-vous bougerez
-ils/elles bougeront

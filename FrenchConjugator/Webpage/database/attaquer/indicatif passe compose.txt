@@ -1,6 +1,0 @@
-j'ai attaque
-tu as attaque
-il/elle a attaque
-nous avons attaque
-vous avez attaque
-ils/elles ont attaque

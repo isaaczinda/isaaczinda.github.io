@@ -1,6 +1,0 @@
-je cours
-tu cours
-il/elle court
-nous courons
-vous courez
-ils/elles courent

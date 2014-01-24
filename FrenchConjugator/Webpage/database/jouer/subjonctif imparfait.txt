@@ -1,6 +1,0 @@
-je jouasse
-tu jouasses
-il/elle jou&acirc;t
-nous jouassions
-vous jouassiez
-ils/elles jouassent

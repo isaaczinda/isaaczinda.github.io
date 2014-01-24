@@ -1,6 +1,0 @@
-j'aie aime
-tu aies aime
-il/elle ait aime
-nous ayons aime
-vous ayez aime
-ils/elles aient aime

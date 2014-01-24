@@ -1,6 +1,0 @@
-je fatigue
-tu fatigues
-il/elle fatigue
-nous fatiguons
-vous fatiguez
-ils/elles fatiguent

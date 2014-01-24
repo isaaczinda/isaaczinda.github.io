@@ -1,6 +1,0 @@
-je payerai/paierai
-tu payeras/paieras
-il/elle payera/paiera
-nous payerons/paierons
-vous payerez/paierez
-ils/elles payeront/paieront

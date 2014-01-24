@@ -1,6 +1,0 @@
-je saute
-tu sautes
-il/elle saute
-nous sautons
-vous sautez
-ils/elles sautent

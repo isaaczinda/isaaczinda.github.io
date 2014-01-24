@@ -1,6 +1,0 @@
-je courrai
-tu courras
-il/elle courra
-nous courrons
-vous courrez
-ils/elles courront

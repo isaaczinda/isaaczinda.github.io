@@ -1,6 +1,0 @@
-j'emp&ecirc;chasse
-tu emp&ecirc;chasses
-il/elle emp&ecirc;ch&acirc;t
-nous emp&ecirc;chassions
-vous emp&ecirc;chassiez
-ils/elles emp&ecirc;chassent

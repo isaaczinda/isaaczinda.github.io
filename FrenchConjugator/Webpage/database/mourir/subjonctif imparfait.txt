@@ -1,7 +1,0 @@
-je mourusse
-tu mourusses
-il/elle mourut
-
-nous mourussions
-vous mourussiez
-ils mourussent

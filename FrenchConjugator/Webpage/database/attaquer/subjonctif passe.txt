@@ -1,6 +1,0 @@
-j'aie attaque
-tu aies attaque
-il/elle ait attaque
-nous ayons attaque
-vous ayez attaque
-ils/elles aient attaque

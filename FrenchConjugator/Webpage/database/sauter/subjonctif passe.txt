@@ -1,6 +1,0 @@
-j'aie saute
-tu aies saute
-il/elle ait saute
-nous ayons saute
-vous ayez saute
-ils/elles aient saute

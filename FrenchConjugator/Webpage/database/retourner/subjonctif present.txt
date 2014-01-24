@@ -1,6 +1,0 @@
-je retourne
-tu retournes
-il/elle retourne
-nous retournions
-vous retourniez
-ils/elles retournent

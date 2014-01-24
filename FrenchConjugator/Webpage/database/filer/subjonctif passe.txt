@@ -1,6 +1,0 @@
-j'aie file
-tu aies file
-il/elle ait file
-nous ayons file
-vous ayez file
-ils/elles aient file

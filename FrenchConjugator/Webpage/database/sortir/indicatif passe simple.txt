@@ -1,6 +1,0 @@
-je sortis
-tu sortis
-il/elle sortit
-nous sortimes
-vous sortites
-ils/elles sortirent

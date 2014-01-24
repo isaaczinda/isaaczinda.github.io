@@ -1,8 +1,0 @@
-j'ai fiche/fichu
-tu as fiche/fichu
-il a fiche/fichu
-elle a fiche/fichu
-nous avons fiche/fichu
-vous avez fiche/fichu
-ils ont fiche/fichu
-elles ont fiche/fichu

@@ -1,6 +1,0 @@
-j'ai couche
-tu as couche
-il/elle a couche
-nous avons couche
-vous avez couche
-ils/elles ont couche

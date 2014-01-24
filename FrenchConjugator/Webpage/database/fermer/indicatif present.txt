@@ -1,6 +1,0 @@
-je ferme
-tu fermes
-il/elle ferme
-nous fermons
-vous fermez
-ils/elles ferment

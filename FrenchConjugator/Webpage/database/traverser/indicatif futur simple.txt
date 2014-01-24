@@ -1,6 +1,0 @@
-je traverserai
-tu traverseras
-il/elle traversera
-nous traverserons
-vous traverserez
-ils/elles traverseront

@@ -1,6 +1,0 @@
-je lance
-tu lances
-il/elle lance
-nous lancions
-vous lanciez
-ils/elles lancent
