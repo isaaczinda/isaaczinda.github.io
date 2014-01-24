@@ -1,0 +1,6 @@
+j'aie signe
+tu aies signe
+il/elle ait signe
+nous ayons signe
+vous ayez signe
+ils/elles aient signe

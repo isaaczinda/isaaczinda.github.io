@@ -1,0 +1,6 @@
+je tourne
+tu tournes
+il/elle tourne
+nous tournions
+vous tourniez
+ils/elles tournent

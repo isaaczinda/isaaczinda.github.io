@@ -1,0 +1,6 @@
+je parlerai
+tu parleras
+il/elle parlera
+nous parlerons
+vous parlerez
+ils/elles parleront

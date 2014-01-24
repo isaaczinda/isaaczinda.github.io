@@ -1,0 +1,6 @@
+je pousse
+tu pousses
+il/elle pousse
+nous poussions
+vous poussiez
+ils/elles poussent

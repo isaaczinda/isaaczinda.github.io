@@ -1,0 +1,6 @@
+j'entends
+tu entends
+il/elle entend
+nous entendons
+vous entendez
+ils/elles entendent

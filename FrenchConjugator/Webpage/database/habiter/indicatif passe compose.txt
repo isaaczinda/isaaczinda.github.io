@@ -1,0 +1,6 @@
+j'ai habite
+tu as habite
+il/elle a habite
+nous avons habite
+vous avez habite
+ils/elles ont habite

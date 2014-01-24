@@ -1,0 +1,6 @@
+je grandis
+tu grandis
+il/elle grandit
+nous grandissons
+vous grandissez
+ils/elles grandissent

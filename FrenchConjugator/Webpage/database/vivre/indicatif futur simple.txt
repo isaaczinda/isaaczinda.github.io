@@ -1,0 +1,6 @@
+je vivrai
+tu vivras
+il/elle vivra
+nous vivrons
+vous vivrez
+ils/elles vivront

@@ -1,0 +1,6 @@
+j'aie cree
+tu aies cree
+il/elle ait cree
+nous ayons cree
+vous ayez cree
+ils/elles aient cree

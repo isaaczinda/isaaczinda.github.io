@@ -1,0 +1,6 @@
+je tournerai
+tu tourneras
+il/elle tournera
+nous tournerons
+vous tournerez
+ils/elles tourneront

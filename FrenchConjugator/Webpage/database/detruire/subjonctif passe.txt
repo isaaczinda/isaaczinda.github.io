@@ -1,0 +1,6 @@
+j'aie detruit
+tu aies detruit
+il/elle ait detruit
+nous ayons detruit
+vous ayez detruit
+ils/elles aient detruit

@@ -1,0 +1,6 @@
+je chante
+tu chantes
+il/elle chante
+nous chantons
+vous chantez
+ils/elles chantent

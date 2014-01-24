@@ -1,0 +1,6 @@
+j'ai joue
+tu as joue
+il/elle a joue
+nous avons joue
+vous avez joue
+ils/elles ont joue

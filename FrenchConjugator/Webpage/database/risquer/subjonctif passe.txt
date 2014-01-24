@@ -1,0 +1,6 @@
+j'aie risque
+tu aies risque
+il/elle ait risque
+nous ayons risque
+vous ayez risque
+ils/elles aient risque

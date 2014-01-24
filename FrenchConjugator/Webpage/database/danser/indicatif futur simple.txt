@@ -1,0 +1,6 @@
+je danserai
+tu danseras
+il/elle dansera
+nous danserons
+vous danserez
+ils/elles danseront

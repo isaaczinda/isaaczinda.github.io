@@ -1,0 +1,6 @@
+j'aie marche
+tu aies marche
+il/elle ait marche
+nous ayons marche
+vous ayez marche
+ils/elles aient marche

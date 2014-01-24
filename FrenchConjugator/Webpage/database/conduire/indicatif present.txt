@@ -1,0 +1,6 @@
+je conduis
+tu conduis
+il/elle conduit
+nous conduisons
+vous conduisez
+ils/elles conduisent

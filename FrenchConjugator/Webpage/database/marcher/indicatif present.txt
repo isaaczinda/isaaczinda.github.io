@@ -1,0 +1,6 @@
+je marche
+tu marches
+il/elle marche
+nous marchons
+vous marchez
+ils/elles marchent

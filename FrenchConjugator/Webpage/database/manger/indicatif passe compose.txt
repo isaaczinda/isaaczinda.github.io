@@ -1,0 +1,6 @@
+j'ai mange
+tu as mange
+il/elle a mange
+nous avons mange
+vous avez mange
+ils/elles ont mange

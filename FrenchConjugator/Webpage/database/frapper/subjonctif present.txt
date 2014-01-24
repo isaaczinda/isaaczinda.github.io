@@ -1,0 +1,6 @@
+je frappe
+tu frappes
+il/elle frappe
+nous frappions
+vous frappiez
+ils/elles frappent

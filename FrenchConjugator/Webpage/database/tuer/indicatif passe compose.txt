@@ -1,0 +1,6 @@
+j'ai tue
+tu as tue
+il/elle a tue
+nous avons tue
+vous avez tue
+ils/elles ont tue

@@ -1,0 +1,6 @@
+j'aie ouvert
+tu aies ouvert
+il/elle ait ouvert
+nous ayons ouvert
+vous ayez ouvert
+ils/elles aient ouvert

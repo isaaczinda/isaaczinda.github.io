@@ -1,0 +1,6 @@
+je coutasse
+tu coutasses
+il/elle cout&acirc;t
+nous coutassions
+vous coutassiez
+ils/elles coutassent

@@ -1,0 +1,6 @@
+je bouge
+tu bouges
+il/elle bouge
+nous bougeons
+vous bougez
+ils/elles bougent

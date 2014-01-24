@@ -1,0 +1,6 @@
+je pars
+tu pars
+il/elle part
+nous partons
+vous partez
+ils/elles partent

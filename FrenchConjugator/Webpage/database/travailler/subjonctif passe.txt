@@ -1,0 +1,6 @@
+j'aie travaille
+tu aies travaille
+il/elle ait travaille
+nous ayons travaille
+vous ayez travaille
+ils/elles aient travaille

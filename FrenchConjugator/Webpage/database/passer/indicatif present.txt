@@ -1,0 +1,6 @@
+je passe
+tu passes
+il/elle passe
+nous passons
+vous passez
+ils/elles passent

@@ -1,0 +1,6 @@
+je descendis
+tu descendis
+il/elle descendit
+nous descendimes
+vous descendites
+ils/elles descendirent

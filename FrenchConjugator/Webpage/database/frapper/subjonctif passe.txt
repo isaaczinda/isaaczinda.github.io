@@ -1,0 +1,6 @@
+j'aie frappe
+tu aies frappe
+il/elle ait frappe
+nous ayons frappe
+vous ayez frappe
+ils/elles aient frappe

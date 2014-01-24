@@ -1,0 +1,6 @@
+je danse
+tu danses
+il/elle danse
+nous dansions
+vous dansiez
+ils/elles dansent

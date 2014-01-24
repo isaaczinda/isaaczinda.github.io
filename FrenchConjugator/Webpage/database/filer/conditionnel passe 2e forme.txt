@@ -1,0 +1,6 @@
+j'eusse file
+tu eusses file
+il/elle eut file
+nous eussions file
+vous eussiez file
+ils/elles eussent file

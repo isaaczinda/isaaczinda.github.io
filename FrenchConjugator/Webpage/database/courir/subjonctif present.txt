@@ -1,0 +1,6 @@
+je coure
+tu coures
+il/elle coure
+nous courions
+vous couriez
+ils/elles courent

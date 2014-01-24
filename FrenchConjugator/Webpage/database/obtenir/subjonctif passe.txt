@@ -1,0 +1,6 @@
+j'aie obtenu
+tu aies obtenu
+il/elle ait obtenu
+nous ayons obtenu
+vous ayez obtenu
+ils/elles aient obtenu

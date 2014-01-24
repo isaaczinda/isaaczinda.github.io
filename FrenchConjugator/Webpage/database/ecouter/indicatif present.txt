@@ -1,0 +1,6 @@
+j'ecoute
+tu ecoutes
+il/elle ecoute
+nous ecoutons
+vous ecoutez
+ils/elles ecoutent

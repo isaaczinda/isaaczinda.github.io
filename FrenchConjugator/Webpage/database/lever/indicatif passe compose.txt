@@ -1,0 +1,6 @@
+j'ai leve
+tu as leve
+il/elle a leve
+nous avons leve
+vous avez leve
+ils/elles ont leve

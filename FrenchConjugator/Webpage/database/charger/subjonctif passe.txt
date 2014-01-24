@@ -1,0 +1,6 @@
+j'aie charge
+tu aies charge
+il/elle ait charge
+nous ayons charge
+vous ayez charge
+ils/elles aient charge

@@ -1,0 +1,6 @@
+je reveille
+tu reveilles
+il/elle reveille
+nous reveillions
+vous reveilliez
+ils/elles reveillent

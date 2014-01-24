@@ -1,0 +1,6 @@
+je lave
+tu laves
+il/elle lave
+nous lavons
+vous lavez
+ils/elles lavent

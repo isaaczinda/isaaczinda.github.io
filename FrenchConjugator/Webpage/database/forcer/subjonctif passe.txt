@@ -1,0 +1,6 @@
+j'aie force
+tu aies force
+il/elle ait force
+nous ayons force
+vous ayez force
+ils/elles aient force

@@ -1,0 +1,6 @@
+je volasse
+tu volasses
+il/elle vol&acirc;t
+nous volassions
+vous volassiez
+ils/elles volassent
