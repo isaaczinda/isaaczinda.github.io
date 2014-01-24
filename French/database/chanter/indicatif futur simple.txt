@@ -1,0 +1,6 @@
+je chanterai
+tu chanteras
+il/elle chantera
+nous chanterons
+vous chanterez
+ils/elles chanteront

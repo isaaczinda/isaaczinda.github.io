@@ -1,0 +1,6 @@
+j'ai envoye
+tu as envoye
+il/elle a envoye
+nous avons envoye
+vous avez envoye
+ils/elles ont envoye

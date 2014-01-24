@@ -1,0 +1,6 @@
+j'eus frappe
+tu eus frappe
+il/elle eut frappe
+nous eumes frappe
+vous eutes frappe
+ils/elles eurent frappe

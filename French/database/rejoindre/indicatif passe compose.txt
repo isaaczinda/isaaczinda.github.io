@@ -1,0 +1,6 @@
+j'ai rejoint
+tu as rejoint
+il/elle a rejoint
+nous avons rejoint
+vous avez rejoint
+ils/elles ont rejoint

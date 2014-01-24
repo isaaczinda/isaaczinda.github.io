@@ -1,0 +1,6 @@
+j'ai achete
+tu as achete
+il/elle a achete
+nous avons achete
+vous avez achete
+ils/elles ont achete

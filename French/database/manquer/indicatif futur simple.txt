@@ -1,0 +1,6 @@
+je manquerai
+tu manqueras
+il/elle manquera
+nous manquerons
+vous manquerez
+ils/elles manqueront

@@ -1,0 +1,6 @@
+je tue
+tu tues
+il/elle tue
+nous tuons
+vous tuez
+ils/elles tuent

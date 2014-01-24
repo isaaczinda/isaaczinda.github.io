@@ -1,0 +1,6 @@
+je marchasse
+tu marchasses
+il/elle march&acirc;t
+nous marchassions
+vous marchassiez
+ils/elles marchassent

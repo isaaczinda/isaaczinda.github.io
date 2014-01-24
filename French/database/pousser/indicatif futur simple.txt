@@ -1,0 +1,6 @@
+je pousserai
+tu pousseras
+il/elle poussera
+nous pousserons
+vous pousserez
+ils/elles pousseront

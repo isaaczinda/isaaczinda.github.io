@@ -1,0 +1,6 @@
+j'aie entendu
+tu aies entendu
+il/elle ait entendu
+nous ayons entendu
+vous ayez entendu
+ils/elles aient entendu

@@ -1,0 +1,6 @@
+j'eusse dormi
+tu eusses dormi
+il/elle eut dormi
+nous eussions dormi
+vous eussiez dormi
+ils/elles eussent dormi

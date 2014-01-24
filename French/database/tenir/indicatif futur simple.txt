@@ -1,0 +1,6 @@
+je tiendrai
+tu tiendras
+il/elle tiendra
+nous tiendrons
+vous tiendrez
+ils/elles tiendront

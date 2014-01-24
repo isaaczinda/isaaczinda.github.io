@@ -1,0 +1,6 @@
+j'aie trompe
+tu aies trompe
+il/elle ait trompe
+nous ayons trompe
+vous ayez trompe
+ils/elles aient trompe

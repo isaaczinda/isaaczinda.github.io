@@ -1,0 +1,6 @@
+je battisse
+tu battisses
+il/elle battit
+nous battissions
+vous battissiez
+ils/elles battissent

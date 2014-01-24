@@ -1,0 +1,8 @@
+je suis sorti
+tu es sorti
+il est sorti
+elle est sortie
+nous sommes sortis
+vous &ecirc;tes sortis
+ils sont sortis
+elles sont sorties

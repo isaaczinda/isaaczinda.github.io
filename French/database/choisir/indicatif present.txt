@@ -1,0 +1,6 @@
+je choisis
+tu choisis
+il/elle choisit
+nous choisissons
+vous choisissez
+ils/elles choisissent

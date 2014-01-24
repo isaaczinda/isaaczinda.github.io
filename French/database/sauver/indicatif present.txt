@@ -1,0 +1,6 @@
+je sauve
+tu sauves
+il/elle sauve
+nous sauvons
+vous sauvez
+ils/elles sauvent

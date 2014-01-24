@@ -1,0 +1,6 @@
+je regarde
+tu regardes
+il/elle regarde
+nous regardons
+vous regardez
+ils/elles regardent

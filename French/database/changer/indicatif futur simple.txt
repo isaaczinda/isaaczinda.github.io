@@ -1,0 +1,6 @@
+je changerai
+tu changeras
+il/elle changera
+nous changerons
+vous changerez
+ils/elles changeront

@@ -1,0 +1,6 @@
+j'ai parle
+tu as parle
+il/elle a parle
+nous avons parle
+vous avez parle
+ils/elles ont parle

@@ -1,0 +1,6 @@
+j'echapperai
+tu echapperas
+il/elle echappera
+nous echapperons
+vous echapperez
+ils/elles echapperont

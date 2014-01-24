@@ -1,0 +1,6 @@
+j'aie joue
+tu aies joue
+il/elle ait joue
+nous ayons joue
+vous ayez joue
+ils/elles aient joue

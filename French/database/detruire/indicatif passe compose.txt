@@ -1,0 +1,6 @@
+j'ai detruit
+tu as detruit
+il/elle a detruit
+nous avons detruit
+vous avez detruit
+ils/elles ont detruit

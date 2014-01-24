@@ -1,0 +1,6 @@
+je retournerai
+tu retourneras
+il/elle retournera
+nous retournerons
+vous retournerez
+ils/elles retourneront

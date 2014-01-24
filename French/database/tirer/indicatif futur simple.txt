@@ -1,0 +1,6 @@
+je tirerai
+tu tireras
+il/elle tirera
+nous tirerons
+vous tirerez
+ils/elles tireront

@@ -1,0 +1,6 @@
+je chercherai
+tu chercheras
+il/elle cherchera
+nous chercherons
+vous chercherez
+ils/elles chercheront

@@ -1,0 +1,6 @@
+je bats
+tu bats
+il/elle bat
+nous battons
+vous battez
+ils/elles battent

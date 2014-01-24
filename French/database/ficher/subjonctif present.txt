@@ -1,0 +1,7 @@
+je fiche
+tu fiches
+il/elle fiche
+
+nous fichions
+vous fichiez
+ils/elles fichent

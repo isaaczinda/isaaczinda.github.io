@@ -1,0 +1,6 @@
+j'ai saute
+tu as saute
+il/elle a saute
+nous avons saute
+vous avez saute
+ils/elles ont saute

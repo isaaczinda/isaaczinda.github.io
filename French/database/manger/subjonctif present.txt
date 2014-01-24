@@ -1,0 +1,6 @@
+je mange
+tu manges
+il/elle mange
+nous mangions
+vous mangiez
+ils/elles mangent

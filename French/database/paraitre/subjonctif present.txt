@@ -1,0 +1,6 @@
+je paraisse
+tu paraisses
+il/elle paraisse
+nous paraissions
+vous paraissiez
+ils/elles paraissent

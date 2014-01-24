@@ -1,0 +1,6 @@
+je garde
+tu gardes
+il/elle garde
+nous gardons
+vous gardez
+ils/elles gardent

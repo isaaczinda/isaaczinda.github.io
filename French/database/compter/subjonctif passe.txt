@@ -1,0 +1,6 @@
+j'aie compte
+tu aies compte
+il/elle ait compte
+nous ayons compte
+vous ayez compte
+ils/elles aient compte

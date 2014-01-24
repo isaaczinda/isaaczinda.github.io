@@ -1,0 +1,6 @@
+je sors
+tu sors
+il/elle sort
+nous sortons
+vous sortez
+ils/elles sortent

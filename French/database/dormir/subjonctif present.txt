@@ -1,0 +1,6 @@
+je dorme
+tu dormes
+il/elle dorme
+nous dormions
+vous dormiez
+ils/elles dorment

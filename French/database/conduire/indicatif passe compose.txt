@@ -1,0 +1,6 @@
+j'ai conduit
+tu as conduit
+il/elle a conduit
+nous avons conduit
+vous avez conduit
+ils/elles ont conduit

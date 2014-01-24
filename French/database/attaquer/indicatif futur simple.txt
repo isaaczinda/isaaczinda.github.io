@@ -1,0 +1,6 @@
+j'attaquerai
+tu attaqueras
+il/elle attaquera
+nous attaquerons
+vous attaquerez
+ils/elles attaqueront

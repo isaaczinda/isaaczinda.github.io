@@ -1,0 +1,6 @@
+je traite
+tu traites
+il/elle traite
+nous traitons
+vous traitez
+ils/elles traitent

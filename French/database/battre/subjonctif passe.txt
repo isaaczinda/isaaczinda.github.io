@@ -1,0 +1,6 @@
+j'aie battu
+tu aies battu
+il/elle ait battu
+nous ayons battu
+vous ayez battu
+ils/elles aient battu

@@ -1,0 +1,6 @@
+j'ai file
+tu as file
+il/elle a file
+nous avons file
+vous avez file
+ils/elles ont file

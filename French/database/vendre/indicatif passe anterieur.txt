@@ -1,0 +1,6 @@
+j'eus vendu
+tu eus vendu
+il/elle eut vendu
+nous eumes vendu
+vous eutes vendu
+ils/elles eurent vendu

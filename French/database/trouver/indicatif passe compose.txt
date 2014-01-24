@@ -1,0 +1,6 @@
+j'ai trouve
+tu as trouve
+il/elle a trouve
+nous avons trouve
+vous avez trouve
+ils/elles ont trouve

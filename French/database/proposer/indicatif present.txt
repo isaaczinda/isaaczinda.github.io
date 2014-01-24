@@ -1,0 +1,6 @@
+je propose
+tu proposes
+il/elle propose
+nous proposons
+vous proposez
+ils/elles proposent

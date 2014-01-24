@@ -1,0 +1,6 @@
+je vendisse
+tu vendisses
+il/elle vendit
+nous vendissions
+vous vendissiez
+ils/elles vendissent

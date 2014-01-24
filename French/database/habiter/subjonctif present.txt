@@ -1,0 +1,6 @@
+j'habite
+tu habites
+il/elle habite
+nous habitions
+vous habitiez
+ils/elles habitent
