@@ -1,7 +1,6 @@
 je naisse
 tu naisses
 il/elle naisse
-
 nous naissions
 vous naissiez
 ils/elles naissent

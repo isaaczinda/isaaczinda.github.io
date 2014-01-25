@@ -1,7 +1,6 @@
 je foutrai
 tu foutras
 il/elle foutra
-
 nous foutrons
 vous foutrez
 ils/elles foutront

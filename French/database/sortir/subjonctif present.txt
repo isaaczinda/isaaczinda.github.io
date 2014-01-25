@@ -1,7 +1,6 @@
 je sorte
 tu sortes
 il/elle sorte
-
 nous sortions
 vous sortiez
 ils/elles sortent

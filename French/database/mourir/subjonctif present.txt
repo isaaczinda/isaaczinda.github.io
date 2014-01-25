@@ -1,7 +1,6 @@
 je meure
 tu meures
 il/elle meure
-
 nous mourions
 vous mouriez
 ils/elles meurent

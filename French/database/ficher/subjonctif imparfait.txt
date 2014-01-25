@@ -1,7 +1,6 @@
 je fichasse
 tu fichasses
 il/elle fich&acirc;t
-
 nous fichassions
 vous fichassiez
 ils/elles fichassent

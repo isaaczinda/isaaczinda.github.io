@@ -1,7 +1,6 @@
 j'arrive
 tu arrives
 il/elle arrive
-
 nous arrivions
 vous arriviez
 ils/elles arrivent

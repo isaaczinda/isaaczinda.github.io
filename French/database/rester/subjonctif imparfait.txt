@@ -1,7 +1,6 @@
 je restasse
 tu restasses
 il/elle rest&acirc;t
-
 nous restassions
 vous restassiez
 ils restassent
