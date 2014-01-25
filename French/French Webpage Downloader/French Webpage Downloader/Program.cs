@@ -101,6 +101,46 @@ namespace French_Webpage_Downloader
             }
         }
 
+        static void RemoveBlankLines(string Filepath)
+        {
+            List<string> New = new List<string>();
+            StreamReader Old = new StreamReader(Filepath);
+
+            while (!Old.EndOfStream)
+            {
+                string Line = Old.ReadLine();
+                if (Line != "")
+                {
+                    New.Add(Line);
+                }
+                else
+                {
+                    Console.Write("--Removed Space!");
+                }
+                
+            }
+            Old.Close();
+            File.Delete(Filepath);
+
+            for (int i = 0; i < New.Count; i++)
+            {
+                AppendToFile(Filepath, New[i]);
+            }
+        }
+
+
+        static void RemoveSpacesInAllDatabaseFiles()
+        {
+            string[] FilesToChange = Directory.GetFiles(@".", "*.txt", SearchOption.AllDirectories);
+
+            for (int i = 0; i < FilesToChange.Length; i++)
+            {
+                RemoveBlankLines(FilesToChange[i]);
+                Console.WriteLine(i.ToString() + " of " + FilesToChange.Length + " in file " + FilesToChange[i]);
+            }
+            Console.WriteLine("Done...");
+        }
+
         static void Main(string[] args)
         {
             System.IO.StreamReader file = new System.IO.StreamReader("VerbList.txt");
@@ -109,15 +149,15 @@ namespace French_Webpage_Downloader
             while ((Line = file.ReadLine()) != null)
             {
                 Read++;
-                //try
-                //{
+                try
+                {
                     DownloadDataForVerb(Line);
                     Console.WriteLine("Downloaded '" + Line + "', " + Read);
-                //}
-                //catch
-                //{
-                //    Console.WriteLine("**failed to download '" + Line + "'**");
-                //}
+                }
+                catch
+                {
+                    Console.WriteLine("**failed to download '" + Line + "'**");
+                }
             }
 
             file.Close();
