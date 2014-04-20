@@ -1,6 +1,7 @@
 function ToggleModal() 
 {
-	document.getElementById("overlay").className += "active";
+	document.getElementById("modaloverlay").className += "active";
+	document.getElementById("modalbackground").className += "active";
 }
 function Load()
 {
