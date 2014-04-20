@@ -1,0 +1,18 @@
+#Header
+{
+	margin-left: 10px;
+	margin-top: 10px;
+}
+
+#Content
+{
+	margin-left: 20px;
+	margin-top: 30px;
+	margin-right:10%;
+}
+
+body
+{
+	background-image: url('http://media1.santabanta.com/full1/Global%20Celebrities%28M%29/Arnold%20Schwarzenegger/arnold-schwarzenegger-9a.jpg');
+	background-size: 2000px, 2000px;
+}
