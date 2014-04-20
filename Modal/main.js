@@ -7,3 +7,8 @@ function Load()
 {
 	ToggleModal();
 }
+
+function AlertMessage()
+{
+	alert("Welcome!");
+}
