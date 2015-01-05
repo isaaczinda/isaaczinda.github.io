@@ -12,12 +12,12 @@ function ElementSelection()
 		$(NavbarElements[i]).mouseover(NavbarElements[i], function(e)
 		{
 			console.log($(e.data).html())
-		  	$(e.data).addClass("active");
+		  	$(e.data).addClass("hover");
 		});
 
 		$(NavbarElements[i]).mouseleave(NavbarElements[i], function(e)
 		{
-		  	$(e.data).removeClass("active");
+		  	$(e.data).removeClass("hover");
 		});
 	}
 }

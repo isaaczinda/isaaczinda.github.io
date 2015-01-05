@@ -1,9 +1,22 @@
+.hover
+{
+	background-color: #28415B;
+}
+
 .Current
 {
 	background-color: #222222;
 }
 
+
+
 #navbar li a
 {
 	color: white;
+}
+
+#navbar li
+{
+	-webkit-transition:background-color .5s;
+    transition:background-color .5s;
 }
