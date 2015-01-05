@@ -1,5 +1,9 @@
-#title
+.Current
 {
-	font-family: arial;
-	align: center;
+	background-color: #222222;
+}
+
+#navbar li a
+{
+	color: white;
 }
