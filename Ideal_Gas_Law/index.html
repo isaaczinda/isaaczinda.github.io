@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<link rel="stylesheet" href="css/bootstrap.css">
+        <link rel="stylesheet" href="css/bootstrap-responsive.min.css">
+        <link rel="stylesheet" href="css/main.css">
+	</head>
+	<script src="GasLawJS.js" ></script>
+	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.js"></script>
+	<script src = "bootstrap.js"></script>
+	<body onload = "LoadContent();">
+		<div class = "row offset4">
+			<h1>The Ideal Gas Law</h1>
+		</div>
+            
+		<div class = "row">
+		</div>
+			<div class = "span8">
+			<h3>How the Ideal Gas Law Works</h3>
+			<p>The ideal gas law is composed of a few different components:</p>
+			<ul>
+				<li>A gas constant (differs for every gas)</li>
+				<li>Temperature(Kelvin)</li>
+				<li>Number of moles (Cubic Centimeters)</li>
+				<li>Pressure(In Pascal)</li>
+			</ul>
+			<p><meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>The equation is as follows:</p>
+			<P>Pressure = Number of moles / Volume * Constant * Temperature</p>
+			<p>This allows you to determine the pressure of any given gas in Pascal from just these few traits. Below, I have built a program which allows you to put in different values for these different variables and quickly evaluate the results. The gas we are calculating is hydrogen, so I have put in an appropriate gas constant. The temperature is automatically converted to kelvin from F, using the equation (F - 32) * (5/9) + 273. The volume is set to one cubic centimeter and the number of moles is set to an average. Since moles are not a very common unit of measurement, and I&#146m sure that not too many of you know about them, I will explain.</p>
+			<p>A mole is 6.02 x 1023 of the smallest particles that allows whatever substances you are measuring retain its characteristics.  For water, it could be 6.02 x 1023 H20 molecules, and for hydrogen would be 6.02 x 1023 H2 molecules. For purposes of not using the lengthy number 6.02 x 1023, scientists have names the number of molecules to a mole Avogadro's number. A mole of a substance is equal to that substance&#146s atomic weight. </p>
+			<p>Lastly, I have converted Pascal units of pressure to PSI, a unit that we can all understand. PSI is pounds per square inch, so if you are in a substance with 1 PSI, you would have the equivalent of one pound of pressure on each square inch of your body.</p>
+			</div>
+			<div class = "span8">
+				<h3>How it's Relevant to Pressure and Chemical Reactions</h3>
+				<p>The ideal gas law can be broken into two parts, the constant component and the concentration component. The concentration component is Moles / Volume, and the constant component is Degrees * Constant. Adding pressure can speed chemical reaction, the internet says this a few thousand times, but why? Try scrolling down to the bottom of this page and using the Psi calculator. You may notice that when either the moles are doubled or the volume is halved, the pressure doubles! This is because you are doubling the concentration of the gas, and there is a direct relationship between pressure and concentration. This is why chemical reactions speed up when the pressure is increased - because increasing the pressure is just like increasing the concentration. But make be careful, because this does not apply to all substances - only gasses - because liquids and solids cannot be pressurized well.
+				</p>
+			</div>
+			<div class = "row span8 offset6">
+				<h3>Ideal Gas Converter</h3>
+				<p>Moles <input type = "text" id = "Moles"></p>
+				<p>Volume <input type = "text" id = "Volume"></p>
+				<p>Degrees <input type = "text" id = "Degrees"></p>
+				<p>Gas Constant <input type = "text" id = "Constant"></p>
+				<p id = "Pressure">Pressure = 0</p>
+				<button onclick = "Calculate();" href = "#">Calculate</button>
+				<button onclick = "SetToDefault();" href = "#">Reset Values</button>
+			</div>
+			</br>
+	</body>
+</html>

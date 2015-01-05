@@ -1,21 +1,39 @@
+body
+{
+	background-image: url("./../img/Backgrounds/Canyoneering.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1 small
+{
+	color: #cccccc;
+}
+
 .hover
 {
-	background-color: #28415B;
+	background-color: #68A1BB;
 }
 
 .Current
 {
-	background-color: #222222;
+	background-color: #28415B;
 }
 
+#Content > div
+{
+	padding-top: 20px;
+	padding-bottom: 20px;
+	background-color: rgba(0, 0, 0, .35);
+	border-radius: 5px;
+}
 
-
-#navbar li a
+#navbar > li > a
 {
 	color: white;
 }
 
-#navbar li
+#navbar > li
 {
 	-webkit-transition:background-color .5s;
     transition:background-color .5s;
