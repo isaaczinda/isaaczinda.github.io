@@ -1,6 +1,6 @@
 body
 {
-	background-image: url("http://www.isaaczinda.com/Home/img/Canyoneering.JPG");
+	background-image: url("http://www.isaaczinda.com/Home/img/Fishing.JPG");
     background-repeat: no-repeat;
     background-size:cover;
 }
@@ -28,6 +28,14 @@ h1 small
 	border-radius: 5px;
 }
 
+footer
+{
+	padding-top: 10px;
+	padding-bottom: 5px;
+	background-color: rgba(0, 0, 0, .45);
+	border-radius: 5px;
+}
+
 #navbar > li > a
 {
 	color: white;
@@ -37,4 +45,12 @@ h1 small
 {
 	-webkit-transition:background-color .5s;
     transition:background-color .5s;
+}
+
+footer p
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	margin-bottom: 0px;
+	margin-top: 0px;
 }
