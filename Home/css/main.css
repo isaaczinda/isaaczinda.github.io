@@ -56,6 +56,13 @@ footer
 	border-radius: 0px;
 }
 
+#Downloads > div > div > button
+{
+	margin-top: 20px;
+	display: block;
+	float: center;
+}
+
 #navbar > li > a
 {
 	color: white;
