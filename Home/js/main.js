@@ -50,9 +50,9 @@ function LoadPage(Page, Element)
 	RemoveCurrentFromOtherPages();
 	$(Element).addClass("Current");
 
-	$("#" + CurrentPage).hide("fast", function()
+	$("." + CurrentPage).hide("fast", function()
 	{
-		$("#" + Page).show("fast", function()
+		$("." + Page).show("fast", function()
 		{
 			CurrentPage = Page;
 		});

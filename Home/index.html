@@ -10,13 +10,16 @@
 	<script src = "js/main.js"></script>
 
 	<body>
-		<nav class="navbar navbar-default">
+		<nav class="navbar navbar-default navbar-static-top">
 			<!-- The Navbar Header -->
-		 <!--    <div class="navbar-header">
-		      <a class="navbar-brand" href="http://www.isaaczinda.com/Home">IsaacZinda.com</a>
-		    </div> -->
 		    <div class = "container-fluid">
-				<ul class="nav navbar-nav" id = "navbar">
+			    <div class="navbar-header">
+			    	<div>
+				        <img id = "ImageBrand" alt="Brand" src="img/Crest.png">
+			    		<a class="navbar-brand" href="http://www.isaaczinda.com/Home">IsaacZinda.com</a>
+			    	</div>
+			    </div>
+				<ul class="nav navbar-nav navbar-right" id = "navbar">
 					<li onclick = 'LoadPage("Home", this)'><a href="#">Home</a></li>
 					<li onclick = 'LoadPage("Bio", this)'><a href="#">Bio</a></li>
 					<li onclick = 'LoadPage("Resume", this)'><a href="#">Resume</a></li>
@@ -35,7 +38,7 @@
 			</div>
 		</nav>
 		<div id = "Content">
-			<div id = "Home" class = "active container-fluid">
+			<div class = "Home" class = "active container-fluid">
 				<div class = "row">
 					<div class = "page-header col-sm-12 col-md-6">
 					  	<h1>isaaczinda.com<div><small>Home to my bio, resume, and project collection</small></div></h1>
@@ -45,15 +48,68 @@
 					</div>
 				</div>
 			</div>
-			<div id = "Bio" class = "container-fluid">
+			<div class = "Bio" class = "container-fluid">
 				Etiam laoreet, nunc in sagittis ornare, sapien nibh tristique turpis, eu aliquet magna orci vitae tellus. Phasellus semper velit nec lacus varius, ut tristique ex aliquam. Duis ac ex eros. Mauris at venenatis massa. Aliquam fermentum fermentum neque et euismod. Suspendisse vel odio neque. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nam a diam tempus, blandit diam in, commodo diam. Curabitur tincidunt orci gravida, gravida eros non, lobortis mauris.
 			</div>
-			<div id = "Resume" class = "container-fluid">
-				Nulla ligula magna, lobortis non augue sed, auctor vulputate justo. Proin laoreet justo odio, et lobortis leo sagittis pretium. Phasellus consectetur dui arcu, sit amet euismod ligula tincidunt et. Aliquam finibus ut nisi vitae aliquam. Nunc fringilla laoreet sem non fermentum. Nullam tincidunt massa eget purus pulvinar iaculis. Phasellus et pharetra sapien. Donec a nisl at odio lacinia aliquet. Fusce cursus, risus vitae ornare elementum, metus elit blandit orci, id malesuada erat ex eget nisi. Curabitur bibendum sapien sit amet tellus iaculis, sed laoreet urna consectetur. Etiam mattis dolor at nisl euismod tempor. Morbi congue odio nisl, non auctor sem ultrices nec. Fusce cursus pretium lacus, ac consectetur sem blandit sed. Nulla dictum, lorem blandit placerat sagittis, dui nulla facilisis nibh, ullamcorper rutrum dui turpis eget tellus. In hac habitasse platea dictumst. Pellentesque non orci non turpis pellentesque condimentum.
-				<a href = "www.google.com" alt = "google">this is a hyperlink</a>
+			<div class = "row Resume" class = "container-fluid">
+				<div class = "col-md-8">
+					<p>I am a motivated, well-rounded student who excels in public speaking, programming and athletics. Sports and Robotics have given me experience working in groups, while independent programming projects have provided an outlet for my passion and demonstrate my initiative.</p>
 
+					<p><strong>Education</strong></p>
+					<p>Junior at Seattle Academy High School with a 3.96 GPA.  Workload includes: 5 honors classes, Calculus, Debate and multiple programming classes.
+
+					<p><strong>Experience</strong></p>
+					<p>FTC Robotics Club (2012 – 2015), last two years on varsity team</p>
+					<ul>
+						<li>Head programmer for team: worked with a group of six to eight students to design and fabricate a robot from scratch in three months’ time. </li>
+						<li>Wrote autonomous code utilizing gyroscopic, color, and inferred sensors</li>
+						<li>Wrote a library to interface with PID motor controllers through I2C industry standard protocol (available on www.IsaacZinda.com).</li>
+						<li>Built robot’s entire arm from the ground up and collaborated with a teammate to build the robot’s ball collector mechanism.</li>
+					</ul>
+
+					<p>Awards</p>
+					<ul>
+						<li>a.	Won district competition and proceeded to place fifth in state in 2014 </li>
+						<li>Qualified for state 15, advanced to superregionals after winning second place in state</li>
+						<li>One of three First Tech Challenge (Robotics League) Dean’s List Semifinalists (award for individuals excelling at First) 2015 district competition</li>
+						<li>Second place inspire award (teams who excel overall) both 2014/15 FTC district competitions</li>
+						<li>Won Rockwell Collins Innovate award 2015 district competition </li>
+					</ul>
+
+					<p>Independent Projects</p>
+					<ul>
+						<li>Taught myself Javascript, Node.js, C#, Python, and C</li>
+						<li>Built a robot controllable over intranet with inverse kinematic arm and live video streaming. Video protocol written from scratch in Node.js and C#.</li>
+						<li>Built IsaacZinda.com to showcase my projects and web design skills</li>
+						<li>Created 3D library from scratch in Python. Supports wireframe rendering from STL files, matrix rotation and translation, and uses NumPy for hardware acceleration. </li>
+						<li>Building social media site to control waterfall projection system in school lobby. Popular posts float as bubbles to the top of waterfall. Server written in Node.js, webpage created with JQuery.  </li>
+					</ul>
+
+					<p>Programming Classes</p>
+					<ul>
+						<li>Took Seattle Academy Software Development class twice, becoming teacher’s unofficial assistant and writing all server-side code for class-wide projects in Node.js the second year.</li>
+						<li>Two week DigiPen programming class, built version of popular game Centipede in C# for class final project (available on www.IsaacZinda.com).</li>
+						<li>Built inverse kinematic robotic arm as independent project in robotics class. Arm controlled by computer over Bluetooth running C server-side and C# client-side.</li>
+					</ul>
+
+					<p><strong>Extra-Curricular and Hobbies</strong></p>
+
+					<ul>
+						<li>Piano: Twelve years of weekly lessons and bi-annual recitals</li>
+						<li>Crew: 2013 won my event at Regionals. 2014 second and third at Brentwood, third at Regionals</li>
+						<li>Ultimate Frisbee: Played for JV and Varsity 2013, Varsity team during both 2014/15</li>
+						<li>Service: Two week New Orleans service trip for house building and wetland restoration 2014. </li>
+						<li>French: 3 years of high-school French (currently in French 5), hosted French exchange student 2013, visited him in France 2014</li>
+						<li>Debate: Prepare arguments on new topic with partner each month, compete in bi-annual tournaments.</li>
+					</ul>
+
+					<!-- <a href = "www.google.com" alt = "google">this is a hyperlink</a> -->
+				</div>
+				<div class = "col-md-4">
+					<img class="img-responsive img-rounded" src = "https://pbs.twimg.com/media/B87m5uFCEAAd_OK.jpg:large"/>
+				</div>
 			</div>
-			<div id = "Downloads" class = "container-fluid">
+			<div class = "Downloads" class = "container-fluid">
 				<div class = "row">
 					<div class = "col-sm-12 col-md-6">
 						<h1 class = "">Centipede</h1>
@@ -64,15 +120,12 @@
 						I created <em>Renderer</em> from the ground up, as an expiriment to see if I could build a basic 3D engine. The program draws in wireframe, supports world rotation, scaling, and translation, and draws from an STL file. <em>Renderer</em> was build with the 2D Tkinter canvas and uses hardware accceleration for matrix multiplications, but all of the rendering and geometry is done by my engine. Click here to download a demo of the engine: <a href = "http://isaaczinda.com/Downloads/Install_Renderer.exe">Install Renderer</a>
 					</div>
 				</div>
-
-				
 			</div>
 		</div>
-		<footer class="footer navbar-fixed-bottom">
-			<div class="container">
-				<p class="text-muted">Created by Isaac Zinda on 1.5.15.</p>
-				<p class="text-muted">Built with <a href = "http://www.getbootstrap.com">Bootstrap</a> as a framework for layout, styling done with <a href = "http://bootswatch.com/darkly/">Bootswatch</a> and with pure css.</p>
-			</div>
+
+		<footer class="footer Home">
+			<p class="text-muted">Created by Isaac Zinda on 1.5.15.</p>
+			<p class="text-muted">Built with <a href = "http://www.getbootstrap.com">Bootstrap</a> as a framework for layout, styling done with <a href = "http://bootswatch.com/darkly/">Bootswatch</a> and with pure css.</p>
 		</footer>
 	</body>
 </html>
