@@ -9,7 +9,7 @@ body {
 
 #WordDoc
 {
-	margin-left: 20px;
+	margin-left: 0px;
 }
 
 #ImageBrand
@@ -55,6 +55,8 @@ h1 small
 {
 	margin-left: 0px;
 	margin-right: 0px;
+	padding-left: 0px !important;
+	padding-right: 0px !important;
 }
 
 #Content > div
