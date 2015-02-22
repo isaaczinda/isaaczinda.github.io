@@ -25,6 +25,11 @@ body
     background-image: url("http://www.isaaczinda.com/Home/img/Canyoneering.JPG");
 }
 
+.row
+{
+
+}
+
 
 h1 small
 {
@@ -46,6 +51,12 @@ h1 small
 	margin-bottom: 10px;
 }
 
+#Content > div > div
+{
+	margin-left: 0px;
+	margin-right: 0px;
+}
+
 #Content > div
 {
 	padding-top: 10px;
@@ -56,6 +67,7 @@ h1 small
 	border-radius: 0px;
 	padding-left: 10px;
 	padding-right: 10px;
+
 }
 
 #Downloads > div > div > button
