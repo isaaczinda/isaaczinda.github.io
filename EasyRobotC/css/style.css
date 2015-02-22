@@ -50,6 +50,13 @@
   cursor: move;
   display: inline-block;
   float: left;
+  
+  /*not selectable*/
+  -moz-user-select: none; 
+  -khtml-user-select: none; 
+  -webkit-user-select: none; 
+  -o-user-select: none; 
+
 }
 
 .command input {
