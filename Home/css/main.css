@@ -17,28 +17,26 @@ body
 {
     background-repeat: no-repeat;
     background-size:cover;
-
-    -webkit-animation: mymove 50s infinite; /* Chrome, Safari, Opera */ 
-    animation: mymove 50s infinite;
+    background-image: url("http://www.isaaczinda.com/Home/img/Canyoneering.JPG");
+    
+/*    -webkit-animation: mymove 50s infinite;  Chrome, Safari, Opera  
+    animation: mymove 50s infinite;*/
 }
 
-/* Chrome, Safari, Opera */ 
-@-webkit-keyframes mymove {
+/*@-webkit-keyframes mymove {
     0%   {background-image: url("http://www.isaaczinda.com/Home/img/Fishing.JPG");}
     45%   {background-image: url("http://www.isaaczinda.com/Home/img/Fishing.JPG");}
     50%  {background-image: url("http://www.isaaczinda.com/Home/img/Canyoneering.JPG");}
     95%   {background-image: url("http://www.isaaczinda.com/Home/img/Canyoneering.JPG");}
     100% {background-image: url("http://www.isaaczinda.com/Home/img/Fishing.JPG");}
 }
-
-/* Standard syntax */
 @keyframes mymove {
     0%   {background-image: url("http://www.isaaczinda.com/Home/img/Fishing.JPG");}
     45%   {background-image: url("http://www.isaaczinda.com/Home/img/Fishing.JPG");}
     50%  {background-image: url("http://www.isaaczinda.com/Home/img/Canyoneering.JPG");}
     95%   {background-image: url("http://www.isaaczinda.com/Home/img/Canyoneering.JPG");}
     100% {background-image: url("http://www.isaaczinda.com/Home/img/Fishing.JPG");}
-}
+}*/
 
 h1 small
 {
