@@ -5,6 +5,8 @@
 		<link rel="stylesheet" type="text/css" href="css/main.css">
 	</head>
 
+	<title>isaaczinda.com</title>
+
 	<script src = "js/jquery.js"></script>
 	<script src = "js/bootstrap.min.js"></script>
 	<script src = "js/main.js"></script>
@@ -21,9 +23,18 @@
 			    </div>
 				<ul class="nav navbar-nav navbar-right" id = "navbar">
 					<li onclick = 'LoadPage("Home", this)'><a href="#">Home</a></li>
-					<li onclick = 'LoadPage("Bio", this)'><a href="#">Bio</a></li>
+					<!-- <li onclick = 'LoadPage("Bio", this)'><a href="#">Bio</a></li> -->
 					<li onclick = 'LoadPage("Resume", this)'><a href="#">Resume</a></li>
 					<li onclick = 'LoadPage("Downloads", this)'><a href="#">Downloads</a></li>
+					<li class="dropdown">
+						<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Robotics<span class="caret"></span></a>
+						<ul class="dropdown-menu" role="menu">
+							<li><a href="http://www.seattleacademy.net/robots/final-ball-conveyor/">Ball Collector</a></li>
+							<li><a href="http://www.seattleacademy.net/robots/telescoping-arm/">Telescoping Arm</a></li>
+							<li><a href="http://www.seattleacademy.net/robots/gyro-roadblock/">Robot IMU</a></li>
+						</ul>
+					</li>
+
 					<li class="dropdown">
 						<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Web Projects<span class="caret"></span></a>
 						<ul class="dropdown-menu" role="menu">
