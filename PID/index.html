@@ -1,165 +1,86 @@
 <!DOCTYPE html>
 <html>
+	<head>
+		<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+		<link rel="stylesheet" type="text/css" href="css/main.css">
+	</head>
 	<body>
-		<canvas id="myCanvas" width="1000" height="400"
-			style="border:1px solid #000000;">
-		</canvas>
-		<div>
-			Proportional Constant (Must Be Positive): <input id = "P" type = "text"/>
+		<div class = "container-fluid">
+		<div class = "row">
+			<div class = "col-sm-6">
+				<canvas id="myCanvas" width="0" height="0"
+					style="border:1px solid #000000;">
+				</canvas>
+			</div>
+			<div class = "col-sm-6 content">
+				<form class="form-horizontal">
+				  <div class="form-group">
+					  <label class="col-sm-4 control-label">Proportional Constant</label>
+					  <div class = "col-sm-8">
+				    	  <input type="text" class="form-control" id="P" placeholder="Positive number like 1">
+				  		</div>
+				  </div>
+				  <div class="form-group">
+				      <label class="col-sm-4 control-label">Integral Constant</label>
+				      <div class = "col-sm-8">
+				    	  <input type="text" class="form-control" id="I" placeholder="Small negative number like -.1">
+				  	  </div>
+				  </div>
+
+				  <div class="form-group">
+				      <label class="col-sm-4 control-label">Derivitive Constant</label>
+				      <div class = "col-sm-8">
+				    	  <input type="text" class="form-control" id="D" placeholder="Negative number like -1">
+				  	  </div>
+				  </div>
+				  <div class="form-group">
+				  	<label class="col-sm-4 control-label">Error Magnitude</label>
+				  	<div class = "col-sm-7">
+						<input min = "0" max = "20" id = "ErrorMagnitude" type = "range"/>
+					</div>
+					<span class = "col-sm-1" id = "ErrorMagnitudeNumber">0</span>
+					
+				</div>
+				<div class="form-group">
+					<label class="col-sm-4 control-label">Systematic Error</label>
+					<div class = "col-sm-7">
+						<input min = "-5" max = "5" id = "SystematicError" type = "range"/>
+					</div>
+					<div class = "col-sm-1" id = "SystematicErrorNumber">0</div>
+					
+				</div>
+				</form>
+
+				<div class = "col-sm-8 col-sm-offset-4 graph-container">
+			      <button onclick = "Start()" class="graph btn btn-default">Graph</button>
+			  	</div>
+<!-- 
+
+				<div>
+					Proportional Constant (Must Be Positive): <input id = "P" type = "text"/>
+				</div>
+				<div>
+					Integral Constant (Must Be Negative): <input id = "I" type = "text"/>
+				</div>
+				<div>
+					Derivitive Constant (Must Be Negative): <input id = "D" type = "text"/>
+				</div>
+				<div>
+					Error Magnitude: <input min = "0" max = "20" id = "ErrorMagnitude" type = "range"/>
+					<span id = "ErrorMagnitudeNumber">0</span>
+				</div>
+				<div>
+					Systematic Error: <input min = "-5" max = "5" id = "SystematicError" type = "range"/>
+					<span id = "SystematicErrorNumber">0</span>
+				</div>
+				<div>
+					<button onclick = "Start()">Start Graph</button>
+				</div> -->
+			</div>
 		</div>
-		<div>
-			Integral Constant (Must Be Negative): <input id = "I" type = "text"/>
-		</div>
-		<div>
-			Derivitive Constant (Must Be Negative): <input id = "D" type = "text"/>
-		</div>
-		<div>
-			Error Magnitude: <input min = "0" max = "20" id = "ErrorMagnitude" type = "range"/>
-			<span id = "ErrorMagnitudeNumber">0</span>
-		</div>
-		<div>
-			Systematic Error: <input min = "-5" max = "5" id = "SystematicError" type = "range"/>
-			<span id = "SystematicErrorNumber">0</span>
-		</div>
-		<div>
-			<button onclick = "Start()">Start Graph</button>
-		</div>
+	</div>
 	</body>
-	<script src = "jquery.js"></script>
-	<script>
-		//setup canvas
-		CanvasPointer = document.getElementById("myCanvas");
-	    Canvas = CanvasPointer.getContext("2d");
-
-		// globals
-		var Sum = 0;
-		var PastPosition = 0;
-		var Ball = {"Position": 15.0, "Speed": 0.0, "Acceleration": 0.0};
-		var Time = 0;
-		var FirstStartup = true;
-		var ErrorMagnitude = 0;
-		var SystematicError = 1;
-
-    	var PConstant = 1; //make it positive and large
-    	var IConstant = -.5; //make it negative and small
-    	var DConstant = -1; //make it negitive and large
-
-		function Start()
-		{
-			//reset stuff
-			Time = 0;
-			Sum = 0;
-			Ball = {"Position": 10.0, "Speed": -20.0, "Acceleration": 0.0};
-			PastPosition = 0;
-			Canvas.clearRect(0, 0, CanvasPointer.width, CanvasPointer.height);
-
-			if(FirstStartup)
-			{
-				// sets the update event caller
-				setInterval(Update, 20);
-				setInterval(Randomize, 100);
-			}
-
-		    //draw the initial line
-		    DrawLine(-CanvasPointer.width / 2, 100, CanvasPointer.width / 2, 100);
-
-		    // get constants from text boxes
-		    PConstant = $("#P").val();
-		    IConstant = $("#I").val();
-		    DConstant = $("#D").val();
-
-		    ErrorMagnitude = $("#ErrorMagnitude").val();
-		    SystematicError = $("#SystematicError").val() / 10;
-
-		    FirstStartup = false;
-		}
-
-		$("#SystematicError").change(function(){
-			$("#SystematicErrorNumber").html($("#SystematicError").val() / 10);
-		});
-
-		$("#ErrorMagnitude").change(function(){
-			$("#ErrorMagnitudeNumber").html($("#ErrorMagnitude").val());
-		});
-
-	    function PID(CurrentPosition, TargetPosition)
-	    {
-	    	// difference between current and correct
-	    	var P = TargetPosition - CurrentPosition;
-
-	    	// sum of the historic error
-	    	var I = Sum;
-
-	    	// current slope (want it to be 0)
-	    	var D = (CurrentPosition - PastPosition) / .020;
-
-	    	// calculates stuff for the algorithm in the future
-	    	Sum += (CurrentPosition - TargetPosition) * .020;
-	    	PastPosition = CurrentPosition;
-
-	    	// changes the acceleartion based on the equation
-	    	var Acceleration = P * PConstant + I * IConstant + D * DConstant;
-	    	Ball["Acceleration"] = Acceleration;
-	    }
-
-	    // function to draw a ball
-	    function DrawCircle(X, Y, Radius)
-		{
-			//this part converts X and Y to canvas coordinates
-			X += CanvasPointer.width / 2;
-			Y = -Y + CanvasPointer.height / 2;
-
-			//this part draws the circle
-		    Canvas.fillStyle = 'blue';
-		    Canvas.beginPath();
-		    Canvas.arc(X, Y,Radius, 0, Math.PI * 2, true);
-		    Canvas.fill();
-		}
-
-		function DrawLine(XOne, YOne, XTwo, YTwo)
-		{
-			XOne += CanvasPointer.width / 2;
-			YOne = -YOne + CanvasPointer.height / 2;
-
-			XTwo += CanvasPointer.width / 2;
-			YTwo = -YTwo + CanvasPointer.height / 2;
-
-		    Canvas.beginPath();
-		    Canvas.moveTo(XOne, YOne);
-		    Canvas.lineTo(XTwo, YTwo);
-		    Canvas.stroke();
-		}
-
-		// updates simulation
-		function Update()
-		{
-			// clear canvas
-			Canvas.clearRect(0, CanvasPointer.height / 2 - 10, CanvasPointer.width, 20);
-
-			//draw line
-			DrawLine(0, 15, 0, -15);
-
-			// draw circle
-			DrawCircle(Ball["Position"], 0, 10);
-
-			// calculate ball position
-			Ball["Position"] += Ball["Speed"] * .020;
-			Ball["Speed"] += Ball["Acceleration"] * .020;
-
-			//increment the time
-			Time += 20;
-
-			//graph the stuff
-			DrawCircle(Time / 100 - CanvasPointer.width / 2, Ball["Position"] + 100, 1)
-
-			//use the PID
-			PID(Ball["Position"], 0);
-		}
-
-		function Randomize()
-		{
-			//we gotta randomize some of it to make it more lifelike
-			Ball["Speed"] += (Math.random() - SystematicError -.5) * ErrorMagnitude;
-		}
-	</script>
+	<script src = "js/jquery.js"></script>
+	<script src="js/bootstrap-toolkit.min.js"></script>
+	<script src = "js/main.js"></script>
 </html>

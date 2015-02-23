@@ -1,0 +1,28 @@
+canvas
+{
+	margin: 10px;
+	border-radius: 5px;
+}
+
+.content
+{
+	/*margin-right: -30px !important;*/
+	padding-top: 10px;
+	/*padding-right: 0px !important;*/
+}
+
+.row > div
+{
+	/*margin: 0px !important;*/
+}
+
+.graph
+{
+	float: left;
+}
+
+.graph-container
+{
+	padding-right: 0px;
+	padding-left: 10px;
+}
