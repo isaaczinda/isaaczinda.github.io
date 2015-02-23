@@ -15,11 +15,6 @@ var PConstant = 1; //make it positive and large
 var IConstant = -.1; //make it negative and small
 var DConstant = -1; //make it negitive and large
 
-$(document).ready(function()
-{
-	$('#myModal').modal('show');
-});
-
 //resize the canvas when the window size changes and on load
 (function($, viewport)
 {
@@ -85,6 +80,7 @@ function Start()
 
 $(document).ready(function()
 {
+	console.log("set mag");
 	$("#ErrorMagnitudeNumber").html($("#ErrorMagnitude").val());
 	$("#SystematicErrorNumber").html($("#SystematicError").val() / 10);
 
