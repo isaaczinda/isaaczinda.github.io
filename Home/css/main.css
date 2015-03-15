@@ -25,11 +25,6 @@ body
     background-image: url("http://www.isaaczinda.com/Home/img/Canyoneering.JPG");
 }
 
-.row
-{
-
-}
-
 
 h1 small
 {
@@ -116,6 +111,12 @@ footer p
 
 .page-header
 {
-	margin-top: 10px;
+	margin-top: 0px;
 	margin-bottom: 0px;
+}
+
+.page-header > h1
+{
+	margin-top: 5px;
+	margin-bottom: 5px;
 }
