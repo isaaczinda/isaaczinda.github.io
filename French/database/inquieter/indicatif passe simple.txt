@@ -1,6 +1,6 @@
-j'inquietai
-tu inquietas
-il/elle inquieta
-nous inquiet&acirc;mes
-vous inquiet&acirc;tes
-ils/elles inquiet&egrave;rent
+j'inqui&eacute;tai
+tu inqui&eacute;tas
+il/elle inqui&eacute;ta
+nous inqui&eacute;t&acirc;mes
+vous inqui&eacute;t&acirc;tes
+ils/elles inqui&eacute;t&egrave;rent

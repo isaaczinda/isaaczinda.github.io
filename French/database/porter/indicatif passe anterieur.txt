@@ -1,6 +1,6 @@
-j'eus porte
-tu eus porte
-il/elle eut porte
-nous eumes porte
-vous eutes porte
-ils/elles eurent porte
+j'eus port&eacute;
+tu eus port&eacute;
+il/elle eut port&eacute;
+nous e&ucirc;mes port&eacute;
+vous e&ucirc;tes port&eacute;
+ils/elles eurent port&eacute;

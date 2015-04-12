@@ -1,6 +1,6 @@
-je defends
-tu defends
-il/elle defend
-nous defendons
-vous defendez
-ils/elles defendent
+je d&eacute;fends
+tu d&eacute;fends
+il/elle d&eacute;fend
+nous d&eacute;fendons
+vous d&eacute;fendez
+ils/elles d&eacute;fendent

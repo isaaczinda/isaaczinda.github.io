@@ -1,6 +1,6 @@
-j'ai achete
-tu as achete
-il/elle a achete
-nous avons achete
-vous avez achete
-ils/elles ont achete
+j'ai achet&eacute;
+tu as achet&eacute;
+il/elle a achet&eacute;
+nous avons achet&eacute;
+vous avez achet&eacute;
+ils/elles ont achet&eacute;

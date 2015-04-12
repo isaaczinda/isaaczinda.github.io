@@ -1,6 +1,6 @@
 j'entendisse
 tu entendisses
-il/elle entendit
+il/elle entend&icirc;t
 nous entendissions
 vous entendissiez
 ils/elles entendissent

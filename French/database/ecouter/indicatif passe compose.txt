@@ -1,6 +1,6 @@
-j'ai ecoute
-tu as ecoute
-il/elle a ecoute
-nous avons ecoute
-vous avez ecoute
-ils/elles ont ecoute
+j'ai &eacute;cout&eacute;
+tu as &eacute;cout&eacute;
+il/elle a &eacute;cout&eacute;
+nous avons &eacute;cout&eacute;
+vous avez &eacute;cout&eacute;
+ils/elles ont &eacute;cout&eacute;

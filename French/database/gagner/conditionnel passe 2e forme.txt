@@ -1,6 +1,6 @@
-j'eusse gagne
-tu eusses gagne
-il/elle eut gagne
-nous eussions gagne
-vous eussiez gagne
-ils/elles eussent gagne
+j'eusse gagn&eacute;
+tu eusses gagn&eacute;
+il/elle e&ucirc;t gagn&eacute;
+nous eussions gagn&eacute;
+vous eussiez gagn&eacute;
+ils/elles eussent gagn&eacute;

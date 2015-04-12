@@ -1,6 +1,6 @@
-j'ai aide
-tu as aide
-il/elle a aide
-nous avons aide
-vous avez aide
-ils/elles ont aide
+j'ai aid&eacute;
+tu as aid&eacute;
+il/elle a aid&eacute;
+nous avons aid&eacute;
+vous avez aid&eacute;
+ils/elles ont aid&eacute;

@@ -1,6 +1,6 @@
-j'avais gagne
-tu avais gagne
-il/elle avait gagne
-nous avions gagne
-vous aviez gagne
-ils/elles avaient gagne
+j'avais gagn&eacute;
+tu avais gagn&eacute;
+il/elle avait gagn&eacute;
+nous avions gagn&eacute;
+vous aviez gagn&eacute;
+ils/elles avaient gagn&eacute;

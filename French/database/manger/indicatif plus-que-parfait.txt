@@ -1,6 +1,6 @@
-j'avais mange
-tu avais mange
-il/elle avait mange
-nous avions mange
-vous aviez mange
-ils/elles avaient mange
+j'avais mang&eacute;
+tu avais mang&eacute;
+il/elle avait mang&eacute;
+nous avions mang&eacute;
+vous aviez mang&eacute;
+ils/elles avaient mang&eacute;

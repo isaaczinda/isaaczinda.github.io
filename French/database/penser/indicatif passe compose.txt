@@ -1,6 +1,6 @@
-j'ai pense
-tu as pense
-il/elle a pense
-nous avons pense
-vous avez pense
-ils/elles ont pense
+j'ai pens&eacute;
+tu as pens&eacute;
+il/elle a pens&eacute;
+nous avons pens&eacute;
+vous avez pens&eacute;
+ils/elles ont pens&eacute;

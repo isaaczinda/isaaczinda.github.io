@@ -1,6 +1,6 @@
 j'eus obtenu
 tu eus obtenu
 il/elle eut obtenu
-nous eumes obtenu
-vous eutes obtenu
+nous e&ucirc;mes obtenu
+vous e&ucirc;tes obtenu
 ils/elles eurent obtenu

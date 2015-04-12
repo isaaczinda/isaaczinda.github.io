@@ -1,6 +1,6 @@
-je verifie
-tu verifies
-il/elle verifie
-nous verifions
-vous verifiez
-ils/elles verifient
+je v&eacute;rifie
+tu v&eacute;rifies
+il/elle v&eacute;rifie
+nous v&eacute;rifions
+vous v&eacute;rifiez
+ils/elles v&eacute;rifient

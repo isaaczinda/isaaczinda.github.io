@@ -1,6 +1,6 @@
-j'aie sonne
-tu aies sonne
-il/elle ait sonne
-nous ayons sonne
-vous ayez sonne
-ils/elles aient sonne
+j'aie sonn&eacute;
+tu aies sonn&eacute;
+il/elle ait sonn&eacute;
+nous ayons sonn&eacute;
+vous ayez sonn&eacute;
+ils/elles aient sonn&eacute;

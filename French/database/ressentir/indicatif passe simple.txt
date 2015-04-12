@@ -1,6 +1,6 @@
 je ressentis
 tu ressentis
 il/elle ressentit
-nous ressentimes
-vous ressentites
+nous ressent&icirc;mes
+vous ressent&icirc;tes
 ils/elles ressentirent

@@ -1,6 +1,6 @@
-j'etudie
-tu etudies
-il/elle etudie
-nous etudions
-vous etudiez
-ils/elles etudient
+j'&eacute;tudie
+tu &eacute;tudies
+il/elle &eacute;tudie
+nous &eacute;tudions
+vous &eacute;tudiez
+ils/elles &eacute;tudient

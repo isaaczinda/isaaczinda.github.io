@@ -1,8 +1,8 @@
-je serai rentre
-tu seras rentre
-il sera rentre
-elle sera rentree
-nous serons rentres
-vous serez rentres
-ils seront rentres
-elles seront rentrees
+je serai rentr&eacute;
+tu seras rentr&eacute;
+il sera rentr&eacute;
+elle sera rentr&eacute;e
+nous serons rentr&eacute;s
+vous serez rentr&eacute;s
+ils seront rentr&eacute;s
+elles seront rentr&eacute;es

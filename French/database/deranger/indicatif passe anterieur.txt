@@ -1,6 +1,6 @@
-j'eus derange
-tu eus derange
-il/elle eut derange
-nous eumes derange
-vous eutes derange
-ils/elles eurent derange
+j'eus d&eacute;rang&eacute;
+tu eus d&eacute;rang&eacute;
+il/elle eut d&eacute;rang&eacute;
+nous e&ucirc;mes d&eacute;rang&eacute;
+vous e&ucirc;tes d&eacute;rang&eacute;
+ils/elles eurent d&eacute;rang&eacute;

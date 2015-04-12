@@ -1,6 +1,6 @@
 je ravis
 tu ravis
 il/elle ravit
-nous ravimes
-vous ravites
+nous rav&icirc;mes
+vous rav&icirc;tes
 ils/elles ravirent

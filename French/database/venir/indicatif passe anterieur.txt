@@ -2,7 +2,7 @@ je fus venu
 tu fus venu
 il fut venu
 elle fut venue
-nous fumes venus
-vous futes venus
+nous f&ucirc;mes venus
+vous f&ucirc;tes venus
 ils furent venus
 elles furent venues

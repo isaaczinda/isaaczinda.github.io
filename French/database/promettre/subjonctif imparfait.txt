@@ -1,6 +1,6 @@
 je promisse
 tu promisses
-il/elle promit
+il/elle prom&icirc;t
 nous promissions
 vous promissiez
 ils/elles promissent

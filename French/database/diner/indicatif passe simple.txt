@@ -1,6 +1,6 @@
-je dinai
-tu dinas
-il/elle dina
-nous din&acirc;mes
-vous din&acirc;tes
-ils/elles din&egrave;rent
+je d&icirc;nai
+tu d&icirc;nas
+il/elle d&icirc;na
+nous d&icirc;n&acirc;mes
+vous d&icirc;n&acirc;tes
+ils/elles d&icirc;n&egrave;rent

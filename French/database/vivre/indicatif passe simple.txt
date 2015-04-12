@@ -1,6 +1,6 @@
-je vecus
-tu vecus
-il/elle vecut
-nous vecumes
-vous vecutes
-ils/elles vecurent
+je v&eacute;cus
+tu v&eacute;cus
+il/elle v&eacute;cut
+nous v&eacute;c&ucirc;mes
+vous v&eacute;c&ucirc;tes
+ils/elles v&eacute;curent

@@ -1,6 +1,6 @@
-j'echappe
-tu echappes
-il/elle echappe
-nous echappons
-vous echappez
-ils/elles echappent
+j'&eacute;chappe
+tu &eacute;chappes
+il/elle &eacute;chappe
+nous &eacute;chappons
+vous &eacute;chappez
+ils/elles &eacute;chappent

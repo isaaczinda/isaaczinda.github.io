@@ -1,6 +1,6 @@
-j'ai aime
-tu as aime
-il/elle a aime
-nous avons aime
-vous avez aime
-ils/elles ont aime
+j'ai aim&eacute;
+tu as aim&eacute;
+il/elle a aim&eacute;
+nous avons aim&eacute;
+vous avez aim&eacute;
+ils/elles ont aim&eacute;

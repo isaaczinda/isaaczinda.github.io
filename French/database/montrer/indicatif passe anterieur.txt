@@ -1,6 +1,6 @@
-j'eus montre
-tu eus montre
-il/elle eut montre
-nous eumes montre
-vous eutes montre
-ils/elles eurent montre
+j'eus montr&eacute;
+tu eus montr&eacute;
+il/elle eut montr&eacute;
+nous e&ucirc;mes montr&eacute;
+vous e&ucirc;tes montr&eacute;
+ils/elles eurent montr&eacute;

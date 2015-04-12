@@ -1,6 +1,6 @@
 j'offris
 tu offris
 il/elle offrit
-nous offrimes
-vous offrites
+nous offr&icirc;mes
+vous offr&icirc;tes
 ils/elles offrirent

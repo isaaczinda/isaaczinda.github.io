@@ -1,6 +1,6 @@
-j'aie aide
-tu aies aide
-il/elle ait aide
-nous ayons aide
-vous ayez aide
-ils/elles aient aide
+j'aie aid&eacute;
+tu aies aid&eacute;
+il/elle ait aid&eacute;
+nous ayons aid&eacute;
+vous ayez aid&eacute;
+ils/elles aient aid&eacute;

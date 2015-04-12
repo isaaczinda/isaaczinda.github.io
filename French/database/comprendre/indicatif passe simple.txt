@@ -1,6 +1,6 @@
 je compris
 tu compris
 il/elle comprit
-nous comprimes
-vous comprites
+nous compr&icirc;mes
+vous compr&icirc;tes
 ils/elles comprirent

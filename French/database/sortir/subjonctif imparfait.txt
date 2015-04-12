@@ -1,6 +1,7 @@
 je sortisse
 tu sortisses
-il/elle sortit
+il/elle sort&icirc;t
+
 nous sortissions
 vous sortissiez
 ils sortissent

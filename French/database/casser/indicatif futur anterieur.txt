@@ -1,6 +1,6 @@
-j'aurai casse
-tu auras casse
-il/elle aura casse
-nous aurons casse
-vous aurez casse
-ils/elles auront casse
+j'aurai cass&eacute;
+tu auras cass&eacute;
+il/elle aura cass&eacute;
+nous aurons cass&eacute;
+vous aurez cass&eacute;
+ils/elles auront cass&eacute;

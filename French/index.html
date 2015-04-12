@@ -5,24 +5,23 @@
 	</head>
 	
 	<body>
-
-		<div class="row">
-		  <div class="col-lg-6">
-		    <div class="input-group">
-		      <div class="input-group-btn">
-		        <button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown" aria-expanded="false">Action <span class="caret"></span></button>
-		        <ul class="dropdown-menu" role="menu">
-		          <li><a href="#">Passe Compose</a></li>
-		          <li><a href="#">Imparfait</a></li>
-		        </ul>
-		      </div><!-- /btn-group -->
-		      <input type="text" id = "SearchTextbox" class="form-control" placeholder="Search for...">
-		      <span class="input-group-btn">
-		        <button class="btn btn-default btn-primary" id = "SearchButton" type="button">Search</button>
-		      </span>
-		    </div><!-- /input-group -->
-		  </div><!-- /.col-lg-6 -->
-		</div><!-- /.row -->
+		<div class = "container-fluid">
+			<div class="jumbotron">
+			  <h1>Welcome to the French Verb Conjugator</h1>
+			  <p>The database includes over 600 verbs and </p>
+			  <p><a class="btn btn-primary btn-lg" href="#" role="button">Learn more</a></p>
+			</div>
+			<div class="row">
+			  <div class="col-lg-6">
+			    <div class="input-group">
+			      <input type="text" id = "SearchTextbox" class="form-control input-lg" placeholder="Search for french verbs...">
+			      <span class="input-group-btn">
+			        <button class="btn btn-lg btn-primary" id = "SearchButton" type="button">Search</button>
+			      </span>
+			    </div><!-- /input-group -->
+			  </div><!-- /.col-lg-6 -->
+			</div><!-- /.row -->
+		</div>
 
 		<div id = "Verbs"></div>
 	</body>
@@ -32,6 +31,25 @@
 
 	<script>
 		var Tenses = new Array("indicatif present", "indicatif futur simple", "indicatif passe compose", "indicatif plus-que-parfait", "indicatif imparfait");
+		var VerbList = "";
+
+		function GetVerbList()
+		{
+			var File = "database/VerbList.txt";
+
+			$.ajax(
+		    {
+				url: File,
+				beforeSend: function(xhr) 
+				{
+					xhr.overrideMimeType("text/plain; charset=utf8");
+				}
+			}
+			).done(function(data) 
+			{
+				VerbList = data;
+			});
+		}
 
 		function DatabaseFile(Verb, Conjugation)
 		{
@@ -65,7 +83,13 @@
 
 		function Search()
 		{
-			var Verb = $("#SearchTextbox").val();
+			var Verb = $("#SearchTextbox").val().toLowerCase();
+
+			if(!(VerbList.indexOf(Verb) > 0))
+			{
+				alert("That's not a french verb (we know of).");
+				break;
+			}
 
 			$("#Verbs").empty();
 
@@ -78,6 +102,8 @@
 
 		$(document).ready(function()
 		{
+			GetVerbList();
+
 			$("#SearchTextbox").bind('keypress', function(e) 
 			{
 				if(e.keyCode==13)

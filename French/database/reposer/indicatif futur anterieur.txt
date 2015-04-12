@@ -1,6 +1,6 @@
-j'aurai repose
-tu auras repose
-il/elle aura repose
-nous aurons repose
-vous aurez repose
-ils/elles auront repose
+j'aurai repos&eacute;
+tu auras repos&eacute;
+il/elle aura repos&eacute;
+nous aurons repos&eacute;
+vous aurez repos&eacute;
+ils/elles auront repos&eacute;

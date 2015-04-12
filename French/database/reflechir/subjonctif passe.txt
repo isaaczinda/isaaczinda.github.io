@@ -1,6 +1,6 @@
-j'aie reflechi
-tu aies reflechi
-il/elle ait reflechi
-nous ayons reflechi
-vous ayez reflechi
-ils/elles aient reflechi
+j'aie r&eacute;fl&eacute;chi
+tu aies r&eacute;fl&eacute;chi
+il/elle ait r&eacute;fl&eacute;chi
+nous ayons r&eacute;fl&eacute;chi
+vous ayez r&eacute;fl&eacute;chi
+ils/elles aient r&eacute;fl&eacute;chi

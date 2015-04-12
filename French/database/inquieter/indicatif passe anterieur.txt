@@ -1,6 +1,6 @@
-j'eus inquiete
-tu eus inquiete
-il/elle eut inquiete
-nous eumes inquiete
-vous eutes inquiete
-ils/elles eurent inquiete
+j'eus inqui&eacute;t&eacute;
+tu eus inqui&eacute;t&eacute;
+il/elle eut inqui&eacute;t&eacute;
+nous e&ucirc;mes inqui&eacute;t&eacute;
+vous e&ucirc;tes inqui&eacute;t&eacute;
+ils/elles eurent inqui&eacute;t&eacute;

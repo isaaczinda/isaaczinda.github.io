@@ -1,6 +1,6 @@
-j'eusse lance
-tu eusses lance
-il/elle eut lance
-nous eussions lance
-vous eussiez lance
-ils/elles eussent lance
+j'eusse lanc&eacute;
+tu eusses lanc&eacute;
+il/elle e&ucirc;t lanc&eacute;
+nous eussions lanc&eacute;
+vous eussiez lanc&eacute;
+ils/elles eussent lanc&eacute;

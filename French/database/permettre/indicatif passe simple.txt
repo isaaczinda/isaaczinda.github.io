@@ -1,6 +1,6 @@
 je permis
 tu permis
 il/elle permit
-nous permimes
-vous permites
+nous perm&icirc;mes
+vous perm&icirc;tes
 ils/elles permirent

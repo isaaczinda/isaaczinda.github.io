@@ -1,8 +1,8 @@
-j'etais revenu
-tu etais revenu
-il etait revenu
-elle etait revenue
-nous etions revenus
-vous etiez revenus
-ils etaient  revenus
-elles etaient revenues
+j'&eacute;tais revenu
+tu &eacute;tais revenu
+il &eacute;tait revenu
+elle &eacute;tait revenue
+nous &eacute;tions revenus
+vous &eacute;tiez revenus
+ils &eacute;taient  revenus
+elles &eacute;taient revenues

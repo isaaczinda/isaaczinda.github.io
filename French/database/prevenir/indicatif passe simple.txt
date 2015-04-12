@@ -1,6 +1,6 @@
-je previns
-tu previns
-il/elle prevint
-nous previnmes
-vous previntes
-ils/elles previnrent
+je pr&eacute;vins
+tu pr&eacute;vins
+il/elle pr&eacute;vint
+nous pr&eacute;v&icirc;nmes
+vous pr&eacute;v&icirc;ntes
+ils/elles pr&eacute;vinrent

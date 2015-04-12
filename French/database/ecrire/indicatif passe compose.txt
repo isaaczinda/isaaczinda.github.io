@@ -1,6 +1,6 @@
-j'ai ecrit
-tu as ecrit
-il/elle a ecrit
-nous avons ecrit
-vous avez ecrit
-ils/elles ont ecrit
+j'ai &eacute;crit
+tu as &eacute;crit
+il/elle a &eacute;crit
+nous avons &eacute;crit
+vous avez &eacute;crit
+ils/elles ont &eacute;crit

@@ -1,6 +1,6 @@
-je creerai
-tu creeras
-il/elle creera
-nous creerons
-vous creerez
-ils/elles creeront
+je cr&eacute;erai
+tu cr&eacute;eras
+il/elle cr&eacute;era
+nous cr&eacute;erons
+vous cr&eacute;erez
+ils/elles cr&eacute;eront

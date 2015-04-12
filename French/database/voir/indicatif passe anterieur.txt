@@ -1,6 +1,6 @@
 j'eus vu
 tu eus vu
 il/elle eut vu
-nous eumes vu
-vous eutes vu
+nous e&ucirc;mes vu
+vous e&ucirc;tes vu
 ils/elles eurent vu

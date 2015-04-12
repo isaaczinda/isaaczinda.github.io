@@ -1,6 +1,6 @@
-j'eus remarque
-tu eus remarque
-il/elle eut remarque
-nous eumes remarque
-vous eutes remarque
-ils/elles eurent remarque
+j'eus remarqu&eacute;
+tu eus remarqu&eacute;
+il/elle eut remarqu&eacute;
+nous e&ucirc;mes remarqu&eacute;
+vous e&ucirc;tes remarqu&eacute;
+ils/elles eurent remarqu&eacute;

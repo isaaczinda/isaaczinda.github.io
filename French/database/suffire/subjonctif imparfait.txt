@@ -1,6 +1,6 @@
 je suffisse
 tu suffisses
-il/elle suffit
+il/elle suff&icirc;t
 nous suffissions
 vous suffissiez
 ils/elles suffissent

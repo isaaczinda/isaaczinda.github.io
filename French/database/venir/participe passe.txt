@@ -1,2 +1,2 @@
 venu
-etant venu
+&eacute;tant venu

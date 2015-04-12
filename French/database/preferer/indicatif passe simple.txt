@@ -1,6 +1,6 @@
-je preferai
-tu preferas
-il/elle prefera
-nous prefer&acirc;mes
-vous prefer&acirc;tes
-ils/elles prefer&egrave;rent
+je pr&eacute;f&eacute;rai
+tu pr&eacute;f&eacute;ras
+il/elle pr&eacute;f&eacute;ra
+nous pr&eacute;f&eacute;r&acirc;mes
+vous pr&eacute;f&eacute;r&acirc;tes
+ils/elles pr&eacute;f&eacute;r&egrave;rent

@@ -1,6 +1,6 @@
-j'aie occupe
-tu aies occupe
-il/elle ait occupe
-nous ayons occupe
-vous ayez occupe
-ils/elles aient occupe
+j'aie occup&eacute;
+tu aies occup&eacute;
+il/elle ait occup&eacute;
+nous ayons occup&eacute;
+vous ayez occup&eacute;
+ils/elles aient occup&eacute;

@@ -1,6 +1,6 @@
-j'eus oublie
-tu eus oublie
-il/elle eut oublie
-nous eumes oublie
-vous eutes oublie
-ils/elles eurent oublie
+j'eus oubli&eacute;
+tu eus oubli&eacute;
+il/elle eut oubli&eacute;
+nous e&ucirc;mes oubli&eacute;
+vous e&ucirc;tes oubli&eacute;
+ils/elles eurent oubli&eacute;

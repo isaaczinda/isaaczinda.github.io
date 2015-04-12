@@ -1,6 +1,6 @@
-j'aie ecrit
-tu aies ecrit
-il/elle ait ecrit
-nous ayons ecrit
-vous ayez ecrit
-ils/elles aient ecrit
+j'aie &eacute;crit
+tu aies &eacute;crit
+il/elle ait &eacute;crit
+nous ayons &eacute;crit
+vous ayez &eacute;crit
+ils/elles aient &eacute;crit

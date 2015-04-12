@@ -1,8 +1,8 @@
-je fusse alle
-tu fusses alle
-il fut alle
-elle fut allee
-nous fussions alles
-vous fussiez alles
-ils fussent alles
-elles fussent allees
+je fusse all&eacute;
+tu fusses all&eacute;
+il f&ucirc;t all&eacute;
+elle f&ucirc;t all&eacute;e
+nous fussions all&eacute;s
+vous fussiez all&eacute;s
+ils fussent all&eacute;s
+elles fussent all&eacute;es

@@ -1,6 +1,6 @@
-j'ai decide
-tu as decide
-il/elle a decide
-nous avons decide
-vous avez decide
-ils/elles ont decide
+j'ai d&eacute;cid&eacute;
+tu as d&eacute;cid&eacute;
+il/elle a d&eacute;cid&eacute;
+nous avons d&eacute;cid&eacute;
+vous avez d&eacute;cid&eacute;
+ils/elles ont d&eacute;cid&eacute;

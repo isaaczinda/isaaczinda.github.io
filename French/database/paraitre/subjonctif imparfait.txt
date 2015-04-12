@@ -1,6 +1,6 @@
 je parusse
 tu parusses
-il/elle parut
+il/elle par&ucirc;t
 nous parussions
 vous parussiez
 ils/elles parussent

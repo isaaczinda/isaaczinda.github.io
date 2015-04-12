@@ -1,6 +1,6 @@
-j'ai remercie
-tu as remercie
-il/elle a remercie
-nous avons remercie
-vous avez remercie
-ils/elles ont remercie
+j'ai remerci&eacute;
+tu as remerci&eacute;
+il/elle a remerci&eacute;
+nous avons remerci&eacute;
+vous avez remerci&eacute;
+ils/elles ont remerci&eacute;

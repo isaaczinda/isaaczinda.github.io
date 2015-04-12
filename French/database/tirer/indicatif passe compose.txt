@@ -1,6 +1,6 @@
-j'ai tire
-tu as tire
-il/elle a tire
-nous avons tire
-vous avez tire
-ils/elles ont tire
+j'ai tir&eacute;
+tu as tir&eacute;
+il/elle a tir&eacute;
+nous avons tir&eacute;
+vous avez tir&eacute;
+ils/elles ont tir&eacute;

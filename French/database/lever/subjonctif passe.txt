@@ -1,6 +1,6 @@
-j'aie leve
-tu aies leve
-il/elle ait leve
-nous ayons leve
-vous ayez leve
-ils/elles aient leve
+j'aie lev&eacute;
+tu aies lev&eacute;
+il/elle ait lev&eacute;
+nous ayons lev&eacute;
+vous ayez lev&eacute;
+ils/elles aient lev&eacute;

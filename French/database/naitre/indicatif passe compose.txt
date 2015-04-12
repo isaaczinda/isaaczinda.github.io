@@ -1,8 +1,8 @@
-je suis ne
-tu es ne
-il est ne
-elle est nee
-nous sommes nes
-vous &ecirc;tes nes
-ils sont nes
-elles sont nees
+je suis n&eacute;
+tu es n&eacute;
+il est n&eacute;
+elle est n&eacute;e
+nous sommes n&eacute;s
+vous &ecirc;tes n&eacute;s
+ils sont n&eacute;s
+elles sont n&eacute;es

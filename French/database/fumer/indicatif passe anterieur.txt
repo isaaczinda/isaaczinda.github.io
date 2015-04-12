@@ -1,6 +1,6 @@
-j'eus fume
-tu eus fume
-il/elle eut fume
-nous eumes fume
-vous eutes fume
-ils/elles eurent fume
+j'eus fum&eacute;
+tu eus fum&eacute;
+il/elle eut fum&eacute;
+nous e&ucirc;mes fum&eacute;
+vous e&ucirc;tes fum&eacute;
+ils/elles eurent fum&eacute;

@@ -1,6 +1,6 @@
 j'eus permis
 tu eus permis
 il/elle eut permis
-nous eumes permis
-vous eutes permis
+nous e&ucirc;mes permis
+vous e&ucirc;tes permis
 ils/elles eurent permis

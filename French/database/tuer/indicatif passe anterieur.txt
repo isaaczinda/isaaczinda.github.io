@@ -1,6 +1,6 @@
-j'eus tue
-tu eus tue
-il/elle eut tue
-nous eumes tue
-vous eutes tue
-ils/elles eurent tue
+j'eus tu&eacute;
+tu eus tu&eacute;
+il/elle eut tu&eacute;
+nous e&ucirc;mes tu&eacute;
+vous e&ucirc;tes tu&eacute;
+ils/elles eurent tu&eacute;

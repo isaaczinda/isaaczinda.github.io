@@ -1,6 +1,6 @@
-je dinasse
-tu dinasses
-il/elle din&acirc;t
-nous dinassions
-vous dinassiez
-ils/elles dinassent
+je d&icirc;nasse
+tu d&icirc;nasses
+il/elle d&icirc;n&acirc;t
+nous d&icirc;nassions
+vous d&icirc;nassiez
+ils/elles d&icirc;nassent

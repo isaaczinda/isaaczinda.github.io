@@ -1,6 +1,6 @@
-j'ai pousse
-tu as pousse
-il/elle a pousse
-nous avons pousse
-vous avez pousse
-ils/elles ont pousse
+j'ai pouss&eacute;
+tu as pouss&eacute;
+il/elle a pouss&eacute;
+nous avons pouss&eacute;
+vous avez pouss&eacute;
+ils/elles ont pouss&eacute;

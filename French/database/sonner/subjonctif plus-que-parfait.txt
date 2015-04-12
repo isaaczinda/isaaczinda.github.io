@@ -1,6 +1,6 @@
-j'eusse sonne
-tu eusses sonne
-il/elle eut sonne
-nous eussions sonne
-vous eussiez sonne
-ils/elles eussent sonne
+j'eusse sonn&eacute;
+tu eusses sonn&eacute;
+il/elle e&ucirc;t sonn&eacute;
+nous eussions sonn&eacute;
+vous eussiez sonn&eacute;
+ils/elles eussent sonn&eacute;

@@ -1,6 +1,6 @@
 je vis
 tu vis
 il/elle vit
-nous vimes
-vous vites
+nous v&icirc;mes
+vous v&icirc;tes
 ils/elles virent

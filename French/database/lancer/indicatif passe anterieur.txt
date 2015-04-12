@@ -1,6 +1,6 @@
-j'eus lance
-tu eus lance
-il/elle eut lance
-nous eumes lance
-vous eutes lance
-ils/elles eurent lance
+j'eus lanc&eacute;
+tu eus lanc&eacute;
+il/elle eut lanc&eacute;
+nous e&ucirc;mes lanc&eacute;
+vous e&ucirc;tes lanc&eacute;
+ils/elles eurent lanc&eacute;

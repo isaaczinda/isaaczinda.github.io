@@ -1,6 +1,6 @@
-j'aurais habite
-tu aurais habite
-il/elle aurait habite
-nous aurions habite
-vous auriez habite
-ils/elles auraient habite
+j'aurais habit&eacute;
+tu aurais habit&eacute;
+il/elle aurait habit&eacute;
+nous aurions habit&eacute;
+vous auriez habit&eacute;
+ils/elles auraient habit&eacute;

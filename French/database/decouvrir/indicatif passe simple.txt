@@ -1,6 +1,6 @@
-je decouvris
-tu decouvris
-il/elle decouvrit
-nous decouvrimes
-vous decouvrites
-ils/elles decouvrirent
+je d&eacute;couvris
+tu d&eacute;couvris
+il/elle d&eacute;couvrit
+nous d&eacute;couvr&icirc;mes
+vous d&eacute;couvr&icirc;tes
+ils/elles d&eacute;couvrirent

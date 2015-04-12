@@ -1,6 +1,6 @@
-j'eus sonne
-tu eus sonne
-il/elle eut sonne
-nous eumes sonne
-vous eutes sonne
-ils/elles eurent sonne
+j'eus sonn&eacute;
+tu eus sonn&eacute;
+il/elle eut sonn&eacute;
+nous e&ucirc;mes sonn&eacute;
+vous e&ucirc;tes sonn&eacute;
+ils/elles eurent sonn&eacute;

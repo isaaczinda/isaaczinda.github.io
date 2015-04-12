@@ -1,6 +1,6 @@
 je connus
 tu connus
 il/elle connut
-nous connumes
-vous connutes
+nous conn&ucirc;mes
+vous conn&ucirc;tes
 ils/elles connurent

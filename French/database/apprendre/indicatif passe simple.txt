@@ -1,6 +1,6 @@
 j'appris
 tu appris
 il/elle apprit
-nous apprimes
-vous apprites
+nous appr&icirc;mes
+vous appr&icirc;tes
 ils/elles apprirent

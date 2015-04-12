@@ -1,6 +1,6 @@
 je susse
 tu susses
-il/elle sut
+il/elle s&ucirc;t
 nous sussions
 vous sussiez
 ils/elles sussent

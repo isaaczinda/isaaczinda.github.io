@@ -1,6 +1,6 @@
-j'ai reveille
-tu as reveille
-il/elle a reveille
-nous avons reveille
-vous avez reveille
-ils/elles ont reveille
+j'ai r&eacute;veill&eacute;
+tu as r&eacute;veill&eacute;
+il/elle a r&eacute;veill&eacute;
+nous avons r&eacute;veill&eacute;
+vous avez r&eacute;veill&eacute;
+ils/elles ont r&eacute;veill&eacute;

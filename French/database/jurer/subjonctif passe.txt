@@ -1,6 +1,6 @@
-j'aie jure
-tu aies jure
-il/elle ait jure
-nous ayons jure
-vous ayez jure
-ils/elles aient jure
+j'aie jur&eacute;
+tu aies jur&eacute;
+il/elle ait jur&eacute;
+nous ayons jur&eacute;
+vous ayez jur&eacute;
+ils/elles aient jur&eacute;

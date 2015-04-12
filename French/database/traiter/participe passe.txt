@@ -1,2 +1,2 @@
-traite
-ayant traite
+trait&eacute;
+ayant trait&eacute;

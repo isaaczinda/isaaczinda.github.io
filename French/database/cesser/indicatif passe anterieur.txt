@@ -1,6 +1,6 @@
-j'eus cesse
-tu eus cesse
-il/elle eut cesse
-nous eumes cesse
-vous eutes cesse
-ils/elles eurent cesse
+j'eus cess&eacute;
+tu eus cess&eacute;
+il/elle eut cess&eacute;
+nous e&ucirc;mes cess&eacute;
+vous e&ucirc;tes cess&eacute;
+ils/elles eurent cess&eacute;

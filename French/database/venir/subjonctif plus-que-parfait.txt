@@ -1,7 +1,7 @@
 je fusse venu
 tu fusses venu
-il fut venu
-elle fut venue
+il f&ucirc;t venu
+elle f&ucirc;t venue
 nous fussions venus
 vous fussiez venus
 ils fussent venus

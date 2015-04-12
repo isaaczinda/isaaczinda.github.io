@@ -1,6 +1,6 @@
-j'aie interesse
-tu aies interesse
-il/elle ait interesse
-nous ayons interesse
-vous ayez interesse
-ils/elles aient interesse
+j'aie int&eacute;ress&eacute;
+tu aies int&eacute;ress&eacute;
+il/elle ait int&eacute;ress&eacute;
+nous ayons int&eacute;ress&eacute;
+vous ayez int&eacute;ress&eacute;
+ils/elles aient int&eacute;ress&eacute;

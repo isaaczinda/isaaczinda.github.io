@@ -1,6 +1,6 @@
-j'ai sonne
-tu as sonne
-il/elle a sonne
-nous avons sonne
-vous avez sonne
-ils/elles ont sonne
+j'ai sonn&eacute;
+tu as sonn&eacute;
+il/elle a sonn&eacute;
+nous avons sonn&eacute;
+vous avez sonn&eacute;
+ils/elles ont sonn&eacute;

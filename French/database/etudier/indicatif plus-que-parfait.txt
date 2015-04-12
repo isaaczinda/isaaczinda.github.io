@@ -1,6 +1,6 @@
-j'avais etudie
-tu avais etudie
-il/elle avait etudie
-nous avions etudie
-vous aviez etudie
-ils/elles avaient etudie
+j'avais &eacute;tudi&eacute;
+tu avais &eacute;tudi&eacute;
+il/elle avait &eacute;tudi&eacute;
+nous avions &eacute;tudi&eacute;
+vous aviez &eacute;tudi&eacute;
+ils/elles avaient &eacute;tudi&eacute;

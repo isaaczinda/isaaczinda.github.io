@@ -1,6 +1,6 @@
 je pus
 tu pus
 il/elle put
-nous pumes
-vous putes
+nous p&ucirc;mes
+vous p&ucirc;tes
 ils/elles purent

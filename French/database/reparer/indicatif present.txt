@@ -1,6 +1,6 @@
-je repare
-tu repares
-il/elle repare
-nous reparons
-vous reparez
-ils/elles reparent
+je r&eacute;pare
+tu r&eacute;pares
+il/elle r&eacute;pare
+nous r&eacute;parons
+vous r&eacute;parez
+ils/elles r&eacute;parent

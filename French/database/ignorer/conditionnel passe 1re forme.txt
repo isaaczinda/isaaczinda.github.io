@@ -1,6 +1,6 @@
-j'aurais ignore
-tu aurais ignore
-il/elle aurait ignore
-nous aurions ignore
-vous auriez ignore
-ils/elles auraient ignore
+j'aurais ignor&eacute;
+tu aurais ignor&eacute;
+il/elle aurait ignor&eacute;
+nous aurions ignor&eacute;
+vous auriez ignor&eacute;
+ils/elles auraient ignor&eacute;

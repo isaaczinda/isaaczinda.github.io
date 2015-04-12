@@ -1,6 +1,6 @@
-j'aurai charge
-tu auras charge
-il/elle aura charge
-nous aurons charge
-vous aurez charge
-ils/elles auront charge
+j'aurai charg&eacute;
+tu auras charg&eacute;
+il/elle aura charg&eacute;
+nous aurons charg&eacute;
+vous aurez charg&eacute;
+ils/elles auront charg&eacute;

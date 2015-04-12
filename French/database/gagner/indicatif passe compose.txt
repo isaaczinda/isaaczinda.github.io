@@ -1,6 +1,6 @@
-j'ai gagne
-tu as gagne
-il/elle a gagne
-nous avons gagne
-vous avez gagne
-ils/elles ont gagne
+j'ai gagn&eacute;
+tu as gagn&eacute;
+il/elle a gagn&eacute;
+nous avons gagn&eacute;
+vous avez gagn&eacute;
+ils/elles ont gagn&eacute;

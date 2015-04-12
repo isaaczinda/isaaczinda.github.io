@@ -1,6 +1,6 @@
-j'aurai jete
-tu auras jete
-il/elle aura jete
-nous aurons jete
-vous aurez jete
-ils/elles auront jete
+j'aurai jet&eacute;
+tu auras jet&eacute;
+il/elle aura jet&eacute;
+nous aurons jet&eacute;
+vous aurez jet&eacute;
+ils/elles auront jet&eacute;

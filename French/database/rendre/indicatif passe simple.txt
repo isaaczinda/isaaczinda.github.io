@@ -1,6 +1,6 @@
 je rendis
 tu rendis
 il/elle rendit
-nous rendimes
-vous rendites
+nous rend&icirc;mes
+vous rend&icirc;tes
 ils/elles rendirent

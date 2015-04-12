@@ -1,6 +1,6 @@
-j'ecrivisse
-tu ecrivisses
-il/elle ecrivit
-nous ecrivissions
-vous ecrivissiez
-ils/elles ecrivissent
+j'&eacute;crivisse
+tu &eacute;crivisses
+il/elle &eacute;criv&icirc;t
+nous &eacute;crivissions
+vous &eacute;crivissiez
+ils/elles &eacute;crivissent

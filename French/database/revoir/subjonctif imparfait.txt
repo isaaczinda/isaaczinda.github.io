@@ -1,6 +1,6 @@
 je revisse
 tu revisses
-il/elle revit
+il/elle rev&icirc;t
 nous revissions
 vous revissiez
 ils/elles revissent

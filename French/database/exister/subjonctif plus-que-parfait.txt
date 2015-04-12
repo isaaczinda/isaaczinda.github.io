@@ -1,6 +1,6 @@
-j'eusse existe
-tu eusses existe
-il/elle eut existe
-nous eussions existe
-vous eussiez existe
-ils/elles eussent existe
+j'eusse exist&eacute;
+tu eusses exist&eacute;
+il/elle e&ucirc;t exist&eacute;
+nous eussions exist&eacute;
+vous eussiez exist&eacute;
+ils/elles eussent exist&eacute;

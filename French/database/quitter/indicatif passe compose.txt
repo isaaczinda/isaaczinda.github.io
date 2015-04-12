@@ -1,6 +1,6 @@
-j'ai quitte
-tu as quitte
-il/elle a quitte
-nous avons quitte
-vous avez quitte
-ils/elles ont quitte
+j'ai quitt&eacute;
+tu as quitt&eacute;
+il/elle a quitt&eacute;
+nous avons quitt&eacute;
+vous avez quitt&eacute;
+ils/elles ont quitt&eacute;

@@ -1,6 +1,6 @@
-j'aurai ignore
-tu auras ignore
-il/elle aura ignore
-nous aurons ignore
-vous aurez ignore
-ils/elles auront ignore
+j'aurai ignor&eacute;
+tu auras ignor&eacute;
+il/elle aura ignor&eacute;
+nous aurons ignor&eacute;
+vous aurez ignor&eacute;
+ils/elles auront ignor&eacute;

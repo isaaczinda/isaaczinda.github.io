@@ -1,6 +1,6 @@
-j'ai raconte
-tu as raconte
-il/elle a raconte
-nous avons raconte
-vous avez raconte
-ils/elles ont raconte
+j'ai racont&eacute;
+tu as racont&eacute;
+il/elle a racont&eacute;
+nous avons racont&eacute;
+vous avez racont&eacute;
+ils/elles ont racont&eacute;

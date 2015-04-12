@@ -1,6 +1,6 @@
-je separasse
-tu separasses
-il/elle separ&acirc;t
-nous separassions
-vous separassiez
-ils/elles separassent
+je s&eacute;parasse
+tu s&eacute;parasses
+il/elle s&eacute;par&acirc;t
+nous s&eacute;parassions
+vous s&eacute;parassiez
+ils/elles s&eacute;parassent

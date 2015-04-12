@@ -1,6 +1,6 @@
-j'evitai
-tu evitas
-il/elle evita
-nous evit&acirc;mes
-vous evit&acirc;tes
-ils/elles evit&egrave;rent
+j'&eacute;vitai
+tu &eacute;vitas
+il/elle &eacute;vita
+nous &eacute;vit&acirc;mes
+vous &eacute;vit&acirc;tes
+ils/elles &eacute;vit&egrave;rent

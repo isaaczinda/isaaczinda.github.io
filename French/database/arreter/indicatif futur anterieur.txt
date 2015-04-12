@@ -1,6 +1,6 @@
-j'aurai arr&ecirc;te
-tu auras arr&ecirc;te
-il/elle aura arr&ecirc;te
-nous aurons arr&ecirc;te
-vous aurez arr&ecirc;te
-ils/elles auront arr&ecirc;te
+j'aurai arr&ecirc;t&eacute;
+tu auras arr&ecirc;t&eacute;
+il/elle aura arr&ecirc;t&eacute;
+nous aurons arr&ecirc;t&eacute;
+vous aurez arr&ecirc;t&eacute;
+ils/elles auront arr&ecirc;t&eacute;

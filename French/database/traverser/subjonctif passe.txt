@@ -1,6 +1,6 @@
-j'aie traverse
-tu aies traverse
-il/elle ait traverse
-nous ayons traverse
-vous ayez traverse
-ils/elles aient traverse
+j'aie travers&eacute;
+tu aies travers&eacute;
+il/elle ait travers&eacute;
+nous ayons travers&eacute;
+vous ayez travers&eacute;
+ils/elles aient travers&eacute;

@@ -1,6 +1,6 @@
 je couvris
 tu couvris
 il/elle couvrit
-nous couvrimes
-vous couvrites
+nous couvr&icirc;mes
+vous couvr&icirc;tes
 ils/elles couvrirent

@@ -1,2 +1,2 @@
-casse
-ayant casse
+cass&eacute;
+ayant cass&eacute;

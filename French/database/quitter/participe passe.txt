@@ -1,2 +1,2 @@
-quitte
-ayant quitte
+quitt&eacute;
+ayant quitt&eacute;

@@ -1,6 +1,6 @@
-je decide
-tu decides
-il/elle decide
-nous decidons
-vous decidez
-ils/elles decident
+je d&eacute;cide
+tu d&eacute;cides
+il/elle d&eacute;cide
+nous d&eacute;cidons
+vous d&eacute;cidez
+ils/elles d&eacute;cident

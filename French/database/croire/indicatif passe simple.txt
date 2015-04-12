@@ -1,6 +1,6 @@
 je crus
 tu crus
 il/elle crut
-nous crumes
-vous crutes
+nous cr&ucirc;mes
+vous cr&ucirc;tes
 ils/elles crurent

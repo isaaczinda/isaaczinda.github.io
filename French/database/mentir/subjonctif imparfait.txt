@@ -1,6 +1,6 @@
 je mentisse
 tu mentisses
-il/elle mentit
+il/elle ment&icirc;t
 nous mentissions
 vous mentissiez
 ils/elles mentissent

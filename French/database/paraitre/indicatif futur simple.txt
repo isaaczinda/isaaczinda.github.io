@@ -1,6 +1,6 @@
-je paraitrai
-tu paraitras
-il/elle paraitra
-nous paraitrons
-vous paraitrez
-ils/elles paraitront
+je para&icirc;trai
+tu para&icirc;tras
+il/elle para&icirc;tra
+nous para&icirc;trons
+vous para&icirc;trez
+ils/elles para&icirc;tront

@@ -1,6 +1,6 @@
-j'ai pardonne
-tu as pardonne
-il/elle a pardonne
-nous avons pardonne
-vous avez pardonne
-ils/elles ont pardonne
+j'ai pardonn&eacute;
+tu as pardonn&eacute;
+il/elle a pardonn&eacute;
+nous avons pardonn&eacute;
+vous avez pardonn&eacute;
+ils/elles ont pardonn&eacute;

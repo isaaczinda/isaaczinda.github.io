@@ -1,6 +1,6 @@
-j'aie vecu
-tu aies vecu
-il/elle ait vecu
-nous ayons vecu
-vous ayez vecu
-ils/elles aient vecu
+j'aie v&eacute;cu
+tu aies v&eacute;cu
+il/elle ait v&eacute;cu
+nous ayons v&eacute;cu
+vous ayez v&eacute;cu
+ils/elles aient v&eacute;cu

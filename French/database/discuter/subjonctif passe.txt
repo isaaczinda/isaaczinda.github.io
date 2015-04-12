@@ -1,6 +1,6 @@
-j'aie discute
-tu aies discute
-il/elle ait discute
-nous ayons discute
-vous ayez discute
-ils/elles aient discute
+j'aie discut&eacute;
+tu aies discut&eacute;
+il/elle ait discut&eacute;
+nous ayons discut&eacute;
+vous ayez discut&eacute;
+ils/elles aient discut&eacute;

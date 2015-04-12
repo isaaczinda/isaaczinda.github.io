@@ -1,6 +1,6 @@
-j'eus repondu
-tu eus repondu
-il/elle eut repondu
-nous eumes repondu
-vous eutes repondu
-ils/elles eurent repondu
+j'eus r&eacute;pondu
+tu eus r&eacute;pondu
+il/elle eut r&eacute;pondu
+nous e&ucirc;mes r&eacute;pondu
+vous e&ucirc;tes r&eacute;pondu
+ils/elles eurent r&eacute;pondu

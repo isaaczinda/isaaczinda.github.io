@@ -1,6 +1,6 @@
-j'aie ferme
-tu aies ferme
-il/elle ait ferme
-nous ayons ferme
-vous ayez ferme
-ils/elles aient ferme
+j'aie ferm&eacute;
+tu aies ferm&eacute;
+il/elle ait ferm&eacute;
+nous ayons ferm&eacute;
+vous ayez ferm&eacute;
+ils/elles aient ferm&eacute;

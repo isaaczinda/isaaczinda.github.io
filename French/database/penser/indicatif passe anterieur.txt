@@ -1,6 +1,6 @@
-j'eus pense
-tu eus pense
-il/elle eut pense
-nous eumes pense
-vous eutes pense
-ils/elles eurent pense
+j'eus pens&eacute;
+tu eus pens&eacute;
+il/elle eut pens&eacute;
+nous e&ucirc;mes pens&eacute;
+vous e&ucirc;tes pens&eacute;
+ils/elles eurent pens&eacute;

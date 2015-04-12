@@ -1,6 +1,6 @@
-j'aurais etudie
-tu aurais etudie
-il/elle aurait etudie
-nous aurions etudie
-vous auriez etudie
-ils/elles auraient etudie
+j'aurais &eacute;tudi&eacute;
+tu aurais &eacute;tudi&eacute;
+il/elle aurait &eacute;tudi&eacute;
+nous aurions &eacute;tudi&eacute;
+vous auriez &eacute;tudi&eacute;
+ils/elles auraient &eacute;tudi&eacute;

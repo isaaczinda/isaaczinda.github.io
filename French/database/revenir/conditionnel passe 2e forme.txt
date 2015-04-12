@@ -1,7 +1,7 @@
 je fusse revenu
 tu fusses revenu
-il fut revenu
-elle fut revenue
+il f&ucirc;t revenu
+elle f&ucirc;t revenue
 nous fussions revenus
 vous fussiez revenus
 ils fussent revenus

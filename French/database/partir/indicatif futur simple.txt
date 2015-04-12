@@ -1,6 +1,7 @@
 je partirai
 tu partiras
 il/elle partira
+
 nous partirons
 vous partirez
 ils/elles partiront

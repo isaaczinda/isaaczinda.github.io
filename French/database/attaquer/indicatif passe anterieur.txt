@@ -1,6 +1,6 @@
-j'eus attaque
-tu eus attaque
-il/elle eut attaque
-nous eumes attaque
-vous eutes attaque
-ils/elles eurent attaque
+j'eus attaqu&eacute;
+tu eus attaqu&eacute;
+il/elle eut attaqu&eacute;
+nous e&ucirc;mes attaqu&eacute;
+vous e&ucirc;tes attaqu&eacute;
+ils/elles eurent attaqu&eacute;

@@ -1,6 +1,6 @@
-je defendis
-tu defendis
-il/elle defendit
-nous defendimes
-vous defendites
-ils/elles defendirent
+je d&eacute;fendis
+tu d&eacute;fendis
+il/elle d&eacute;fendit
+nous d&eacute;fend&icirc;mes
+vous d&eacute;fend&icirc;tes
+ils/elles d&eacute;fendirent

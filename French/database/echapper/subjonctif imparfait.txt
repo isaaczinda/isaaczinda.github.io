@@ -1,6 +1,6 @@
-j'echappasse
-tu echappasses
-il/elle echapp&acirc;t
-nous echappassions
-vous echappassiez
-ils/elles echappassent
+j'&eacute;chappasse
+tu &eacute;chappasses
+il/elle &eacute;chapp&acirc;t
+nous &eacute;chappassions
+vous &eacute;chappassiez
+ils/elles &eacute;chappassent

@@ -1,6 +1,6 @@
-j'aie plaisante
-tu aies plaisante
-il/elle ait plaisante
-nous ayons plaisante
-vous ayez plaisante
-ils/elles aient plaisante
+j'aie plaisant&eacute;
+tu aies plaisant&eacute;
+il/elle ait plaisant&eacute;
+nous ayons plaisant&eacute;
+vous ayez plaisant&eacute;
+ils/elles aient plaisant&eacute;

@@ -1,8 +1,8 @@
-j'avais ete
-tu avais ete
-il avait ete
-elle avait ete
-nous avions ete
-vous aviez ete
-ils avaient ete
-elles avaient ete
+j'avais &eacute;t&eacute;
+tu avais &eacute;t&eacute;
+il avait &eacute;t&eacute;
+elle avait &eacute;t&eacute;
+nous avions &eacute;t&eacute;
+vous aviez &eacute;t&eacute;
+ils avaient &eacute;t&eacute;
+elles avaient &eacute;t&eacute;

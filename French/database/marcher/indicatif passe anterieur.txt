@@ -1,6 +1,6 @@
-j'eus marche
-tu eus marche
-il/elle eut marche
-nous eumes marche
-vous eutes marche
-ils/elles eurent marche
+j'eus march&eacute;
+tu eus march&eacute;
+il/elle eut march&eacute;
+nous e&ucirc;mes march&eacute;
+vous e&ucirc;tes march&eacute;
+ils/elles eurent march&eacute;

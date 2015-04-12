@@ -1,6 +1,6 @@
-j'eus parle
-tu eus parle
-il/elle eut parle
-nous eumes parle
-vous eutes parle
-ils/elles eurent parle
+j'eus parl&eacute;
+tu eus parl&eacute;
+il/elle eut parl&eacute;
+nous e&ucirc;mes parl&eacute;
+vous e&ucirc;tes parl&eacute;
+ils/elles eurent parl&eacute;

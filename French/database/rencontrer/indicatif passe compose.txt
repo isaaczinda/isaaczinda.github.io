@@ -1,6 +1,6 @@
-j'ai rencontre
-tu as rencontre
-il/elle a rencontre
-nous avons rencontre
-vous avez rencontre
-ils/elles ont rencontre
+j'ai rencontr&eacute;
+tu as rencontr&eacute;
+il/elle a rencontr&eacute;
+nous avons rencontr&eacute;
+vous avez rencontr&eacute;
+ils/elles ont rencontr&eacute;

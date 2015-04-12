@@ -1,6 +1,6 @@
 je courusse
 tu courusses
-il/elle courut
+il/elle cour&ucirc;t
 nous courussions
 vous courussiez
 ils/elles courussent

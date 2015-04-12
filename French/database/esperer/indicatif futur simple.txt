@@ -1,6 +1,6 @@
-j'espererai
-tu espereras
-il/elle esperera
-nous espererons
-vous espererez
-ils/elles espereront
+j'esp&eacute;rerai
+tu esp&eacute;reras
+il/elle esp&eacute;rera
+nous esp&eacute;rerons
+vous esp&eacute;rerez
+ils/elles esp&eacute;reront

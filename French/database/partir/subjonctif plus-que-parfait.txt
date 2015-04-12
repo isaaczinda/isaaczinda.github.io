@@ -1,7 +1,7 @@
 je fusse parti
 tu fusses parti
-il fut parti
-elle fut partie
+il f&ucirc;t parti
+elle f&ucirc;t partie
 nous fussions partis
 vous fussiez partis
 ils fussent partis

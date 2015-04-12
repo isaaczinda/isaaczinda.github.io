@@ -1,6 +1,7 @@
 j'entrerai
 tu entreras
 il/elle entrera
+
 nous entrerons
 vous entrerez
 ils/elles entreront

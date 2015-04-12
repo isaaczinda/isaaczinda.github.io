@@ -1,6 +1,6 @@
-j'eusse propose
-tu eusses propose
-il/elle eut propose
-nous eussions propose
-vous eussiez propose
-ils/elles eussent propose
+j'eusse propos&eacute;
+tu eusses propos&eacute;
+il/elle e&ucirc;t propos&eacute;
+nous eussions propos&eacute;
+vous eussiez propos&eacute;
+ils/elles eussent propos&eacute;

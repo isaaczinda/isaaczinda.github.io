@@ -1,6 +1,6 @@
-je pref&egrave;re
-tu pref&egrave;res
-il/elle pref&egrave;re
-nous preferions
-vous preferiez
-ils/elles pref&egrave;rent
+je pr&eacute;f&egrave;re
+tu pr&eacute;f&egrave;res
+il/elle pr&eacute;f&egrave;re
+nous pr&eacute;f&eacute;rions
+vous pr&eacute;f&eacute;riez
+ils/elles pr&eacute;f&egrave;rent

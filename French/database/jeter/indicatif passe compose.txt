@@ -1,6 +1,6 @@
-j'ai jete
-tu as jete
-il/elle a jete
-nous avons jete
-vous avez jete
-ils/elles ont jete
+j'ai jet&eacute;
+tu as jet&eacute;
+il/elle a jet&eacute;
+nous avons jet&eacute;
+vous avez jet&eacute;
+ils/elles ont jet&eacute;

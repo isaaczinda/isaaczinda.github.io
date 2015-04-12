@@ -1,6 +1,6 @@
-j'aurais partage
-tu aurais partage
-il/elle aurait partage
-nous aurions partage
-vous auriez partage
-ils/elles auraient partage
+j'aurais partag&eacute;
+tu aurais partag&eacute;
+il/elle aurait partag&eacute;
+nous aurions partag&eacute;
+vous auriez partag&eacute;
+ils/elles auraient partag&eacute;

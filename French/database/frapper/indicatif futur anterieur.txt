@@ -1,6 +1,6 @@
-j'aurai frappe
-tu auras frappe
-il/elle aura frappe
-nous aurons frappe
-vous aurez frappe
-ils/elles auront frappe
+j'aurai frapp&eacute;
+tu auras frapp&eacute;
+il/elle aura frapp&eacute;
+nous aurons frapp&eacute;
+vous aurez frapp&eacute;
+ils/elles auront frapp&eacute;

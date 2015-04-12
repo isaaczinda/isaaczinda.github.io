@@ -1,6 +1,6 @@
-je disparaitrais
-tu disparaitrais
-il/elle disparaitrait
-nous disparaitrions
-vous disparaitriez
-ils/elles disparaitraient
+je dispara&icirc;trais
+tu dispara&icirc;trais
+il/elle dispara&icirc;trait
+nous dispara&icirc;trions
+vous dispara&icirc;triez
+ils/elles dispara&icirc;traient

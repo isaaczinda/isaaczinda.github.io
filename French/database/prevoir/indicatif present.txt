@@ -1,6 +1,6 @@
-je prevois
-tu prevois
-il/elle prevoit
-nous prevoyons
-vous prevoyez
-ils/elles prevoient
+je pr&eacute;vois
+tu pr&eacute;vois
+il/elle pr&eacute;voit
+nous pr&eacute;voyons
+vous pr&eacute;voyez
+ils/elles pr&eacute;voient

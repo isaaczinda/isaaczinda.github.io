@@ -1,6 +1,6 @@
-j'eusse souhaite
-tu eusses souhaite
-il/elle eut souhaite
-nous eussions souhaite
-vous eussiez souhaite
-ils/elles eussent souhaite
+j'eusse souhait&eacute;
+tu eusses souhait&eacute;
+il/elle e&ucirc;t souhait&eacute;
+nous eussions souhait&eacute;
+vous eussiez souhait&eacute;
+ils/elles eussent souhait&eacute;

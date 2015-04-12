@@ -1,6 +1,6 @@
-j'avais garde
-tu avais garde
-il/elle avait garde
-nous avions garde
-vous aviez garde
-ils/elles avaient garde
+j'avais gard&eacute;
+tu avais gard&eacute;
+il/elle avait gard&eacute;
+nous avions gard&eacute;
+vous aviez gard&eacute;
+ils/elles avaient gard&eacute;

@@ -1,6 +1,6 @@
-j'ecoute
-tu ecoutes
-il/elle ecoute
-nous ecoutions
-vous ecoutiez
-ils/elles ecoutent
+j'&eacute;coute
+tu &eacute;coutes
+il/elle &eacute;coute
+nous &eacute;coutions
+vous &eacute;coutiez
+ils/elles &eacute;coutent

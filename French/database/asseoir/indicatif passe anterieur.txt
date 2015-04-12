@@ -1,6 +1,6 @@
 j'eus assis
 tu eus assis
 il/elle eut assis
-nous eumes assis
-vous eutes assis
+nous e&ucirc;mes assis
+vous e&ucirc;tes assis
 ils/elles eurent assis

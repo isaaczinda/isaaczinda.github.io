@@ -1,6 +1,7 @@
 je descendrai
 tu descendras
 il/elle descendra
+
 nous descendrons
 vous descendrez
 ils/elles descendront

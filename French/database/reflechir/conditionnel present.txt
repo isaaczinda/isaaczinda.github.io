@@ -1,6 +1,6 @@
-je reflechirais
-tu reflechirais
-il/elle reflechirait
-nous reflechirions
-vous reflechiriez
-ils/elles reflechiraient
+je r&eacute;fl&eacute;chirais
+tu r&eacute;fl&eacute;chirais
+il/elle r&eacute;fl&eacute;chirait
+nous r&eacute;fl&eacute;chirions
+vous r&eacute;fl&eacute;chiriez
+ils/elles r&eacute;fl&eacute;chiraient

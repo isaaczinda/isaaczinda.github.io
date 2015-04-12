@@ -1,6 +1,6 @@
 j'eus disparu
 tu eus disparu
 il/elle eut disparu
-nous eumes disparu
-vous eutes disparu
+nous e&ucirc;mes disparu
+vous e&ucirc;tes disparu
 ils/elles eurent disparu

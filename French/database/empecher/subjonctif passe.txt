@@ -1,6 +1,6 @@
-j'aie emp&ecirc;che
-tu aies emp&ecirc;che
-il/elle ait emp&ecirc;che
-nous ayons emp&ecirc;che
-vous ayez emp&ecirc;che
-ils/elles aient emp&ecirc;che
+j'aie emp&ecirc;ch&eacute;
+tu aies emp&ecirc;ch&eacute;
+il/elle ait emp&ecirc;ch&eacute;
+nous ayons emp&ecirc;ch&eacute;
+vous ayez emp&ecirc;ch&eacute;
+ils/elles aient emp&ecirc;ch&eacute;

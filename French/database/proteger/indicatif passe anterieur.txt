@@ -1,6 +1,6 @@
-j'eus protege
-tu eus protege
-il/elle eut protege
-nous eumes protege
-vous eutes protege
-ils/elles eurent protege
+j'eus prot&eacute;g&eacute;
+tu eus prot&eacute;g&eacute;
+il/elle eut prot&eacute;g&eacute;
+nous e&ucirc;mes prot&eacute;g&eacute;
+vous e&ucirc;tes prot&eacute;g&eacute;
+ils/elles eurent prot&eacute;g&eacute;

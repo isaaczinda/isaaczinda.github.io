@@ -1,6 +1,6 @@
-j'aie oblige
-tu aies oblige
-il/elle ait oblige
-nous ayons oblige
-vous ayez oblige
-ils/elles aient oblige
+j'aie oblig&eacute;
+tu aies oblig&eacute;
+il/elle ait oblig&eacute;
+nous ayons oblig&eacute;
+vous ayez oblig&eacute;
+ils/elles aient oblig&eacute;

@@ -1,6 +1,6 @@
-j'ai change
-tu as change
-il/elle a change
-nous avons change
-vous avez change
-ils/elles ont change
+j'ai chang&eacute;
+tu as chang&eacute;
+il/elle a chang&eacute;
+nous avons chang&eacute;
+vous avez chang&eacute;
+ils/elles ont chang&eacute;

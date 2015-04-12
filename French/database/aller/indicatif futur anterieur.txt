@@ -1,8 +1,8 @@
-je serai alle
-tu seras alle
-il sera alle
-elle sera allee
-nous serons alles
-vous serez alles
-ils seront alles
-elles seront allees
+je serai all&eacute;
+tu seras all&eacute;
+il sera all&eacute;
+elle sera all&eacute;e
+nous serons all&eacute;s
+vous serez all&eacute;s
+ils seront all&eacute;s
+elles seront all&eacute;es

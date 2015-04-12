@@ -1,6 +1,6 @@
 j'ouvrisse
 tu ouvrisses
-il/elle ouvrit
+il/elle ouvr&icirc;t
 nous ouvrissions
 vous ouvrissiez
 ils/elles ouvrissent

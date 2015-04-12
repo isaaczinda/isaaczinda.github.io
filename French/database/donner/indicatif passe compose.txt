@@ -1,6 +1,6 @@
-j'ai donne
-tu as donne
-il/elle a donne
-nous avons donne
-vous avez donne
-ils/elles ont donne
+j'ai donn&eacute;
+tu as donn&eacute;
+il/elle a donn&eacute;
+nous avons donn&eacute;
+vous avez donn&eacute;
+ils/elles ont donn&eacute;

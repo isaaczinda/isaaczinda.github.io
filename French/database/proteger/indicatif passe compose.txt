@@ -1,6 +1,6 @@
-j'ai protege
-tu as protege
-il/elle a protege
-nous avons protege
-vous avez protege
-ils/elles ont protege
+j'ai prot&eacute;g&eacute;
+tu as prot&eacute;g&eacute;
+il/elle a prot&eacute;g&eacute;
+nous avons prot&eacute;g&eacute;
+vous avez prot&eacute;g&eacute;
+ils/elles ont prot&eacute;g&eacute;

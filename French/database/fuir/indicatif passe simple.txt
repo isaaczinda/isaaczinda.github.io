@@ -1,6 +1,6 @@
 je fuis
 tu fuis
 il/elle fuit
-nous fuimes
-vous fuites
+nous fu&icirc;mes
+vous fu&icirc;tes
 ils/elles fuirent

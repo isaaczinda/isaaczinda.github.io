@@ -1,6 +1,6 @@
-je dep&ecirc;che
-tu dep&ecirc;ches
-il/elle dep&ecirc;che
-nous dep&ecirc;chions
-vous dep&ecirc;chiez
-ils/elles dep&ecirc;chent
+je d&eacute;p&ecirc;che
+tu d&eacute;p&ecirc;ches
+il/elle d&eacute;p&ecirc;che
+nous d&eacute;p&ecirc;chions
+vous d&eacute;p&ecirc;chiez
+ils/elles d&eacute;p&ecirc;chent

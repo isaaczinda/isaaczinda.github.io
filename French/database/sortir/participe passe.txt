@@ -1,2 +1,2 @@
 sorti
-etant sorti
+&eacute;tant sorti

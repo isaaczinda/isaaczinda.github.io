@@ -1,6 +1,7 @@
 je sortirai
 tu sortiras
 il/elle sortira
+
 nous sortirons
 vous sortirez
 ils/elles sortiront

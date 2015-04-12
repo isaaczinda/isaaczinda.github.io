@@ -1,6 +1,6 @@
-j'ai devine
-tu as devine
-il/elle a devine
-nous avons devine
-vous avez devine
-ils/elles ont devine
+j'ai devin&eacute;
+tu as devin&eacute;
+il/elle a devin&eacute;
+nous avons devin&eacute;
+vous avez devin&eacute;
+ils/elles ont devin&eacute;

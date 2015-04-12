@@ -1,6 +1,6 @@
-j'aie decouvert
-tu aies decouvert
-il/elle ait decouvert
-nous ayons decouvert
-vous ayez decouvert
-ils/elles aient decouvert
+j'aie d&eacute;couvert
+tu aies d&eacute;couvert
+il/elle ait d&eacute;couvert
+nous ayons d&eacute;couvert
+vous ayez d&eacute;couvert
+ils/elles aient d&eacute;couvert

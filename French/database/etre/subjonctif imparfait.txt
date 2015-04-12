@@ -1,6 +1,7 @@
 je fusse
 tu fusses
-il/elle fut
+il/elle f&ucirc;t
+
 nous fussions
 vous fussiez
 ils/elles fussent

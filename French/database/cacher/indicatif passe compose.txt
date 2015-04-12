@@ -1,6 +1,6 @@
-j'ai cache
-tu as cache
-il/elle a cache
-nous avons cache
-vous avez cache
-ils/elles ont cache
+j'ai cach&eacute;
+tu as cach&eacute;
+il/elle a cach&eacute;
+nous avons cach&eacute;
+vous avez cach&eacute;
+ils/elles ont cach&eacute;

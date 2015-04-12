@@ -1,6 +1,6 @@
 je conduisis
 tu conduisis
 il/elle conduisit
-nous conduisimes
-vous conduisites
+nous conduis&icirc;mes
+vous conduis&icirc;tes
 ils/elles conduisirent

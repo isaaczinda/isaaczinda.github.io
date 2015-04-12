@@ -1,6 +1,6 @@
-j'avais epouse
-tu avais epouse
-il/elle avait epouse
-nous avions epouse
-vous aviez epouse
-ils/elles avaient epouse
+j'avais &eacute;pous&eacute;
+tu avais &eacute;pous&eacute;
+il/elle avait &eacute;pous&eacute;
+nous avions &eacute;pous&eacute;
+vous aviez &eacute;pous&eacute;
+ils/elles avaient &eacute;pous&eacute;

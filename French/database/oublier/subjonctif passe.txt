@@ -1,6 +1,6 @@
-j'aie oublie
-tu aies oublie
-il/elle ait oublie
-nous ayons oublie
-vous ayez oublie
-ils/elles aient oublie
+j'aie oubli&eacute;
+tu aies oubli&eacute;
+il/elle ait oubli&eacute;
+nous ayons oubli&eacute;
+vous ayez oubli&eacute;
+ils/elles aient oubli&eacute;

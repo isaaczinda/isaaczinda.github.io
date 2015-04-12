@@ -1,6 +1,6 @@
-j'aurai etudie
-tu auras etudie
-il/elle aura etudie
-nous aurons etudie
-vous aurez etudie
-ils/elles auront etudie
+j'aurai &eacute;tudi&eacute;
+tu auras &eacute;tudi&eacute;
+il/elle aura &eacute;tudi&eacute;
+nous aurons &eacute;tudi&eacute;
+vous aurez &eacute;tudi&eacute;
+ils/elles auront &eacute;tudi&eacute;

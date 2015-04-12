@@ -1,6 +1,6 @@
-j'ecoutasse
-tu ecoutasses
-il/elle ecout&acirc;t
-nous ecoutassions
-vous ecoutassiez
-ils/elles ecoutassent
+j'&eacute;coutasse
+tu &eacute;coutasses
+il/elle &eacute;cout&acirc;t
+nous &eacute;coutassions
+vous &eacute;coutassiez
+ils/elles &eacute;coutassent

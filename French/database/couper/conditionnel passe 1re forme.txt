@@ -1,6 +1,6 @@
-j'aurais coupe
-tu aurais coupe
-il/elle aurait coupe
-nous aurions coupe
-vous auriez coupe
-ils/elles auraient coupe
+j'aurais coup&eacute;
+tu aurais coup&eacute;
+il/elle aurait coup&eacute;
+nous aurions coup&eacute;
+vous auriez coup&eacute;
+ils/elles auraient coup&eacute;

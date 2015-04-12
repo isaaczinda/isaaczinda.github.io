@@ -1,6 +1,6 @@
-j'aurai occupe
-tu auras occupe
-il/elle aura occupe
-nous aurons occupe
-vous aurez occupe
-ils/elles auront occupe
+j'aurai occup&eacute;
+tu auras occup&eacute;
+il/elle aura occup&eacute;
+nous aurons occup&eacute;
+vous aurez occup&eacute;
+ils/elles auront occup&eacute;

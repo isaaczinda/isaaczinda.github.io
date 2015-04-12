@@ -1,6 +1,6 @@
-je reveillai
-tu reveillas
-il/elle reveilla
-nous reveill&acirc;mes
-vous reveill&acirc;tes
-ils/elles reveill&egrave;rent
+je r&eacute;veillai
+tu r&eacute;veillas
+il/elle r&eacute;veilla
+nous r&eacute;veill&acirc;mes
+vous r&eacute;veill&acirc;tes
+ils/elles r&eacute;veill&egrave;rent

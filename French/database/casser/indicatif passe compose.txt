@@ -1,6 +1,6 @@
-j'ai casse
-tu as casse
-il/elle a casse
-nous avons casse
-vous avez casse
-ils/elles ont casse
+j'ai cass&eacute;
+tu as cass&eacute;
+il/elle a cass&eacute;
+nous avons cass&eacute;
+vous avez cass&eacute;
+ils/elles ont cass&eacute;

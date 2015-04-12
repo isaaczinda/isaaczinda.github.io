@@ -1,6 +1,6 @@
-j'ai attrape
-tu as attrape
-il/elle a attrape
-nous avons attrape
-vous avez attrape
-ils/elles ont attrape
+j'ai attrap&eacute;
+tu as attrap&eacute;
+il/elle a attrap&eacute;
+nous avons attrap&eacute;
+vous avez attrap&eacute;
+ils/elles ont attrap&eacute;

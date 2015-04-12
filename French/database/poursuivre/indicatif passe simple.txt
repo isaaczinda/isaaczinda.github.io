@@ -1,6 +1,6 @@
 je poursuivis
 tu poursuivis
 il/elle poursuivit
-nous poursuivimes
-vous poursuivites
+nous poursuiv&icirc;mes
+vous poursuiv&icirc;tes
 ils/elles poursuivirent

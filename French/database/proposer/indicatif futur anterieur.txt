@@ -1,6 +1,6 @@
-j'aurai propose
-tu auras propose
-il/elle aura propose
-nous aurons propose
-vous aurez propose
-ils/elles auront propose
+j'aurai propos&eacute;
+tu auras propos&eacute;
+il/elle aura propos&eacute;
+nous aurons propos&eacute;
+vous aurez propos&eacute;
+ils/elles auront propos&eacute;

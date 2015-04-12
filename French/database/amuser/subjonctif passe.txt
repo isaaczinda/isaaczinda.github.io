@@ -1,6 +1,6 @@
-j'aie amuse
-tu aies amuse
-il/elle ait amuse
-nous ayons amuse
-vous ayez amuse
-ils/elles aient amuse
+j'aie amus&eacute;
+tu aies amus&eacute;
+il/elle ait amus&eacute;
+nous ayons amus&eacute;
+vous ayez amus&eacute;
+ils/elles aient amus&eacute;

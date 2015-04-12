@@ -1,6 +1,6 @@
-j'ai blesse
-tu as blesse
-il/elle a blesse
-nous avons blesse
-vous avez blesse
-ils/elles ont blesse
+j'ai bless&eacute;
+tu as bless&eacute;
+il/elle a bless&eacute;
+nous avons bless&eacute;
+vous avez bless&eacute;
+ils/elles ont bless&eacute;

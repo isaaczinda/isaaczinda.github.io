@@ -1,6 +1,6 @@
-j'aurai coupe
-tu auras coupe
-il/elle aura coupe
-nous aurons coupe
-vous aurez coupe
-ils/elles auront coupe
+j'aurai coup&eacute;
+tu auras coup&eacute;
+il/elle aura coup&eacute;
+nous aurons coup&eacute;
+vous aurez coup&eacute;
+ils/elles auront coup&eacute;

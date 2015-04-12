@@ -1,6 +1,6 @@
 je rendisse
 tu rendisses
-il/elle rendit
+il/elle rend&icirc;t
 nous rendissions
 vous rendissiez
 ils/elles rendissent

@@ -1,6 +1,6 @@
-j'ai prepare
-tu as prepare
-il/elle a prepare
-nous avons prepare
-vous avez prepare
-ils/elles ont prepare
+j'ai pr&eacute;par&eacute;
+tu as pr&eacute;par&eacute;
+il/elle a pr&eacute;par&eacute;
+nous avons pr&eacute;par&eacute;
+vous avez pr&eacute;par&eacute;
+ils/elles ont pr&eacute;par&eacute;

@@ -1,8 +1,8 @@
-je fusse entre
-tu fusses entre
-il fut entre
-elle fut entree
-nous fussions entres
-vous fussiez entres
-ils fussent entres
-elles fussent entrees
+je fusse entr&eacute;
+tu fusses entr&eacute;
+il f&ucirc;t entr&eacute;
+elle f&ucirc;t entr&eacute;e
+nous fussions entr&eacute;s
+vous fussiez entr&eacute;s
+ils fussent entr&eacute;s
+elles fussent entr&eacute;es

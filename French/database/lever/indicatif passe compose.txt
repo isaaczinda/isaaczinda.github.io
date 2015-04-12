@@ -1,6 +1,6 @@
-j'ai leve
-tu as leve
-il/elle a leve
-nous avons leve
-vous avez leve
-ils/elles ont leve
+j'ai lev&eacute;
+tu as lev&eacute;
+il/elle a lev&eacute;
+nous avons lev&eacute;
+vous avez lev&eacute;
+ils/elles ont lev&eacute;

@@ -1,6 +1,6 @@
-j'aie devine
-tu aies devine
-il/elle ait devine
-nous ayons devine
-vous ayez devine
-ils/elles aient devine
+j'aie devin&eacute;
+tu aies devin&eacute;
+il/elle ait devin&eacute;
+nous ayons devin&eacute;
+vous ayez devin&eacute;
+ils/elles aient devin&eacute;

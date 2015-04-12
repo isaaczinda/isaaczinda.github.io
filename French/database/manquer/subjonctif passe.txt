@@ -1,6 +1,6 @@
-j'aie manque
-tu aies manque
-il/elle ait manque
-nous ayons manque
-vous ayez manque
-ils/elles aient manque
+j'aie manqu&eacute;
+tu aies manqu&eacute;
+il/elle ait manqu&eacute;
+nous ayons manqu&eacute;
+vous ayez manqu&eacute;
+ils/elles aient manqu&eacute;

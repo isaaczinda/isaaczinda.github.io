@@ -1,6 +1,6 @@
-j'eusse evite
-tu eusses evite
-il/elle eut evite
-nous eussions evite
-vous eussiez evite
-ils/elles eussent evite
+j'eusse &eacute;vit&eacute;
+tu eusses &eacute;vit&eacute;
+il/elle e&ucirc;t &eacute;vit&eacute;
+nous eussions &eacute;vit&eacute;
+vous eussiez &eacute;vit&eacute;
+ils/elles eussent &eacute;vit&eacute;

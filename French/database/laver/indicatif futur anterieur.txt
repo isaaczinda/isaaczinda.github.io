@@ -1,6 +1,6 @@
-j'aurai lave
-tu auras lave
-il/elle aura lave
-nous aurons lave
-vous aurez lave
-ils/elles auront lave
+j'aurai lav&eacute;
+tu auras lav&eacute;
+il/elle aura lav&eacute;
+nous aurons lav&eacute;
+vous aurez lav&eacute;
+ils/elles auront lav&eacute;

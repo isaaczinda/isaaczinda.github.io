@@ -1,6 +1,6 @@
-j'eus garde
-tu eus garde
-il/elle eut garde
-nous eumes garde
-vous eutes garde
-ils/elles eurent garde
+j'eus gard&eacute;
+tu eus gard&eacute;
+il/elle eut gard&eacute;
+nous e&ucirc;mes gard&eacute;
+vous e&ucirc;tes gard&eacute;
+ils/elles eurent gard&eacute;

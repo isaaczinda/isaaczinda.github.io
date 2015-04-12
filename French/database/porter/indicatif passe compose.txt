@@ -1,6 +1,6 @@
-j'ai porte
-tu as porte
-il/elle a porte
-nous avons porte
-vous avez porte
-ils/elles ont porte
+j'ai port&eacute;
+tu as port&eacute;
+il/elle a port&eacute;
+nous avons port&eacute;
+vous avez port&eacute;
+ils/elles ont port&eacute;

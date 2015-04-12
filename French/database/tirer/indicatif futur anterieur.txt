@@ -1,6 +1,6 @@
-j'aurai tire
-tu auras tire
-il/elle aura tire
-nous aurons tire
-vous aurez tire
-ils/elles auront tire
+j'aurai tir&eacute;
+tu auras tir&eacute;
+il/elle aura tir&eacute;
+nous aurons tir&eacute;
+vous aurez tir&eacute;
+ils/elles auront tir&eacute;

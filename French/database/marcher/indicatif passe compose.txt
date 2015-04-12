@@ -1,6 +1,6 @@
-j'ai marche
-tu as marche
-il/elle a marche
-nous avons marche
-vous avez marche
-ils/elles ont marche
+j'ai march&eacute;
+tu as march&eacute;
+il/elle a march&eacute;
+nous avons march&eacute;
+vous avez march&eacute;
+ils/elles ont march&eacute;

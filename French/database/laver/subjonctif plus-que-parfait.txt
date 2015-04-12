@@ -1,6 +1,6 @@
-j'eusse lave
-tu eusses lave
-il/elle eut lave
-nous eussions lave
-vous eussiez lave
-ils/elles eussent lave
+j'eusse lav&eacute;
+tu eusses lav&eacute;
+il/elle e&ucirc;t lav&eacute;
+nous eussions lav&eacute;
+vous eussiez lav&eacute;
+ils/elles eussent lav&eacute;

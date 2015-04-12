@@ -1,8 +1,8 @@
-j'etais mort
-tu etais mort
-il etait mort
-elle etait morte
-nous etions morts
-vous etiez morts
-ils etaient  morts
-elles etaient mortes
+j'&eacute;tais mort
+tu &eacute;tais mort
+il &eacute;tait mort
+elle &eacute;tait morte
+nous &eacute;tions morts
+vous &eacute;tiez morts
+ils &eacute;taient  morts
+elles &eacute;taient mortes

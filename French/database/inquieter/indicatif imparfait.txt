@@ -1,6 +1,6 @@
-j'inquietais
-tu inquietais
-il/elle inquietait
-nous inquietions
-vous inquietiez
-ils/elles inquietaient
+j'inqui&eacute;tais
+tu inqui&eacute;tais
+il/elle inqui&eacute;tait
+nous inqui&eacute;tions
+vous inqui&eacute;tiez
+ils/elles inqui&eacute;taient

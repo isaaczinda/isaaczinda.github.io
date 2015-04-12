@@ -1,6 +1,6 @@
-j'aie chante
-tu aies chante
-il/elle ait chante
-nous ayons chante
-vous ayez chante
-ils/elles aient chante
+j'aie chant&eacute;
+tu aies chant&eacute;
+il/elle ait chant&eacute;
+nous ayons chant&eacute;
+vous ayez chant&eacute;
+ils/elles aient chant&eacute;

@@ -1,7 +1,7 @@
 je fusse souvenu
 tu fusses souvenu
-il fut souvenu
-elle fut souvenue
+il f&ucirc;t souvenu
+elle f&ucirc;t souvenue
 nous fussions souvenus
 vous fussiez souvenus
 ils fussent souvenus

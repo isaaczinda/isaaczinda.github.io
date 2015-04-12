@@ -1,6 +1,7 @@
 j'entrerais
 tu entrerais
 il/elle entrerait
+
 nous entrerions
 vous entreriez
 ils/elles entreraient

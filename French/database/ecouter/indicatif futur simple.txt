@@ -1,6 +1,6 @@
-j'ecouterai
-tu ecouteras
-il/elle ecoutera
-nous ecouterons
-vous ecouterez
-ils/elles ecouteront
+j'&eacute;couterai
+tu &eacute;couteras
+il/elle &eacute;coutera
+nous &eacute;couterons
+vous &eacute;couterez
+ils/elles &eacute;couteront

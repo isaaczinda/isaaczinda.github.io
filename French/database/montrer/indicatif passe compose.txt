@@ -1,6 +1,6 @@
-j'ai montre
-tu as montre
-il/elle a montre
-nous avons montre
-vous avez montre
-ils/elles ont montre
+j'ai montr&eacute;
+tu as montr&eacute;
+il/elle a montr&eacute;
+nous avons montr&eacute;
+vous avez montr&eacute;
+ils/elles ont montr&eacute;

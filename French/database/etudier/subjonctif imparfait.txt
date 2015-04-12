@@ -1,6 +1,6 @@
-j'etudiasse
-tu etudiasses
-il/elle etudi&acirc;t
-nous etudiassions
-vous etudiassiez
-ils/elles etudiassent
+j'&eacute;tudiasse
+tu &eacute;tudiasses
+il/elle &eacute;tudi&acirc;t
+nous &eacute;tudiassions
+vous &eacute;tudiassiez
+ils/elles &eacute;tudiassent

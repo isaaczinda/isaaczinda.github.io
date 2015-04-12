@@ -1,6 +1,7 @@
-je naitrais
-tu naitrais
-il/elle naitrait
-nous naitrions
-vous naitriez
-ils naitraient
+je na&icirc;trais
+tu na&icirc;trais
+il/elle na&icirc;trait
+
+nous na&icirc;trions
+vous na&icirc;triez
+ils na&icirc;traient

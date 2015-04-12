@@ -1,6 +1,6 @@
 je servisse
 tu servisses
-il/elle servit
+il/elle serv&icirc;t
 nous servissions
 vous servissiez
 ils/elles servissent

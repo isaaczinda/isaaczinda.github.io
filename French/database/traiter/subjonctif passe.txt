@@ -1,6 +1,6 @@
-j'aie traite
-tu aies traite
-il/elle ait traite
-nous ayons traite
-vous ayez traite
-ils/elles aient traite
+j'aie trait&eacute;
+tu aies trait&eacute;
+il/elle ait trait&eacute;
+nous ayons trait&eacute;
+vous ayez trait&eacute;
+ils/elles aient trait&eacute;

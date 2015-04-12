@@ -1,6 +1,6 @@
-j'eus trouve
-tu eus trouve
-il/elle eut trouve
-nous eumes trouve
-vous eutes trouve
-ils/elles eurent trouve
+j'eus trouv&eacute;
+tu eus trouv&eacute;
+il/elle eut trouv&eacute;
+nous e&ucirc;mes trouv&eacute;
+vous e&ucirc;tes trouv&eacute;
+ils/elles eurent trouv&eacute;

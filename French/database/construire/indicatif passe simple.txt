@@ -1,6 +1,6 @@
 je construisis
 tu construisis
 il/elle construisit
-nous construisimes
-vous construisites
+nous construis&icirc;mes
+vous construis&icirc;tes
 ils/elles construisirent

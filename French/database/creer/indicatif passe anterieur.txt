@@ -1,6 +1,6 @@
-j'eus cree
-tu eus cree
-il/elle eut cree
-nous eumes cree
-vous eutes cree
-ils/elles eurent cree
+j'eus cr&eacute;&eacute;
+tu eus cr&eacute;&eacute;
+il/elle eut cr&eacute;&eacute;
+nous e&ucirc;mes cr&eacute;&eacute;
+vous e&ucirc;tes cr&eacute;&eacute;
+ils/elles eurent cr&eacute;&eacute;

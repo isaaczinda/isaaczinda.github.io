@@ -1,6 +1,6 @@
-j'ai travaille
-tu as travaille
-il/elle a travaille
-nous avons travaille
-vous avez travaille
-ils/elles ont travaille
+j'ai travaill&eacute;
+tu as travaill&eacute;
+il/elle a travaill&eacute;
+nous avons travaill&eacute;
+vous avez travaill&eacute;
+ils/elles ont travaill&eacute;

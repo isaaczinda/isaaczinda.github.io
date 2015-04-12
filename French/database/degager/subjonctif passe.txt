@@ -1,6 +1,6 @@
-j'aie degage
-tu aies degage
-il/elle ait degage
-nous ayons degage
-vous ayez degage
-ils/elles aient degage
+j'aie d&eacute;gag&eacute;
+tu aies d&eacute;gag&eacute;
+il/elle ait d&eacute;gag&eacute;
+nous ayons d&eacute;gag&eacute;
+vous ayez d&eacute;gag&eacute;
+ils/elles aient d&eacute;gag&eacute;

@@ -1,6 +1,6 @@
-j'eus ecoute
-tu eus ecoute
-il/elle eut ecoute
-nous eumes ecoute
-vous eutes ecoute
-ils/elles eurent ecoute
+j'eus &eacute;cout&eacute;
+tu eus &eacute;cout&eacute;
+il/elle eut &eacute;cout&eacute;
+nous e&ucirc;mes &eacute;cout&eacute;
+vous e&ucirc;tes &eacute;cout&eacute;
+ils/elles eurent &eacute;cout&eacute;

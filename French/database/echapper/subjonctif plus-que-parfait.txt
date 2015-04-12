@@ -1,6 +1,6 @@
-j'eusse echappe
-tu eusses echappe
-il/elle eut echappe
-nous eussions echappe
-vous eussiez echappe
-ils/elles eussent echappe
+j'eusse &eacute;chapp&eacute;
+tu eusses &eacute;chapp&eacute;
+il/elle e&ucirc;t &eacute;chapp&eacute;
+nous eussions &eacute;chapp&eacute;
+vous eussiez &eacute;chapp&eacute;
+ils/elles eussent &eacute;chapp&eacute;

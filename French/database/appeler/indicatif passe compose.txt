@@ -1,6 +1,6 @@
-j'ai appele
-tu as appele
-il/elle a appele
-nous avons appele
-vous avez appele
-ils/elles ont appele
+j'ai appel&eacute;
+tu as appel&eacute;
+il/elle a appel&eacute;
+nous avons appel&eacute;
+vous avez appel&eacute;
+ils/elles ont appel&eacute;

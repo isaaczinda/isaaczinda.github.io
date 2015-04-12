@@ -1,6 +1,7 @@
 je descendisse
 tu descendisses
-il/elle descendit
+il/elle descend&icirc;t
+
 nous descendissions
 vous descendissiez
 ils descendissent

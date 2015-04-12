@@ -1,6 +1,6 @@
-je degageasse
-tu degageasses
-il/elle degage&acirc;t
-nous degageassions
-vous degageassiez
-ils/elles degageassent
+je d&eacute;gageasse
+tu d&eacute;gageasses
+il/elle d&eacute;gage&acirc;t
+nous d&eacute;gageassions
+vous d&eacute;gageassiez
+ils/elles d&eacute;gageassent

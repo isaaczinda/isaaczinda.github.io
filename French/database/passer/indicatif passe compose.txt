@@ -1,6 +1,6 @@
-j'ai passe
-tu as passe
-il/elle a passe
-nous avons passe
-vous avez passe
-ils/elles ont passe
+j'ai pass&eacute;
+tu as pass&eacute;
+il/elle a pass&eacute;
+nous avons pass&eacute;
+vous avez pass&eacute;
+ils/elles ont pass&eacute;

@@ -1,8 +1,8 @@
-je fus rentre
-tu fus rentre
-il fut rentre
-elle fut rentree
-nous fumes rentres
-vous futes rentres
-ils furent rentres
-elles furent rentrees
+je fus rentr&eacute;
+tu fus rentr&eacute;
+il fut rentr&eacute;
+elle fut rentr&eacute;e
+nous f&ucirc;mes rentr&eacute;s
+vous f&ucirc;tes rentr&eacute;s
+ils furent rentr&eacute;s
+elles furent rentr&eacute;es

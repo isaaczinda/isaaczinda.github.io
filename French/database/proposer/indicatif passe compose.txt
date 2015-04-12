@@ -1,6 +1,6 @@
-j'ai propose
-tu as propose
-il/elle a propose
-nous avons propose
-vous avez propose
-ils/elles ont propose
+j'ai propos&eacute;
+tu as propos&eacute;
+il/elle a propos&eacute;
+nous avons propos&eacute;
+vous avez propos&eacute;
+ils/elles ont propos&eacute;

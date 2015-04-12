@@ -1,6 +1,6 @@
-je reparai
-tu reparas
-il/elle repara
-nous repar&acirc;mes
-vous repar&acirc;tes
-ils/elles repar&egrave;rent
+je r&eacute;parai
+tu r&eacute;paras
+il/elle r&eacute;para
+nous r&eacute;par&acirc;mes
+vous r&eacute;par&acirc;tes
+ils/elles r&eacute;par&egrave;rent

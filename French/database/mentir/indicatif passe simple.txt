@@ -1,6 +1,6 @@
 je mentis
 tu mentis
 il/elle mentit
-nous mentimes
-vous mentites
+nous ment&icirc;mes
+vous ment&icirc;tes
 ils/elles mentirent

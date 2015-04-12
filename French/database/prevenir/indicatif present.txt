@@ -1,6 +1,6 @@
-je previens
-tu previens
-il/elle previent
-nous prevenons
-vous prevenez
-ils/elles previennent
+je pr&eacute;viens
+tu pr&eacute;viens
+il/elle pr&eacute;vient
+nous pr&eacute;venons
+vous pr&eacute;venez
+ils/elles pr&eacute;viennent

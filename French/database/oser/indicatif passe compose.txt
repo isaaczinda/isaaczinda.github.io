@@ -1,6 +1,6 @@
-j'ai ose
-tu as ose
-il/elle a ose
-nous avons ose
-vous avez ose
-ils/elles ont ose
+j'ai os&eacute;
+tu as os&eacute;
+il/elle a os&eacute;
+nous avons os&eacute;
+vous avez os&eacute;
+ils/elles ont os&eacute;

@@ -1,8 +1,8 @@
-j'etais souvenu
-tu etais souvenu
-il etait souvenu
-elle etait souvenue
-nous etions souvenus
-vous etiez souvenus
-ils etaient  souvenus
-elles etaient souvenues
+j'&eacute;tais souvenu
+tu &eacute;tais souvenu
+il &eacute;tait souvenu
+elle &eacute;tait souvenue
+nous &eacute;tions souvenus
+vous &eacute;tiez souvenus
+ils &eacute;taient  souvenus
+elles &eacute;taient souvenues

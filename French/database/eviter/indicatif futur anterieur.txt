@@ -1,6 +1,6 @@
-j'aurai evite
-tu auras evite
-il/elle aura evite
-nous aurons evite
-vous aurez evite
-ils/elles auront evite
+j'aurai &eacute;vit&eacute;
+tu auras &eacute;vit&eacute;
+il/elle aura &eacute;vit&eacute;
+nous aurons &eacute;vit&eacute;
+vous aurez &eacute;vit&eacute;
+ils/elles auront &eacute;vit&eacute;

@@ -1,6 +1,6 @@
-j'aie tourne
-tu aies tourne
-il/elle ait tourne
-nous ayons tourne
-vous ayez tourne
-ils/elles aient tourne
+j'aie tourn&eacute;
+tu aies tourn&eacute;
+il/elle ait tourn&eacute;
+nous ayons tourn&eacute;
+vous ayez tourn&eacute;
+ils/elles aient tourn&eacute;

@@ -1,6 +1,6 @@
-j'eus reveille
-tu eus reveille
-il/elle eut reveille
-nous eumes reveille
-vous eutes reveille
-ils/elles eurent reveille
+j'eus r&eacute;veill&eacute;
+tu eus r&eacute;veill&eacute;
+il/elle eut r&eacute;veill&eacute;
+nous e&ucirc;mes r&eacute;veill&eacute;
+vous e&ucirc;tes r&eacute;veill&eacute;
+ils/elles eurent r&eacute;veill&eacute;

@@ -1,6 +1,6 @@
-j'eus ignore
-tu eus ignore
-il/elle eut ignore
-nous eumes ignore
-vous eutes ignore
-ils/elles eurent ignore
+j'eus ignor&eacute;
+tu eus ignor&eacute;
+il/elle eut ignor&eacute;
+nous e&ucirc;mes ignor&eacute;
+vous e&ucirc;tes ignor&eacute;
+ils/elles eurent ignor&eacute;

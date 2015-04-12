@@ -1,8 +1,8 @@
-je serai entre
-tu seras entre
-il sera entre
-elle sera entree
-nous serons entres
-vous serez entres
-ils seront entres
-elles seront entrees
+je serai entr&eacute;
+tu seras entr&eacute;
+il sera entr&eacute;
+elle sera entr&eacute;e
+nous serons entr&eacute;s
+vous serez entr&eacute;s
+ils seront entr&eacute;s
+elles seront entr&eacute;es

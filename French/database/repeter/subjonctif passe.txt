@@ -1,6 +1,6 @@
-j'aie repete
-tu aies repete
-il/elle ait repete
-nous ayons repete
-vous ayez repete
-ils/elles aient repete
+j'aie r&eacute;p&eacute;t&eacute;
+tu aies r&eacute;p&eacute;t&eacute;
+il/elle ait r&eacute;p&eacute;t&eacute;
+nous ayons r&eacute;p&eacute;t&eacute;
+vous ayez r&eacute;p&eacute;t&eacute;
+ils/elles aient r&eacute;p&eacute;t&eacute;

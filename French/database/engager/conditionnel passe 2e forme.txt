@@ -1,6 +1,6 @@
-j'eusse engage
-tu eusses engage
-il/elle eut engage
-nous eussions engage
-vous eussiez engage
-ils/elles eussent engage
+j'eusse engag&eacute;
+tu eusses engag&eacute;
+il/elle e&ucirc;t engag&eacute;
+nous eussions engag&eacute;
+vous eussiez engag&eacute;
+ils/elles eussent engag&eacute;

@@ -1,6 +1,6 @@
-j'eusse quitte
-tu eusses quitte
-il/elle eut quitte
-nous eussions quitte
-vous eussiez quitte
-ils/elles eussent quitte
+j'eusse quitt&eacute;
+tu eusses quitt&eacute;
+il/elle e&ucirc;t quitt&eacute;
+nous eussions quitt&eacute;
+vous eussiez quitt&eacute;
+ils/elles eussent quitt&eacute;

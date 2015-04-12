@@ -1,8 +1,8 @@
-je fus reste
-tu fus reste
-il fut reste
-elle fut restee
-nous fumes restes
-vous futes restes
-ils furent restes
-elles furent restees
+je fus rest&eacute;
+tu fus rest&eacute;
+il fut rest&eacute;
+elle fut rest&eacute;e
+nous f&ucirc;mes rest&eacute;s
+vous f&ucirc;tes rest&eacute;s
+ils furent rest&eacute;s
+elles furent rest&eacute;es

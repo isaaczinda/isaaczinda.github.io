@@ -1,6 +1,6 @@
-je separai
-tu separas
-il/elle separa
-nous separ&acirc;mes
-vous separ&acirc;tes
-ils/elles separ&egrave;rent
+je s&eacute;parai
+tu s&eacute;paras
+il/elle s&eacute;para
+nous s&eacute;par&acirc;mes
+vous s&eacute;par&acirc;tes
+ils/elles s&eacute;par&egrave;rent

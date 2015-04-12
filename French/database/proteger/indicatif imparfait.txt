@@ -1,6 +1,6 @@
-je protegeais
-tu protegeais
-il/elle protegeait
-nous protegions
-vous protegiez
-ils/elles protegeaient
+je prot&eacute;geais
+tu prot&eacute;geais
+il/elle prot&eacute;geait
+nous prot&eacute;gions
+vous prot&eacute;giez
+ils/elles prot&eacute;geaient

@@ -1,6 +1,6 @@
-j'aie ressemble
-tu aies ressemble
-il/elle ait ressemble
-nous ayons ressemble
-vous ayez ressemble
-ils/elles aient ressemble
+j'aie ressembl&eacute;
+tu aies ressembl&eacute;
+il/elle ait ressembl&eacute;
+nous ayons ressembl&eacute;
+vous ayez ressembl&eacute;
+ils/elles aient ressembl&eacute;

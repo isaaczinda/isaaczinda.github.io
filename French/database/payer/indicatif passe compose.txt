@@ -1,6 +1,6 @@
-j'ai paye
-tu as paye
-il/elle a paye
-nous avons paye
-vous avez paye
-ils/elles ont paye
+j'ai pay&eacute;
+tu as pay&eacute;
+il/elle a pay&eacute;
+nous avons pay&eacute;
+vous avez pay&eacute;
+ils/elles ont pay&eacute;

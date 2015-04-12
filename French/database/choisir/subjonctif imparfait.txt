@@ -1,6 +1,6 @@
 je choisisse
 tu choisisses
-il/elle choisit
+il/elle chois&icirc;t
 nous choisissions
 vous choisissiez
 ils/elles choisissent

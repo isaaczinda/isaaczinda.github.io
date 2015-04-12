@@ -1,6 +1,6 @@
-j'aurai traite
-tu auras traite
-il/elle aura traite
-nous aurons traite
-vous aurez traite
-ils/elles auront traite
+j'aurai trait&eacute;
+tu auras trait&eacute;
+il/elle aura trait&eacute;
+nous aurons trait&eacute;
+vous aurez trait&eacute;
+ils/elles auront trait&eacute;

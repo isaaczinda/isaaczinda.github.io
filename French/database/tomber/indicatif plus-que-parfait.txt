@@ -1,8 +1,8 @@
-j'etais tombe
-tu etais tombe
-il etait tombe
-elle etait tombee
-nous etions tombes
-vous etiez tombes
-ils etaient  tombes
-elles etaient tombees
+j'&eacute;tais tomb&eacute;
+tu &eacute;tais tomb&eacute;
+il &eacute;tait tomb&eacute;
+elle &eacute;tait tomb&eacute;e
+nous &eacute;tions tomb&eacute;s
+vous &eacute;tiez tomb&eacute;s
+ils &eacute;taient  tomb&eacute;s
+elles &eacute;taient tomb&eacute;es

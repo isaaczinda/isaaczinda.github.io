@@ -1,6 +1,6 @@
-j'aurais ecoute
-tu aurais ecoute
-il/elle aurait ecoute
-nous aurions ecoute
-vous auriez ecoute
-ils/elles auraient ecoute
+j'aurais &eacute;cout&eacute;
+tu aurais &eacute;cout&eacute;
+il/elle aurait &eacute;cout&eacute;
+nous aurions &eacute;cout&eacute;
+vous auriez &eacute;cout&eacute;
+ils/elles auraient &eacute;cout&eacute;

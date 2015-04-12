@@ -1,6 +1,6 @@
-j'ai repete
-tu as repete
-il/elle a repete
-nous avons repete
-vous avez repete
-ils/elles ont repete
+j'ai r&eacute;p&eacute;t&eacute;
+tu as r&eacute;p&eacute;t&eacute;
+il/elle a r&eacute;p&eacute;t&eacute;
+nous avons r&eacute;p&eacute;t&eacute;
+vous avez r&eacute;p&eacute;t&eacute;
+ils/elles ont r&eacute;p&eacute;t&eacute;

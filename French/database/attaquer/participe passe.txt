@@ -1,2 +1,2 @@
-attaque
-ayant attaque
+attaqu&eacute;
+ayant attaqu&eacute;

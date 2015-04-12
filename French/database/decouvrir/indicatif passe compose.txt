@@ -1,6 +1,6 @@
-j'ai decouvert
-tu as decouvert
-il/elle a decouvert
-nous avons decouvert
-vous avez decouvert
-ils/elles ont decouvert
+j'ai d&eacute;couvert
+tu as d&eacute;couvert
+il/elle a d&eacute;couvert
+nous avons d&eacute;couvert
+vous avez d&eacute;couvert
+ils/elles ont d&eacute;couvert

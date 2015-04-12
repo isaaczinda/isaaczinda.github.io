@@ -1,6 +1,6 @@
-j'aie mene
-tu aies mene
-il/elle ait mene
-nous ayons mene
-vous ayez mene
-ils/elles aient mene
+j'aie men&eacute;
+tu aies men&eacute;
+il/elle ait men&eacute;
+nous ayons men&eacute;
+vous ayez men&eacute;
+ils/elles aient men&eacute;

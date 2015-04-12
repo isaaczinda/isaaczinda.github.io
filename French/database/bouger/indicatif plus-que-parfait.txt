@@ -1,6 +1,6 @@
-j'avais bouge
-tu avais bouge
-il/elle avait bouge
-nous avions bouge
-vous aviez bouge
-ils/elles avaient bouge
+j'avais boug&eacute;
+tu avais boug&eacute;
+il/elle avait boug&eacute;
+nous avions boug&eacute;
+vous aviez boug&eacute;
+ils/elles avaient boug&eacute;

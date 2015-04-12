@@ -1,6 +1,6 @@
-j'ai evite
-tu as evite
-il/elle a evite
-nous avons evite
-vous avez evite
-ils/elles ont evite
+j'ai &eacute;vit&eacute;
+tu as &eacute;vit&eacute;
+il/elle a &eacute;vit&eacute;
+nous avons &eacute;vit&eacute;
+vous avez &eacute;vit&eacute;
+ils/elles ont &eacute;vit&eacute;

@@ -1,6 +1,6 @@
-je merite
-tu merites
-il/elle merite
-nous meritons
-vous meritez
-ils/elles meritent
+je m&eacute;rite
+tu m&eacute;rites
+il/elle m&eacute;rite
+nous m&eacute;ritons
+vous m&eacute;ritez
+ils/elles m&eacute;ritent

@@ -1,6 +1,6 @@
 je grandis
 tu grandis
 il/elle grandit
-nous grandimes
-vous grandites
+nous grand&icirc;mes
+vous grand&icirc;tes
 ils/elles grandirent

@@ -1,6 +1,6 @@
 je courus
 tu courus
 il/elle courut
-nous courumes
-vous courutes
+nous cour&ucirc;mes
+vous cour&ucirc;tes
 ils/elles coururent

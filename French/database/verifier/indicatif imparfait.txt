@@ -1,6 +1,6 @@
-je verifiais
-tu verifiais
-il/elle verifiait
-nous verifiions
-vous verifiiez
-ils/elles verifiaient
+je v&eacute;rifiais
+tu v&eacute;rifiais
+il/elle v&eacute;rifiait
+nous v&eacute;rifiions
+vous v&eacute;rifiiez
+ils/elles v&eacute;rifiaient

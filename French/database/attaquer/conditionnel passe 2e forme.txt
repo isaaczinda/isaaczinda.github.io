@@ -1,6 +1,6 @@
-j'eusse attaque
-tu eusses attaque
-il/elle eut attaque
-nous eussions attaque
-vous eussiez attaque
-ils/elles eussent attaque
+j'eusse attaqu&eacute;
+tu eusses attaqu&eacute;
+il/elle e&ucirc;t attaqu&eacute;
+nous eussions attaqu&eacute;
+vous eussiez attaqu&eacute;
+ils/elles eussent attaqu&eacute;

@@ -1,6 +1,7 @@
 je rentrerai
 tu rentreras
 il/elle rentrera
+
 nous rentrerons
 vous rentrerez
 ils/elles rentreront

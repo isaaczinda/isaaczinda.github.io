@@ -1,6 +1,6 @@
-j'eus vecu
-tu eus vecu
-il/elle eut vecu
-nous eumes vecu
-vous eutes vecu
-ils/elles eurent vecu
+j'eus v&eacute;cu
+tu eus v&eacute;cu
+il/elle eut v&eacute;cu
+nous e&ucirc;mes v&eacute;cu
+vous e&ucirc;tes v&eacute;cu
+ils/elles eurent v&eacute;cu

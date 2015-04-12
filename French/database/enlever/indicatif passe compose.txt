@@ -1,6 +1,6 @@
-j'ai enleve
-tu as enleve
-il/elle a enleve
-nous avons enleve
-vous avez enleve
-ils/elles ont enleve
+j'ai enlev&eacute;
+tu as enlev&eacute;
+il/elle a enlev&eacute;
+nous avons enlev&eacute;
+vous avez enlev&eacute;
+ils/elles ont enlev&eacute;

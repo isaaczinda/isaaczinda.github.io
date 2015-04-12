@@ -1,6 +1,6 @@
-je dine
-tu dines
-il/elle dine
-nous dinions
-vous diniez
-ils/elles dinent
+je d&icirc;ne
+tu d&icirc;nes
+il/elle d&icirc;ne
+nous d&icirc;nions
+vous d&icirc;niez
+ils/elles d&icirc;nent

@@ -1,6 +1,6 @@
 je perdis
 tu perdis
 il/elle perdit
-nous perdimes
-vous perdites
+nous perd&icirc;mes
+vous perd&icirc;tes
 ils/elles perdirent

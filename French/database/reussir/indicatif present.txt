@@ -1,6 +1,6 @@
-je reussis
-tu reussis
-il/elle reussit
-nous reussissons
-vous reussissez
-ils/elles reussissent
+je r&eacute;ussis
+tu r&eacute;ussis
+il/elle r&eacute;ussit
+nous r&eacute;ussissons
+vous r&eacute;ussissez
+ils/elles r&eacute;ussissent

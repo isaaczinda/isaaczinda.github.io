@@ -1,6 +1,6 @@
-j'avais repose
-tu avais repose
-il/elle avait repose
-nous avions repose
-vous aviez repose
-ils/elles avaient repose
+j'avais repos&eacute;
+tu avais repos&eacute;
+il/elle avait repos&eacute;
+nous avions repos&eacute;
+vous aviez repos&eacute;
+ils/elles avaient repos&eacute;

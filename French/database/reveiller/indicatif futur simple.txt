@@ -1,6 +1,6 @@
-je reveillerai
-tu reveilleras
-il/elle reveillera
-nous reveillerons
-vous reveillerez
-ils/elles reveilleront
+je r&eacute;veillerai
+tu r&eacute;veilleras
+il/elle r&eacute;veillera
+nous r&eacute;veillerons
+vous r&eacute;veillerez
+ils/elles r&eacute;veilleront

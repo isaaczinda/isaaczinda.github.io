@@ -1,6 +1,6 @@
-j'eviterai
-tu eviteras
-il/elle evitera
-nous eviterons
-vous eviterez
-ils/elles eviteront
+j'&eacute;viterai
+tu &eacute;viteras
+il/elle &eacute;vitera
+nous &eacute;viterons
+vous &eacute;viterez
+ils/elles &eacute;viteront

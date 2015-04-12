@@ -1,6 +1,6 @@
-je previsse
-tu previsses
-il/elle previt
-nous previssions
-vous previssiez
-ils/elles previssent
+je pr&eacute;visse
+tu pr&eacute;visses
+il/elle pr&eacute;v&icirc;t
+nous pr&eacute;vissions
+vous pr&eacute;vissiez
+ils/elles pr&eacute;vissent

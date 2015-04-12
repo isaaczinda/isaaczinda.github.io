@@ -1,6 +1,6 @@
-j'eusse refuse
-tu eusses refuse
-il/elle eut refuse
-nous eussions refuse
-vous eussiez refuse
-ils/elles eussent refuse
+j'eusse refus&eacute;
+tu eusses refus&eacute;
+il/elle e&ucirc;t refus&eacute;
+nous eussions refus&eacute;
+vous eussiez refus&eacute;
+ils/elles eussent refus&eacute;

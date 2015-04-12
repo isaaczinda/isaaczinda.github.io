@@ -1,6 +1,6 @@
-j'ai rate
-tu as rate
-il/elle a rate
-nous avons rate
-vous avez rate
-ils/elles ont rate
+j'ai rat&eacute;
+tu as rat&eacute;
+il/elle a rat&eacute;
+nous avons rat&eacute;
+vous avez rat&eacute;
+ils/elles ont rat&eacute;

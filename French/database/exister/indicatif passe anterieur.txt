@@ -1,6 +1,6 @@
-j'eus existe
-tu eus existe
-il/elle eut existe
-nous eumes existe
-vous eutes existe
-ils/elles eurent existe
+j'eus exist&eacute;
+tu eus exist&eacute;
+il/elle eut exist&eacute;
+nous e&ucirc;mes exist&eacute;
+vous e&ucirc;tes exist&eacute;
+ils/elles eurent exist&eacute;

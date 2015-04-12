@@ -1,6 +1,6 @@
-j'aurai tue
-tu auras tue
-il/elle aura tue
-nous aurons tue
-vous aurez tue
-ils/elles auront tue
+j'aurai tu&eacute;
+tu auras tu&eacute;
+il/elle aura tu&eacute;
+nous aurons tu&eacute;
+vous aurez tu&eacute;
+ils/elles auront tu&eacute;

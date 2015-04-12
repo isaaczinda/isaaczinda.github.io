@@ -1,6 +1,6 @@
-j'eus rate
-tu eus rate
-il/elle eut rate
-nous eumes rate
-vous eutes rate
-ils/elles eurent rate
+j'eus rat&eacute;
+tu eus rat&eacute;
+il/elle eut rat&eacute;
+nous e&ucirc;mes rat&eacute;
+vous e&ucirc;tes rat&eacute;
+ils/elles eurent rat&eacute;

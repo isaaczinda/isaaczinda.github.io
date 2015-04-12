@@ -1,6 +1,7 @@
 je devinsse
 tu devinsses
-il/elle devint
+il/elle dev&icirc;nt
+
 nous devinssions
 vous devinssiez
 ils devinssent

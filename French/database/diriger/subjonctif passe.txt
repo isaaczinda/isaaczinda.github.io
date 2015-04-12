@@ -1,6 +1,6 @@
-j'aie dirige
-tu aies dirige
-il/elle ait dirige
-nous ayons dirige
-vous ayez dirige
-ils/elles aient dirige
+j'aie dirig&eacute;
+tu aies dirig&eacute;
+il/elle ait dirig&eacute;
+nous ayons dirig&eacute;
+vous ayez dirig&eacute;
+ils/elles aient dirig&eacute;

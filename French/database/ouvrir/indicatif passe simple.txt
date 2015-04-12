@@ -1,6 +1,6 @@
 j'ouvris
 tu ouvris
 il/elle ouvrit
-nous ouvrimes
-vous ouvrites
+nous ouvr&icirc;mes
+vous ouvr&icirc;tes
 ils/elles ouvrirent

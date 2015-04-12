@@ -1,6 +1,6 @@
-j'eus traverse
-tu eus traverse
-il/elle eut traverse
-nous eumes traverse
-vous eutes traverse
-ils/elles eurent traverse
+j'eus travers&eacute;
+tu eus travers&eacute;
+il/elle eut travers&eacute;
+nous e&ucirc;mes travers&eacute;
+vous e&ucirc;tes travers&eacute;
+ils/elles eurent travers&eacute;

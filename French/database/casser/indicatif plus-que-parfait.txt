@@ -1,6 +1,6 @@
-j'avais casse
-tu avais casse
-il/elle avait casse
-nous avions casse
-vous aviez casse
-ils/elles avaient casse
+j'avais cass&eacute;
+tu avais cass&eacute;
+il/elle avait cass&eacute;
+nous avions cass&eacute;
+vous aviez cass&eacute;
+ils/elles avaient cass&eacute;

@@ -1,6 +1,6 @@
-je dep&ecirc;chais
-tu dep&ecirc;chais
-il/elle dep&ecirc;chait
-nous dep&ecirc;chions
-vous dep&ecirc;chiez
-ils/elles dep&ecirc;chaient
+je d&eacute;p&ecirc;chais
+tu d&eacute;p&ecirc;chais
+il/elle d&eacute;p&ecirc;chait
+nous d&eacute;p&ecirc;chions
+vous d&eacute;p&ecirc;chiez
+ils/elles d&eacute;p&ecirc;chaient

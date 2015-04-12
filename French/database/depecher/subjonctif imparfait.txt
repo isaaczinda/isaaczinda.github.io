@@ -1,6 +1,6 @@
-je dep&ecirc;chasse
-tu dep&ecirc;chasses
-il/elle dep&ecirc;ch&acirc;t
-nous dep&ecirc;chassions
-vous dep&ecirc;chassiez
-ils/elles dep&ecirc;chassent
+je d&eacute;p&ecirc;chasse
+tu d&eacute;p&ecirc;chasses
+il/elle d&eacute;p&ecirc;ch&acirc;t
+nous d&eacute;p&ecirc;chassions
+vous d&eacute;p&ecirc;chassiez
+ils/elles d&eacute;p&ecirc;chassent

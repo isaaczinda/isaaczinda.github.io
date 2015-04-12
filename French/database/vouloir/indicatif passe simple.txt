@@ -1,6 +1,6 @@
 je voulus
 tu voulus
 il/elle voulut
-nous voulumes
-vous voulutes
+nous voul&ucirc;mes
+vous voul&ucirc;tes
 ils/elles voulurent

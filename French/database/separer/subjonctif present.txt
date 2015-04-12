@@ -1,6 +1,6 @@
-je separe
-tu separes
-il/elle separe
-nous separions
-vous separiez
-ils/elles separent
+je s&eacute;pare
+tu s&eacute;pares
+il/elle s&eacute;pare
+nous s&eacute;parions
+vous s&eacute;pariez
+ils/elles s&eacute;parent

@@ -1,6 +1,6 @@
 je battisse
 tu battisses
-il/elle battit
+il/elle batt&icirc;t
 nous battissions
 vous battissiez
 ils/elles battissent

@@ -1,6 +1,6 @@
-j'avais inquiete
-tu avais inquiete
-il/elle avait inquiete
-nous avions inquiete
-vous aviez inquiete
-ils/elles avaient inquiete
+j'avais inqui&eacute;t&eacute;
+tu avais inqui&eacute;t&eacute;
+il/elle avait inqui&eacute;t&eacute;
+nous avions inqui&eacute;t&eacute;
+vous aviez inqui&eacute;t&eacute;
+ils/elles avaient inqui&eacute;t&eacute;

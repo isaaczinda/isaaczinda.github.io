@@ -1,8 +1,8 @@
-je suis arrive
-tu es arrive
-il est arrive
-elle est arrivee
-nous sommes arrives
-vous &ecirc;tes arrives
-ils sont arrives
-elles sont arrivees
+je suis arriv&eacute;
+tu es arriv&eacute;
+il est arriv&eacute;
+elle est arriv&eacute;e
+nous sommes arriv&eacute;s
+vous &ecirc;tes arriv&eacute;s
+ils sont arriv&eacute;s
+elles sont arriv&eacute;es

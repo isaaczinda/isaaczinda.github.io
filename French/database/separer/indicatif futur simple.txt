@@ -1,6 +1,6 @@
-je separerai
-tu separeras
-il/elle separera
-nous separerons
-vous separerez
-ils/elles separeront
+je s&eacute;parerai
+tu s&eacute;pareras
+il/elle s&eacute;parera
+nous s&eacute;parerons
+vous s&eacute;parerez
+ils/elles s&eacute;pareront

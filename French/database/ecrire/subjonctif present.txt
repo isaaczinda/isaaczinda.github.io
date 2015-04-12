@@ -1,6 +1,6 @@
-j'ecrive
-tu ecrives
-il/elle ecrive
-nous ecrivions
-vous ecriviez
-ils/elles ecrivent
+j'&eacute;crive
+tu &eacute;crives
+il/elle &eacute;crive
+nous &eacute;crivions
+vous &eacute;criviez
+ils/elles &eacute;crivent

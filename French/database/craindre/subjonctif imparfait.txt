@@ -1,6 +1,6 @@
 je craignisse
 tu craignisses
-il/elle craignit
+il/elle craign&icirc;t
 nous craignissions
 vous craignissiez
 ils/elles craignissent

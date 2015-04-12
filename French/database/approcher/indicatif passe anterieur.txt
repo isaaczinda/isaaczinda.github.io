@@ -1,6 +1,6 @@
-j'eus approche
-tu eus approche
-il/elle eut approche
-nous eumes approche
-vous eutes approche
-ils/elles eurent approche
+j'eus approch&eacute;
+tu eus approch&eacute;
+il/elle eut approch&eacute;
+nous e&ucirc;mes approch&eacute;
+vous e&ucirc;tes approch&eacute;
+ils/elles eurent approch&eacute;

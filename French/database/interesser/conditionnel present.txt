@@ -1,6 +1,6 @@
-j'interesserais
-tu interesserais
-il/elle interesserait
-nous interesserions
-vous interesseriez
-ils/elles interesseraient
+j'int&eacute;resserais
+tu int&eacute;resserais
+il/elle int&eacute;resserait
+nous int&eacute;resserions
+vous int&eacute;resseriez
+ils/elles int&eacute;resseraient

@@ -1,6 +1,6 @@
-j'aie amene
-tu aies amene
-il/elle ait amene
-nous ayons amene
-vous ayez amene
-ils/elles aient amene
+j'aie amen&eacute;
+tu aies amen&eacute;
+il/elle ait amen&eacute;
+nous ayons amen&eacute;
+vous ayez amen&eacute;
+ils/elles aient amen&eacute;

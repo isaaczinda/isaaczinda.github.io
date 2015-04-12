@@ -1,6 +1,6 @@
 je plusse
 tu plusses
-il/elle plut
+il/elle pl&ucirc;t
 nous plussions
 vous plussiez
 ils/elles plussent

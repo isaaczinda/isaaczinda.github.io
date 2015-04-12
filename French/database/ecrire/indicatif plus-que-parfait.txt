@@ -1,6 +1,6 @@
-j'avais ecrit
-tu avais ecrit
-il/elle avait ecrit
-nous avions ecrit
-vous aviez ecrit
-ils/elles avaient ecrit
+j'avais &eacute;crit
+tu avais &eacute;crit
+il/elle avait &eacute;crit
+nous avions &eacute;crit
+vous aviez &eacute;crit
+ils/elles avaient &eacute;crit

@@ -1,8 +1,8 @@
-je serai arrive
-tu seras arrive
-il sera arrive
-elle sera arrivee
-nous serons arrives
-vous serez arrives
-ils seront arrives
-elles seront arrivees
+je serai arriv&eacute;
+tu seras arriv&eacute;
+il sera arriv&eacute;
+elle sera arriv&eacute;e
+nous serons arriv&eacute;s
+vous serez arriv&eacute;s
+ils seront arriv&eacute;s
+elles seront arriv&eacute;es

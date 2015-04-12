@@ -1,6 +1,6 @@
-j'aurais gagne
-tu aurais gagne
-il/elle aurait gagne
-nous aurions gagne
-vous auriez gagne
-ils/elles auraient gagne
+j'aurais gagn&eacute;
+tu aurais gagn&eacute;
+il/elle aurait gagn&eacute;
+nous aurions gagn&eacute;
+vous auriez gagn&eacute;
+ils/elles auraient gagn&eacute;

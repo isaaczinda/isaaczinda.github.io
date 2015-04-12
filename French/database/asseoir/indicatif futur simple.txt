@@ -1,6 +1,6 @@
-j'assoirai/assierai
-tu assoiras/assieras
-il/elle assoira/assiera
-nous assoirons/assierons
-vous assoirez/assierez
-ils/elles assoiront/assieront
+j'assoirai/assi&eacute;rai
+tu assoiras/assi&eacute;ras
+il/elle assoira/assi&eacute;ra
+nous assoirons/assi&eacute;rons
+vous assoirez/assi&eacute;rez
+ils/elles assoiront/assi&eacute;ront

@@ -1,6 +1,6 @@
-j'eus tire
-tu eus tire
-il/elle eut tire
-nous eumes tire
-vous eutes tire
-ils/elles eurent tire
+j'eus tir&eacute;
+tu eus tir&eacute;
+il/elle eut tir&eacute;
+nous e&ucirc;mes tir&eacute;
+vous e&ucirc;tes tir&eacute;
+ils/elles eurent tir&eacute;

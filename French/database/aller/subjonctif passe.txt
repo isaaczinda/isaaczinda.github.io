@@ -1,8 +1,8 @@
-je sois alle
-tu sois alle
-il soit alle
-elle soit allee
-nous soyons alles
-vous soyez alles
-ils soient alles
-elles soient allees
+je sois all&eacute;
+tu sois all&eacute;
+il soit all&eacute;
+elle soit all&eacute;e
+nous soyons all&eacute;s
+vous soyez all&eacute;s
+ils soient all&eacute;s
+elles soient all&eacute;es

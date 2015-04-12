@@ -1,6 +1,6 @@
-j'avais quitte
-tu avais quitte
-il/elle avait quitte
-nous avions quitte
-vous aviez quitte
-ils/elles avaient quitte
+j'avais quitt&eacute;
+tu avais quitt&eacute;
+il/elle avait quitt&eacute;
+nous avions quitt&eacute;
+vous aviez quitt&eacute;
+ils/elles avaient quitt&eacute;

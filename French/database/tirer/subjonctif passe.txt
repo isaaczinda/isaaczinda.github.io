@@ -1,6 +1,6 @@
-j'aie tire
-tu aies tire
-il/elle ait tire
-nous ayons tire
-vous ayez tire
-ils/elles aient tire
+j'aie tir&eacute;
+tu aies tir&eacute;
+il/elle ait tir&eacute;
+nous ayons tir&eacute;
+vous ayez tir&eacute;
+ils/elles aient tir&eacute;

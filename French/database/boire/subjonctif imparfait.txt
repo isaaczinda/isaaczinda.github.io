@@ -1,6 +1,6 @@
 je busse
 tu busses
-il/elle but
+il/elle b&ucirc;t
 nous bussions
 vous bussiez
 ils/elles bussent

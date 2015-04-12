@@ -1,6 +1,6 @@
-j'avais arr&ecirc;te
-tu avais arr&ecirc;te
-il/elle avait arr&ecirc;te
-nous avions arr&ecirc;te
-vous aviez arr&ecirc;te
-ils/elles avaient arr&ecirc;te
+j'avais arr&ecirc;t&eacute;
+tu avais arr&ecirc;t&eacute;
+il/elle avait arr&ecirc;t&eacute;
+nous avions arr&ecirc;t&eacute;
+vous aviez arr&ecirc;t&eacute;
+ils/elles avaient arr&ecirc;t&eacute;

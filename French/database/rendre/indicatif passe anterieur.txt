@@ -1,6 +1,6 @@
 j'eus rendu
 tu eus rendu
 il/elle eut rendu
-nous eumes rendu
-vous eutes rendu
+nous e&ucirc;mes rendu
+vous e&ucirc;tes rendu
 ils/elles eurent rendu

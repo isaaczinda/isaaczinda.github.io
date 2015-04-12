@@ -1,2 +1,2 @@
-ecrit
-ayant ecrit
+&eacute;crit
+ayant &eacute;crit

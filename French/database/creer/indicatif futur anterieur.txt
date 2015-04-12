@@ -1,6 +1,6 @@
-j'aurai cree
-tu auras cree
-il/elle aura cree
-nous aurons cree
-vous aurez cree
-ils/elles auront cree
+j'aurai cr&eacute;&eacute;
+tu auras cr&eacute;&eacute;
+il/elle aura cr&eacute;&eacute;
+nous aurons cr&eacute;&eacute;
+vous aurez cr&eacute;&eacute;
+ils/elles auront cr&eacute;&eacute;

@@ -1,6 +1,6 @@
 je dormisse
 tu dormisses
-il/elle dormit
+il/elle dorm&icirc;t
 nous dormissions
 vous dormissiez
 ils/elles dormissent

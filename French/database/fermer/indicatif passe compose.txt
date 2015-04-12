@@ -1,6 +1,6 @@
-j'ai ferme
-tu as ferme
-il/elle a ferme
-nous avons ferme
-vous avez ferme
-ils/elles ont ferme
+j'ai ferm&eacute;
+tu as ferm&eacute;
+il/elle a ferm&eacute;
+nous avons ferm&eacute;
+vous avez ferm&eacute;
+ils/elles ont ferm&eacute;

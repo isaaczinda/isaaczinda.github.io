@@ -1,6 +1,6 @@
 je dis
 tu dis
 il/elle dit
-nous dimes
-vous dites
+nous d&icirc;mes
+vous d&icirc;tes
 ils/elles dirent

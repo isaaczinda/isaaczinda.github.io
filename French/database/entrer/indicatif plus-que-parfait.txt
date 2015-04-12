@@ -1,8 +1,8 @@
-j'etais entre
-tu etais entre
-il etait entre
-elle etait entree
-nous etions entres
-vous etiez entres
-ils etaient  entres
-elles etaient entrees
+j'&eacute;tais entr&eacute;
+tu &eacute;tais entr&eacute;
+il &eacute;tait entr&eacute;
+elle &eacute;tait entr&eacute;e
+nous &eacute;tions entr&eacute;s
+vous &eacute;tiez entr&eacute;s
+ils &eacute;taient  entr&eacute;s
+elles &eacute;taient entr&eacute;es

@@ -1,6 +1,6 @@
-j'inquieterai
-tu inquieteras
-il/elle inquietera
-nous inquieterons
-vous inquieterez
-ils/elles inquieteront
+j'inqui&eacute;terai
+tu inqui&eacute;teras
+il/elle inqui&eacute;tera
+nous inqui&eacute;terons
+vous inqui&eacute;terez
+ils/elles inqui&eacute;teront

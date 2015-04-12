@@ -1,6 +1,6 @@
-j'aurai pose
-tu auras pose
-il/elle aura pose
-nous aurons pose
-vous aurez pose
-ils/elles auront pose
+j'aurai pos&eacute;
+tu auras pos&eacute;
+il/elle aura pos&eacute;
+nous aurons pos&eacute;
+vous aurez pos&eacute;
+ils/elles auront pos&eacute;

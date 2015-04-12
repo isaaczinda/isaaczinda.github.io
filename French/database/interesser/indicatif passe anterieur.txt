@@ -1,6 +1,6 @@
-j'eus interesse
-tu eus interesse
-il/elle eut interesse
-nous eumes interesse
-vous eutes interesse
-ils/elles eurent interesse
+j'eus int&eacute;ress&eacute;
+tu eus int&eacute;ress&eacute;
+il/elle eut int&eacute;ress&eacute;
+nous e&ucirc;mes int&eacute;ress&eacute;
+vous e&ucirc;tes int&eacute;ress&eacute;
+ils/elles eurent int&eacute;ress&eacute;

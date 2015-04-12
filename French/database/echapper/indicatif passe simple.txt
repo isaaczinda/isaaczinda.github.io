@@ -1,6 +1,6 @@
-j'echappai
-tu echappas
-il/elle echappa
-nous echapp&acirc;mes
-vous echapp&acirc;tes
-ils/elles echapp&egrave;rent
+j'&eacute;chappai
+tu &eacute;chappas
+il/elle &eacute;chappa
+nous &eacute;chapp&acirc;mes
+vous &eacute;chapp&acirc;tes
+ils/elles &eacute;chapp&egrave;rent

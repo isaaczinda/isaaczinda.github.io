@@ -1,6 +1,6 @@
-j'ai inquiete
-tu as inquiete
-il/elle a inquiete
-nous avons inquiete
-vous avez inquiete
-ils/elles ont inquiete
+j'ai inqui&eacute;t&eacute;
+tu as inqui&eacute;t&eacute;
+il/elle a inqui&eacute;t&eacute;
+nous avons inqui&eacute;t&eacute;
+vous avez inqui&eacute;t&eacute;
+ils/elles ont inqui&eacute;t&eacute;

@@ -1,6 +1,6 @@
 je poursuivisse
 tu poursuivisses
-il/elle poursuivit
+il/elle poursuiv&icirc;t
 nous poursuivissions
 vous poursuivissiez
 ils/elles poursuivissent

@@ -1,6 +1,6 @@
-j'eus repose
-tu eus repose
-il/elle eut repose
-nous eumes repose
-vous eutes repose
-ils/elles eurent repose
+j'eus repos&eacute;
+tu eus repos&eacute;
+il/elle eut repos&eacute;
+nous e&ucirc;mes repos&eacute;
+vous e&ucirc;tes repos&eacute;
+ils/elles eurent repos&eacute;

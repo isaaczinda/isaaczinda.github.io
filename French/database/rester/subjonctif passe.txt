@@ -1,8 +1,8 @@
-je sois reste
-tu sois reste
-il soit reste
-elle soit restee
-nous soyons restes
-vous soyez restes
-ils soient restes
-elles soient restees
+je sois rest&eacute;
+tu sois rest&eacute;
+il soit rest&eacute;
+elle soit rest&eacute;e
+nous soyons rest&eacute;s
+vous soyez rest&eacute;s
+ils soient rest&eacute;s
+elles soient rest&eacute;es

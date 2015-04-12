@@ -1,6 +1,6 @@
-j'aie coupe
-tu aies coupe
-il/elle ait coupe
-nous ayons coupe
-vous ayez coupe
-ils/elles aient coupe
+j'aie coup&eacute;
+tu aies coup&eacute;
+il/elle ait coup&eacute;
+nous ayons coup&eacute;
+vous ayez coup&eacute;
+ils/elles aient coup&eacute;

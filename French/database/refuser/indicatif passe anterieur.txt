@@ -1,6 +1,6 @@
-j'eus refuse
-tu eus refuse
-il/elle eut refuse
-nous eumes refuse
-vous eutes refuse
-ils/elles eurent refuse
+j'eus refus&eacute;
+tu eus refus&eacute;
+il/elle eut refus&eacute;
+nous e&ucirc;mes refus&eacute;
+vous e&ucirc;tes refus&eacute;
+ils/elles eurent refus&eacute;

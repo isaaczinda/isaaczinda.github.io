@@ -1,6 +1,6 @@
-j'epousasse
-tu epousasses
-il/elle epous&acirc;t
-nous epousassions
-vous epousassiez
-ils/elles epousassent
+j'&eacute;pousasse
+tu &eacute;pousasses
+il/elle &eacute;pous&acirc;t
+nous &eacute;pousassions
+vous &eacute;pousassiez
+ils/elles &eacute;pousassent

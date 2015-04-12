@@ -1,6 +1,6 @@
 je grandisse
 tu grandisses
-il/elle grandit
+il/elle grand&icirc;t
 nous grandissions
 vous grandissiez
 ils/elles grandissent

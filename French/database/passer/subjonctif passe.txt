@@ -1,6 +1,6 @@
-j'aie passe
-tu aies passe
-il/elle ait passe
-nous ayons passe
-vous ayez passe
-ils/elles aient passe
+j'aie pass&eacute;
+tu aies pass&eacute;
+il/elle ait pass&eacute;
+nous ayons pass&eacute;
+vous ayez pass&eacute;
+ils/elles aient pass&eacute;

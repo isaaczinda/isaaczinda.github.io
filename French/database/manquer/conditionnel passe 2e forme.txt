@@ -1,6 +1,6 @@
-j'eusse manque
-tu eusses manque
-il/elle eut manque
-nous eussions manque
-vous eussiez manque
-ils/elles eussent manque
+j'eusse manqu&eacute;
+tu eusses manqu&eacute;
+il/elle e&ucirc;t manqu&eacute;
+nous eussions manqu&eacute;
+vous eussiez manqu&eacute;
+ils/elles eussent manqu&eacute;

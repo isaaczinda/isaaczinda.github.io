@@ -1,2 +1,2 @@
-arrive
-etant arrive
+arriv&eacute;
+&eacute;tant arriv&eacute;

@@ -1,8 +1,0 @@
-j'eusse fiche/fichu
-tu eusses fiche/fichu
-il eut fiche/fichu
-elle eut fiche/fichu
-nous eussions fiche/fichu
-vous eussiez fiche/fichu
-ils eussent fiche/fichu
-elles eussent fiche/fichu

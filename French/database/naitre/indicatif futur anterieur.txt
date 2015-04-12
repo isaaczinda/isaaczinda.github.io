@@ -1,8 +1,8 @@
-je serai ne
-tu seras ne
-il sera ne
-elle sera nee
-nous serons nes
-vous serez nes
-ils seront nes
-elles seront nees
+je serai n&eacute;
+tu seras n&eacute;
+il sera n&eacute;
+elle sera n&eacute;e
+nous serons n&eacute;s
+vous serez n&eacute;s
+ils seront n&eacute;s
+elles seront n&eacute;es

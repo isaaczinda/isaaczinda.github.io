@@ -1,6 +1,6 @@
-j'eusse parle
-tu eusses parle
-il/elle eut parle
-nous eussions parle
-vous eussiez parle
-ils/elles eussent parle
+j'eusse parl&eacute;
+tu eusses parl&eacute;
+il/elle e&ucirc;t parl&eacute;
+nous eussions parl&eacute;
+vous eussiez parl&eacute;
+ils/elles eussent parl&eacute;

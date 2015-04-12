@@ -1,6 +1,6 @@
-j'eus mange
-tu eus mange
-il/elle eut mange
-nous eumes mange
-vous eutes mange
-ils/elles eurent mange
+j'eus mang&eacute;
+tu eus mang&eacute;
+il/elle eut mang&eacute;
+nous e&ucirc;mes mang&eacute;
+vous e&ucirc;tes mang&eacute;
+ils/elles eurent mang&eacute;

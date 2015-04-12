@@ -1,6 +1,6 @@
-j'aie commence
-tu aies commence
-il/elle ait commence
-nous ayons commence
-vous ayez commence
-ils/elles aient commence
+j'aie commenc&eacute;
+tu aies commenc&eacute;
+il/elle ait commenc&eacute;
+nous ayons commenc&eacute;
+vous ayez commenc&eacute;
+ils/elles aient commenc&eacute;

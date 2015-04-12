@@ -1,7 +1,7 @@
 je fusse mort
 tu fusses mort
-il fut mort
-elle fut morte
+il f&ucirc;t mort
+elle f&ucirc;t morte
 nous fussions morts
 vous fussiez morts
 ils fussent morts

@@ -1,6 +1,6 @@
-j'aie propose
-tu aies propose
-il/elle ait propose
-nous ayons propose
-vous ayez propose
-ils/elles aient propose
+j'aie propos&eacute;
+tu aies propos&eacute;
+il/elle ait propos&eacute;
+nous ayons propos&eacute;
+vous ayez propos&eacute;
+ils/elles aient propos&eacute;

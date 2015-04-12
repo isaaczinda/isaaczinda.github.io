@@ -1,6 +1,6 @@
-j'aurai mange
-tu auras mange
-il/elle aura mange
-nous aurons mange
-vous aurez mange
-ils/elles auront mange
+j'aurai mang&eacute;
+tu auras mang&eacute;
+il/elle aura mang&eacute;
+nous aurons mang&eacute;
+vous aurez mang&eacute;
+ils/elles auront mang&eacute;

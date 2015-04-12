@@ -1,6 +1,6 @@
-j'eus suppose
-tu eus suppose
-il/elle eut suppose
-nous eumes suppose
-vous eutes suppose
-ils/elles eurent suppose
+j'eus suppos&eacute;
+tu eus suppos&eacute;
+il/elle eut suppos&eacute;
+nous e&ucirc;mes suppos&eacute;
+vous e&ucirc;tes suppos&eacute;
+ils/elles eurent suppos&eacute;

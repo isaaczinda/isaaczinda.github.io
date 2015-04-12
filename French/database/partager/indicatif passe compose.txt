@@ -1,6 +1,6 @@
-j'ai partage
-tu as partage
-il/elle a partage
-nous avons partage
-vous avez partage
-ils/elles ont partage
+j'ai partag&eacute;
+tu as partag&eacute;
+il/elle a partag&eacute;
+nous avons partag&eacute;
+vous avez partag&eacute;
+ils/elles ont partag&eacute;

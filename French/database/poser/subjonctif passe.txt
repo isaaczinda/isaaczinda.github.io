@@ -1,6 +1,6 @@
-j'aie pose
-tu aies pose
-il/elle ait pose
-nous ayons pose
-vous ayez pose
-ils/elles aient pose
+j'aie pos&eacute;
+tu aies pos&eacute;
+il/elle ait pos&eacute;
+nous ayons pos&eacute;
+vous ayez pos&eacute;
+ils/elles aient pos&eacute;

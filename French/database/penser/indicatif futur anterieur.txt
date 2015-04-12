@@ -1,6 +1,6 @@
-j'aurai pense
-tu auras pense
-il/elle aura pense
-nous aurons pense
-vous aurez pense
-ils/elles auront pense
+j'aurai pens&eacute;
+tu auras pens&eacute;
+il/elle aura pens&eacute;
+nous aurons pens&eacute;
+vous aurez pens&eacute;
+ils/elles auront pens&eacute;

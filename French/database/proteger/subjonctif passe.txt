@@ -1,6 +1,6 @@
-j'aie protege
-tu aies protege
-il/elle ait protege
-nous ayons protege
-vous ayez protege
-ils/elles aient protege
+j'aie prot&eacute;g&eacute;
+tu aies prot&eacute;g&eacute;
+il/elle ait prot&eacute;g&eacute;
+nous ayons prot&eacute;g&eacute;
+vous ayez prot&eacute;g&eacute;
+ils/elles aient prot&eacute;g&eacute;

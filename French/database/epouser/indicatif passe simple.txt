@@ -1,6 +1,6 @@
-j'epousai
-tu epousas
-il/elle epousa
-nous epous&acirc;mes
-vous epous&acirc;tes
-ils/elles epous&egrave;rent
+j'&eacute;pousai
+tu &eacute;pousas
+il/elle &eacute;pousa
+nous &eacute;pous&acirc;mes
+vous &eacute;pous&acirc;tes
+ils/elles &eacute;pous&egrave;rent

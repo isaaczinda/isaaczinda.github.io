@@ -1,6 +1,6 @@
 je couvrisse
 tu couvrisses
-il/elle couvrit
+il/elle couvr&icirc;t
 nous couvrissions
 vous couvrissiez
 ils/elles couvrissent

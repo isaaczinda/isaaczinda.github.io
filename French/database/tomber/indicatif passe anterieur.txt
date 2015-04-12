@@ -1,8 +1,8 @@
-je fus tombe
-tu fus tombe
-il fut tombe
-elle fut tombee
-nous fumes tombes
-vous futes tombes
-ils furent tombes
-elles furent tombees
+je fus tomb&eacute;
+tu fus tomb&eacute;
+il fut tomb&eacute;
+elle fut tomb&eacute;e
+nous f&ucirc;mes tomb&eacute;s
+vous f&ucirc;tes tomb&eacute;s
+ils furent tomb&eacute;s
+elles furent tomb&eacute;es

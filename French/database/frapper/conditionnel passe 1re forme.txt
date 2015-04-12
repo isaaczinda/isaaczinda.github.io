@@ -1,6 +1,6 @@
-j'aurais frappe
-tu aurais frappe
-il/elle aurait frappe
-nous aurions frappe
-vous auriez frappe
-ils/elles auraient frappe
+j'aurais frapp&eacute;
+tu aurais frapp&eacute;
+il/elle aurait frapp&eacute;
+nous aurions frapp&eacute;
+vous auriez frapp&eacute;
+ils/elles auraient frapp&eacute;

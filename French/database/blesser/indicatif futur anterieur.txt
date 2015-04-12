@@ -1,6 +1,6 @@
-j'aurai blesse
-tu auras blesse
-il/elle aura blesse
-nous aurons blesse
-vous aurez blesse
-ils/elles auront blesse
+j'aurai bless&eacute;
+tu auras bless&eacute;
+il/elle aura bless&eacute;
+nous aurons bless&eacute;
+vous aurez bless&eacute;
+ils/elles auront bless&eacute;

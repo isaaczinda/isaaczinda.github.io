@@ -1,6 +1,6 @@
 j'eus souffert
 tu eus souffert
 il/elle eut souffert
-nous eumes souffert
-vous eutes souffert
+nous e&ucirc;mes souffert
+vous e&ucirc;tes souffert
 ils/elles eurent souffert

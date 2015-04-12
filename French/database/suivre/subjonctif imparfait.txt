@@ -1,6 +1,6 @@
 je suivisse
 tu suivisses
-il/elle suivit
+il/elle suiv&icirc;t
 nous suivissions
 vous suivissiez
 ils/elles suivissent

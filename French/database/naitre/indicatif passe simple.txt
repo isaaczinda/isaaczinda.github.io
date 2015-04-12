@@ -1,6 +1,6 @@
 je naquis
 tu naquis
 il/elle naquit
-nous naquimes
-vous naquites
+nous naqu&icirc;mes
+vous naqu&icirc;tes
 ils/elles naquirent

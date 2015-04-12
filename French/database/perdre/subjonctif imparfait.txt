@@ -1,6 +1,6 @@
 je perdisse
 tu perdisses
-il/elle perdit
+il/elle perd&icirc;t
 nous perdissions
 vous perdissiez
 ils/elles perdissent

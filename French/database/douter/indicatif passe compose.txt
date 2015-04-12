@@ -1,6 +1,6 @@
-j'ai doute
-tu as doute
-il/elle a doute
-nous avons doute
-vous avez doute
-ils/elles ont doute
+j'ai dout&eacute;
+tu as dout&eacute;
+il/elle a dout&eacute;
+nous avons dout&eacute;
+vous avez dout&eacute;
+ils/elles ont dout&eacute;

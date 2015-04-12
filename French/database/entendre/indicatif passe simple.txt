@@ -1,6 +1,6 @@
 j'entendis
 tu entendis
 il/elle entendit
-nous entendimes
-vous entendites
+nous entend&icirc;mes
+vous entend&icirc;tes
 ils/elles entendirent

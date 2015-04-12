@@ -1,6 +1,6 @@
-j'ai vole
-tu as vole
-il/elle a vole
-nous avons vole
-vous avez vole
-ils/elles ont vole
+j'ai vol&eacute;
+tu as vol&eacute;
+il/elle a vol&eacute;
+nous avons vol&eacute;
+vous avez vol&eacute;
+ils/elles ont vol&eacute;

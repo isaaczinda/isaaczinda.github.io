@@ -1,6 +1,6 @@
-j'avais attaque
-tu avais attaque
-il/elle avait attaque
-nous avions attaque
-vous aviez attaque
-ils/elles avaient attaque
+j'avais attaqu&eacute;
+tu avais attaqu&eacute;
+il/elle avait attaqu&eacute;
+nous avions attaqu&eacute;
+vous aviez attaqu&eacute;
+ils/elles avaient attaqu&eacute;

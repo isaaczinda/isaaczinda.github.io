@@ -1,6 +1,6 @@
-j'esperai
-tu esperas
-il/elle espera
-nous esper&acirc;mes
-vous esper&acirc;tes
-ils/elles esper&egrave;rent
+j'esp&eacute;rai
+tu esp&eacute;ras
+il/elle esp&eacute;ra
+nous esp&eacute;r&acirc;mes
+vous esp&eacute;r&acirc;tes
+ils/elles esp&eacute;r&egrave;rent

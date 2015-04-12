@@ -1,6 +1,6 @@
-j'ai couche
-tu as couche
-il/elle a couche
-nous avons couche
-vous avez couche
-ils/elles ont couche
+j'ai couch&eacute;
+tu as couch&eacute;
+il/elle a couch&eacute;
+nous avons couch&eacute;
+vous avez couch&eacute;
+ils/elles ont couch&eacute;

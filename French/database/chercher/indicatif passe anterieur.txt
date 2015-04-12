@@ -1,6 +1,6 @@
-j'eus cherche
-tu eus cherche
-il/elle eut cherche
-nous eumes cherche
-vous eutes cherche
-ils/elles eurent cherche
+j'eus cherch&eacute;
+tu eus cherch&eacute;
+il/elle eut cherch&eacute;
+nous e&ucirc;mes cherch&eacute;
+vous e&ucirc;tes cherch&eacute;
+ils/elles eurent cherch&eacute;

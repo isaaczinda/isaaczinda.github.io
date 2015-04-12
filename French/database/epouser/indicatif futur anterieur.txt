@@ -1,6 +1,6 @@
-j'aurai epouse
-tu auras epouse
-il/elle aura epouse
-nous aurons epouse
-vous aurez epouse
-ils/elles auront epouse
+j'aurai &eacute;pous&eacute;
+tu auras &eacute;pous&eacute;
+il/elle aura &eacute;pous&eacute;
+nous aurons &eacute;pous&eacute;
+vous aurez &eacute;pous&eacute;
+ils/elles auront &eacute;pous&eacute;

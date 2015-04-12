@@ -1,6 +1,6 @@
-j'eusse ignore
-tu eusses ignore
-il/elle eut ignore
-nous eussions ignore
-vous eussiez ignore
-ils/elles eussent ignore
+j'eusse ignor&eacute;
+tu eusses ignor&eacute;
+il/elle e&ucirc;t ignor&eacute;
+nous eussions ignor&eacute;
+vous eussiez ignor&eacute;
+ils/elles eussent ignor&eacute;

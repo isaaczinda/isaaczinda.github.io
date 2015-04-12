@@ -1,6 +1,6 @@
 je souffris
 tu souffris
 il/elle souffrit
-nous souffrimes
-vous souffrites
+nous souffr&icirc;mes
+vous souffr&icirc;tes
 ils/elles souffrirent

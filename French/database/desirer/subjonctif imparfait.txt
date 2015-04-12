@@ -1,6 +1,6 @@
-je desirasse
-tu desirasses
-il/elle desir&acirc;t
-nous desirassions
-vous desirassiez
-ils/elles desirassent
+je d&eacute;sirasse
+tu d&eacute;sirasses
+il/elle d&eacute;sir&acirc;t
+nous d&eacute;sirassions
+vous d&eacute;sirassiez
+ils/elles d&eacute;sirassent

@@ -1,6 +1,6 @@
-j'eusse habite
-tu eusses habite
-il/elle eut habite
-nous eussions habite
-vous eussiez habite
-ils/elles eussent habite
+j'eusse habit&eacute;
+tu eusses habit&eacute;
+il/elle e&ucirc;t habit&eacute;
+nous eussions habit&eacute;
+vous eussiez habit&eacute;
+ils/elles eussent habit&eacute;

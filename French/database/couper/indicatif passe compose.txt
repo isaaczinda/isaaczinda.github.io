@@ -1,6 +1,6 @@
-j'ai coupe
-tu as coupe
-il/elle a coupe
-nous avons coupe
-vous avez coupe
-ils/elles ont coupe
+j'ai coup&eacute;
+tu as coup&eacute;
+il/elle a coup&eacute;
+nous avons coup&eacute;
+vous avez coup&eacute;
+ils/elles ont coup&eacute;

@@ -1,6 +1,6 @@
-j'eus echappe
-tu eus echappe
-il/elle eut echappe
-nous eumes echappe
-vous eutes echappe
-ils/elles eurent echappe
+j'eus &eacute;chapp&eacute;
+tu eus &eacute;chapp&eacute;
+il/elle eut &eacute;chapp&eacute;
+nous e&ucirc;mes &eacute;chapp&eacute;
+vous e&ucirc;tes &eacute;chapp&eacute;
+ils/elles eurent &eacute;chapp&eacute;

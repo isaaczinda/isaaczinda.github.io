@@ -1,6 +1,6 @@
 je maintins
 tu maintins
 il/elle maintint
-nous maintinmes
-vous maintintes
+nous maint&icirc;nmes
+vous maint&icirc;ntes
 ils/elles maintinrent

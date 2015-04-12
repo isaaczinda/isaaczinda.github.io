@@ -1,8 +1,8 @@
-j'etais ne
-tu etais ne
-il etait ne
-elle etait nee
-nous etions nes
-vous etiez nes
-ils etaient  nes
-elles etaient nees
+j'&eacute;tais n&eacute;
+tu &eacute;tais n&eacute;
+il &eacute;tait n&eacute;
+elle &eacute;tait n&eacute;e
+nous &eacute;tions n&eacute;s
+vous &eacute;tiez n&eacute;s
+ils &eacute;taient  n&eacute;s
+elles &eacute;taient n&eacute;es

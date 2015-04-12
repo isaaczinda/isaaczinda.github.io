@@ -1,6 +1,6 @@
-j'eus detruit
-tu eus detruit
-il/elle eut detruit
-nous eumes detruit
-vous eutes detruit
-ils/elles eurent detruit
+j'eus d&eacute;truit
+tu eus d&eacute;truit
+il/elle eut d&eacute;truit
+nous e&ucirc;mes d&eacute;truit
+vous e&ucirc;tes d&eacute;truit
+ils/elles eurent d&eacute;truit

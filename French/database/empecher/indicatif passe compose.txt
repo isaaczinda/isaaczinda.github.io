@@ -1,6 +1,6 @@
-j'ai emp&ecirc;che
-tu as emp&ecirc;che
-il/elle a emp&ecirc;che
-nous avons emp&ecirc;che
-vous avez emp&ecirc;che
-ils/elles ont emp&ecirc;che
+j'ai emp&ecirc;ch&eacute;
+tu as emp&ecirc;ch&eacute;
+il/elle a emp&ecirc;ch&eacute;
+nous avons emp&ecirc;ch&eacute;
+vous avez emp&ecirc;ch&eacute;
+ils/elles ont emp&ecirc;ch&eacute;

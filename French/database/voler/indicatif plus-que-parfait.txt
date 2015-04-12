@@ -1,6 +1,6 @@
-j'avais vole
-tu avais vole
-il/elle avait vole
-nous avions vole
-vous aviez vole
-ils/elles avaient vole
+j'avais vol&eacute;
+tu avais vol&eacute;
+il/elle avait vol&eacute;
+nous avions vol&eacute;
+vous aviez vol&eacute;
+ils/elles avaient vol&eacute;

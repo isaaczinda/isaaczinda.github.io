@@ -1,6 +1,6 @@
-j'eusse rappele
-tu eusses rappele
-il/elle eut rappele
-nous eussions rappele
-vous eussiez rappele
-ils/elles eussent rappele
+j'eusse rappel&eacute;
+tu eusses rappel&eacute;
+il/elle e&ucirc;t rappel&eacute;
+nous eussions rappel&eacute;
+vous eussiez rappel&eacute;
+ils/elles eussent rappel&eacute;

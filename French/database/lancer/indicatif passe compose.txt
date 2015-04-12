@@ -1,6 +1,6 @@
-j'ai lance
-tu as lance
-il/elle a lance
-nous avons lance
-vous avez lance
-ils/elles ont lance
+j'ai lanc&eacute;
+tu as lanc&eacute;
+il/elle a lanc&eacute;
+nous avons lanc&eacute;
+vous avez lanc&eacute;
+ils/elles ont lanc&eacute;

@@ -1,6 +1,6 @@
-j'eus leve
-tu eus leve
-il/elle eut leve
-nous eumes leve
-vous eutes leve
-ils/elles eurent leve
+j'eus lev&eacute;
+tu eus lev&eacute;
+il/elle eut lev&eacute;
+nous e&ucirc;mes lev&eacute;
+vous e&ucirc;tes lev&eacute;
+ils/elles eurent lev&eacute;

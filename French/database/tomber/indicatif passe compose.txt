@@ -1,8 +1,8 @@
-je suis tombe
-tu es tombe
-il est tombe
-elle est tombee
-nous sommes tombes
-vous &ecirc;tes tombes
-ils sont tombes
-elles sont tombees
+je suis tomb&eacute;
+tu es tomb&eacute;
+il est tomb&eacute;
+elle est tomb&eacute;e
+nous sommes tomb&eacute;s
+vous &ecirc;tes tomb&eacute;s
+ils sont tomb&eacute;s
+elles sont tomb&eacute;es

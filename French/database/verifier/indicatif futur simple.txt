@@ -1,6 +1,6 @@
-je verifierai
-tu verifieras
-il/elle verifiera
-nous verifierons
-vous verifierez
-ils/elles verifieront
+je v&eacute;rifierai
+tu v&eacute;rifieras
+il/elle v&eacute;rifiera
+nous v&eacute;rifierons
+vous v&eacute;rifierez
+ils/elles v&eacute;rifieront

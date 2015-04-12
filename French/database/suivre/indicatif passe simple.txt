@@ -1,6 +1,6 @@
 je suivis
 tu suivis
 il/elle suivit
-nous suivimes
-vous suivites
+nous suiv&icirc;mes
+vous suiv&icirc;tes
 ils/elles suivirent

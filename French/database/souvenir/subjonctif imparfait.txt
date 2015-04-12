@@ -1,6 +1,7 @@
 je souvinsse
 tu souvinsses
-il/elle souvint
+il/elle souv&icirc;nt
+
 nous souvinssions
 vous souvinssiez
 ils souvinssent

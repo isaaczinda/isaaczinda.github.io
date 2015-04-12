@@ -1,6 +1,6 @@
-j'eusse coupe
-tu eusses coupe
-il/elle eut coupe
-nous eussions coupe
-vous eussiez coupe
-ils/elles eussent coupe
+j'eusse coup&eacute;
+tu eusses coup&eacute;
+il/elle e&ucirc;t coup&eacute;
+nous eussions coup&eacute;
+vous eussiez coup&eacute;
+ils/elles eussent coup&eacute;

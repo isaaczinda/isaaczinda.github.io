@@ -1,6 +1,6 @@
-j'eus emp&ecirc;che
-tu eus emp&ecirc;che
-il/elle eut emp&ecirc;che
-nous eumes emp&ecirc;che
-vous eutes emp&ecirc;che
-ils/elles eurent emp&ecirc;che
+j'eus emp&ecirc;ch&eacute;
+tu eus emp&ecirc;ch&eacute;
+il/elle eut emp&ecirc;ch&eacute;
+nous e&ucirc;mes emp&ecirc;ch&eacute;
+vous e&ucirc;tes emp&ecirc;ch&eacute;
+ils/elles eurent emp&ecirc;ch&eacute;

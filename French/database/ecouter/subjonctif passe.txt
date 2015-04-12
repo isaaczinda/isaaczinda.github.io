@@ -1,6 +1,6 @@
-j'aie ecoute
-tu aies ecoute
-il/elle ait ecoute
-nous ayons ecoute
-vous ayez ecoute
-ils/elles aient ecoute
+j'aie &eacute;cout&eacute;
+tu aies &eacute;cout&eacute;
+il/elle ait &eacute;cout&eacute;
+nous ayons &eacute;cout&eacute;
+vous ayez &eacute;cout&eacute;
+ils/elles aient &eacute;cout&eacute;

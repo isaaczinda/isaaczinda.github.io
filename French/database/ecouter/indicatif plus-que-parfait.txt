@@ -1,6 +1,6 @@
-j'avais ecoute
-tu avais ecoute
-il/elle avait ecoute
-nous avions ecoute
-vous aviez ecoute
-ils/elles avaient ecoute
+j'avais &eacute;cout&eacute;
+tu avais &eacute;cout&eacute;
+il/elle avait &eacute;cout&eacute;
+nous avions &eacute;cout&eacute;
+vous aviez &eacute;cout&eacute;
+ils/elles avaient &eacute;cout&eacute;

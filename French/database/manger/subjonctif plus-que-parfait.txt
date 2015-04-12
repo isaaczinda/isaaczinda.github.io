@@ -1,6 +1,6 @@
-j'eusse mange
-tu eusses mange
-il/elle eut mange
-nous eussions mange
-vous eussiez mange
-ils/elles eussent mange
+j'eusse mang&eacute;
+tu eusses mang&eacute;
+il/elle e&ucirc;t mang&eacute;
+nous eussions mang&eacute;
+vous eussiez mang&eacute;
+ils/elles eussent mang&eacute;

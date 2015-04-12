@@ -1,6 +1,6 @@
-j'eusse casse
-tu eusses casse
-il/elle eut casse
-nous eussions casse
-vous eussiez casse
-ils/elles eussent casse
+j'eusse cass&eacute;
+tu eusses cass&eacute;
+il/elle e&ucirc;t cass&eacute;
+nous eussions cass&eacute;
+vous eussiez cass&eacute;
+ils/elles eussent cass&eacute;

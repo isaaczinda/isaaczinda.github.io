@@ -1,6 +1,6 @@
 je tinsse
 tu tinsses
-il/elle tint
+il/elle t&icirc;nt
 nous tinssions
 vous tinssiez
 ils/elles tinssent

@@ -1,6 +1,6 @@
 j'eus agi
 tu eus agi
 il/elle eut agi
-nous eumes agi
-vous eutes agi
+nous e&ucirc;mes agi
+vous e&ucirc;tes agi
 ils/elles eurent agi

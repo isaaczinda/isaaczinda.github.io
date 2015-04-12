@@ -1,6 +1,6 @@
-j'ai lave
-tu as lave
-il/elle a lave
-nous avons lave
-vous avez lave
-ils/elles ont lave
+j'ai lav&eacute;
+tu as lav&eacute;
+il/elle a lav&eacute;
+nous avons lav&eacute;
+vous avez lav&eacute;
+ils/elles ont lav&eacute;

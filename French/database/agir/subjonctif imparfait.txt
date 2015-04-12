@@ -1,6 +1,6 @@
 j'agisse
 tu agisses
-il/elle agit
+il/elle ag&icirc;t
 nous agissions
 vous agissiez
 ils/elles agissent

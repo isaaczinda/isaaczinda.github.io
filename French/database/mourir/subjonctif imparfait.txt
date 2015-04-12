@@ -1,6 +1,7 @@
 je mourusse
 tu mourusses
-il/elle mourut
+il/elle mour&ucirc;t
+
 nous mourussions
 vous mourussiez
 ils mourussent

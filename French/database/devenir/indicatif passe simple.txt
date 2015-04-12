@@ -1,6 +1,6 @@
 je devins
 tu devins
 il/elle devint
-nous devinmes
-vous devintes
+nous dev&icirc;nmes
+vous dev&icirc;ntes
 ils/elles devinrent

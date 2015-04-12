@@ -1,6 +1,6 @@
 je descendis
 tu descendis
 il/elle descendit
-nous descendimes
-vous descendites
+nous descend&icirc;mes
+vous descend&icirc;tes
 ils/elles descendirent

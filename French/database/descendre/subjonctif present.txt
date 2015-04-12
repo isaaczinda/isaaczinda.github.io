@@ -1,6 +1,7 @@
 je descende
 tu descendes
 il/elle descende
+
 nous descendions
 vous descendiez
 ils/elles descendent

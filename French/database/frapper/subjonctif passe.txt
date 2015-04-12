@@ -1,6 +1,6 @@
-j'aie frappe
-tu aies frappe
-il/elle ait frappe
-nous ayons frappe
-vous ayez frappe
-ils/elles aient frappe
+j'aie frapp&eacute;
+tu aies frapp&eacute;
+il/elle ait frapp&eacute;
+nous ayons frapp&eacute;
+vous ayez frapp&eacute;
+ils/elles aient frapp&eacute;

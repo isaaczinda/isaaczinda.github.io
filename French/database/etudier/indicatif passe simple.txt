@@ -1,6 +1,6 @@
-j'etudiai
-tu etudias
-il/elle etudia
-nous etudi&acirc;mes
-vous etudi&acirc;tes
-ils/elles etudi&egrave;rent
+j'&eacute;tudiai
+tu &eacute;tudias
+il/elle &eacute;tudia
+nous &eacute;tudi&acirc;mes
+vous &eacute;tudi&acirc;tes
+ils/elles &eacute;tudi&egrave;rent

@@ -1,6 +1,6 @@
-je rep&egrave;te
-tu rep&egrave;tes
-il/elle rep&egrave;te
-nous repetions
-vous repetiez
-ils/elles rep&egrave;tent
+je r&eacute;p&egrave;te
+tu r&eacute;p&egrave;tes
+il/elle r&eacute;p&egrave;te
+nous r&eacute;p&eacute;tions
+vous r&eacute;p&eacute;tiez
+ils/elles r&eacute;p&egrave;tent

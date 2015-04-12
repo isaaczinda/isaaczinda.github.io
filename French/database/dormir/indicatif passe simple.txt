@@ -1,6 +1,6 @@
 je dormis
 tu dormis
 il/elle dormit
-nous dormimes
-vous dormites
+nous dorm&icirc;mes
+vous dorm&icirc;tes
 ils/elles dormirent

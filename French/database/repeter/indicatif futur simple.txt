@@ -1,6 +1,6 @@
-je repeterai
-tu repeteras
-il/elle repetera
-nous repeterons
-vous repeterez
-ils/elles repeteront
+je r&eacute;p&eacute;terai
+tu r&eacute;p&eacute;teras
+il/elle r&eacute;p&eacute;tera
+nous r&eacute;p&eacute;terons
+vous r&eacute;p&eacute;terez
+ils/elles r&eacute;p&eacute;teront

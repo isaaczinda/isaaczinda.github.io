@@ -1,6 +1,6 @@
-j'eus lave
-tu eus lave
-il/elle eut lave
-nous eumes lave
-vous eutes lave
-ils/elles eurent lave
+j'eus lav&eacute;
+tu eus lav&eacute;
+il/elle eut lav&eacute;
+nous e&ucirc;mes lav&eacute;
+vous e&ucirc;tes lav&eacute;
+ils/elles eurent lav&eacute;

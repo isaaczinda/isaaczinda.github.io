@@ -1,6 +1,6 @@
-j'ai pose
-tu as pose
-il/elle a pose
-nous avons pose
-vous avez pose
-ils/elles ont pose
+j'ai pos&eacute;
+tu as pos&eacute;
+il/elle a pos&eacute;
+nous avons pos&eacute;
+vous avez pos&eacute;
+ils/elles ont pos&eacute;

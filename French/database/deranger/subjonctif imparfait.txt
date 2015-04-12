@@ -1,6 +1,6 @@
-je derangeasse
-tu derangeasses
-il/elle derange&acirc;t
-nous derangeassions
-vous derangeassiez
-ils/elles derangeassent
+je d&eacute;rangeasse
+tu d&eacute;rangeasses
+il/elle d&eacute;range&acirc;t
+nous d&eacute;rangeassions
+vous d&eacute;rangeassiez
+ils/elles d&eacute;rangeassent

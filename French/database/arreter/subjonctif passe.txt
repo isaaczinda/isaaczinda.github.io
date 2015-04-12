@@ -1,6 +1,6 @@
-j'aie arr&ecirc;te
-tu aies arr&ecirc;te
-il/elle ait arr&ecirc;te
-nous ayons arr&ecirc;te
-vous ayez arr&ecirc;te
-ils/elles aient arr&ecirc;te
+j'aie arr&ecirc;t&eacute;
+tu aies arr&ecirc;t&eacute;
+il/elle ait arr&ecirc;t&eacute;
+nous ayons arr&ecirc;t&eacute;
+vous ayez arr&ecirc;t&eacute;
+ils/elles aient arr&ecirc;t&eacute;

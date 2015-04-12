@@ -1,6 +1,6 @@
-j'eus blesse
-tu eus blesse
-il/elle eut blesse
-nous eumes blesse
-vous eutes blesse
-ils/elles eurent blesse
+j'eus bless&eacute;
+tu eus bless&eacute;
+il/elle eut bless&eacute;
+nous e&ucirc;mes bless&eacute;
+vous e&ucirc;tes bless&eacute;
+ils/elles eurent bless&eacute;

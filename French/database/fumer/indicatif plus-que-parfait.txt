@@ -1,6 +1,6 @@
-j'avais fume
-tu avais fume
-il/elle avait fume
-nous avions fume
-vous aviez fume
-ils/elles avaient fume
+j'avais fum&eacute;
+tu avais fum&eacute;
+il/elle avait fum&eacute;
+nous avions fum&eacute;
+vous aviez fum&eacute;
+ils/elles avaient fum&eacute;

@@ -1,6 +1,6 @@
-j'avais existe
-tu avais existe
-il/elle avait existe
-nous avions existe
-vous aviez existe
-ils/elles avaient existe
+j'avais exist&eacute;
+tu avais exist&eacute;
+il/elle avait exist&eacute;
+nous avions exist&eacute;
+vous aviez exist&eacute;
+ils/elles avaient exist&eacute;

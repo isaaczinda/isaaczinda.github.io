@@ -1,6 +1,6 @@
-j'aie doute
-tu aies doute
-il/elle ait doute
-nous ayons doute
-vous ayez doute
-ils/elles aient doute
+j'aie dout&eacute;
+tu aies dout&eacute;
+il/elle ait dout&eacute;
+nous ayons dout&eacute;
+vous ayez dout&eacute;
+ils/elles aient dout&eacute;

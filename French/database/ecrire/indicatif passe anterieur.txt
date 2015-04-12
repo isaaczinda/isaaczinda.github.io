@@ -1,6 +1,6 @@
-j'eus ecrit
-tu eus ecrit
-il/elle eut ecrit
-nous eumes ecrit
-vous eutes ecrit
-ils/elles eurent ecrit
+j'eus &eacute;crit
+tu eus &eacute;crit
+il/elle eut &eacute;crit
+nous e&ucirc;mes &eacute;crit
+vous e&ucirc;tes &eacute;crit
+ils/elles eurent &eacute;crit

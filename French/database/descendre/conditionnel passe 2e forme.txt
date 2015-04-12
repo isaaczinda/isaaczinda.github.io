@@ -1,7 +1,7 @@
 je fusse descendu
 tu fusses descendu
-il fut descendu
-elle fut descendue
+il f&ucirc;t descendu
+elle f&ucirc;t descendue
 nous fussions descendus
 vous fussiez descendus
 ils fussent descendus

@@ -1,6 +1,6 @@
-j'aurais quitte
-tu aurais quitte
-il/elle aurait quitte
-nous aurions quitte
-vous auriez quitte
-ils/elles auraient quitte
+j'aurais quitt&eacute;
+tu aurais quitt&eacute;
+il/elle aurait quitt&eacute;
+nous aurions quitt&eacute;
+vous auriez quitt&eacute;
+ils/elles auraient quitt&eacute;

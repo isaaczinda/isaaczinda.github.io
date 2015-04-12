@@ -1,2 +1,2 @@
 revenu
-etant revenu
+&eacute;tant revenu

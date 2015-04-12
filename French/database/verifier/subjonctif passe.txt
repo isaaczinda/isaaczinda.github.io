@@ -1,6 +1,6 @@
-j'aie verifie
-tu aies verifie
-il/elle ait verifie
-nous ayons verifie
-vous ayez verifie
-ils/elles aient verifie
+j'aie v&eacute;rifi&eacute;
+tu aies v&eacute;rifi&eacute;
+il/elle ait v&eacute;rifi&eacute;
+nous ayons v&eacute;rifi&eacute;
+vous ayez v&eacute;rifi&eacute;
+ils/elles aient v&eacute;rifi&eacute;

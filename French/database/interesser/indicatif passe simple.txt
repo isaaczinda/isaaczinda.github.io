@@ -1,6 +1,6 @@
-j'interessai
-tu interessas
-il/elle interessa
-nous interess&acirc;mes
-vous interess&acirc;tes
-ils/elles interess&egrave;rent
+j'int&eacute;ressai
+tu int&eacute;ressas
+il/elle int&eacute;ressa
+nous int&eacute;ress&acirc;mes
+vous int&eacute;ress&acirc;tes
+ils/elles int&eacute;ress&egrave;rent

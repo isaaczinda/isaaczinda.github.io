@@ -1,6 +1,6 @@
-je detestasse
-tu detestasses
-il/elle detest&acirc;t
-nous detestassions
-vous detestassiez
-ils/elles detestassent
+je d&eacute;testasse
+tu d&eacute;testasses
+il/elle d&eacute;test&acirc;t
+nous d&eacute;testassions
+vous d&eacute;testassiez
+ils/elles d&eacute;testassent

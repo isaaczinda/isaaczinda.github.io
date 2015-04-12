@@ -1,6 +1,6 @@
 j'eus ouvert
 tu eus ouvert
 il/elle eut ouvert
-nous eumes ouvert
-vous eutes ouvert
+nous e&ucirc;mes ouvert
+vous e&ucirc;tes ouvert
 ils/elles eurent ouvert

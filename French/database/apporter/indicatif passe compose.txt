@@ -1,6 +1,6 @@
-j'ai apporte
-tu as apporte
-il/elle a apporte
-nous avons apporte
-vous avez apporte
-ils/elles ont apporte
+j'ai apport&eacute;
+tu as apport&eacute;
+il/elle a apport&eacute;
+nous avons apport&eacute;
+vous avez apport&eacute;
+ils/elles ont apport&eacute;

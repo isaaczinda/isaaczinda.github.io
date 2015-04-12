@@ -1,6 +1,7 @@
 je partisse
 tu partisses
-il/elle partit
+il/elle part&icirc;t
+
 nous partissions
 vous partissiez
 ils partissent

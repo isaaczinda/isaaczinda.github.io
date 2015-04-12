@@ -1,6 +1,6 @@
 j'attendis
 tu attendis
 il/elle attendit
-nous attendimes
-vous attendites
+nous attend&icirc;mes
+vous attend&icirc;tes
 ils/elles attendirent

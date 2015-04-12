@@ -1,6 +1,6 @@
-je decouvrisse
-tu decouvrisses
-il/elle decouvrit
-nous decouvrissions
-vous decouvrissiez
-ils/elles decouvrissent
+je d&eacute;couvrisse
+tu d&eacute;couvrisses
+il/elle d&eacute;couvr&icirc;t
+nous d&eacute;couvrissions
+vous d&eacute;couvrissiez
+ils/elles d&eacute;couvrissent

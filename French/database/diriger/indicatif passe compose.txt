@@ -1,6 +1,6 @@
-j'ai dirige
-tu as dirige
-il/elle a dirige
-nous avons dirige
-vous avez dirige
-ils/elles ont dirige
+j'ai dirig&eacute;
+tu as dirig&eacute;
+il/elle a dirig&eacute;
+nous avons dirig&eacute;
+vous avez dirig&eacute;
+ils/elles ont dirig&eacute;

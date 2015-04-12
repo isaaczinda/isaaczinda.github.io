@@ -1,6 +1,7 @@
-je naitrai
-tu naitras
-il/elle naitra
-nous naitrons
-vous naitrez
-ils/elles naitront
+je na&icirc;trai
+tu na&icirc;tras
+il/elle na&icirc;tra
+
+nous na&icirc;trons
+vous na&icirc;trez
+ils/elles na&icirc;tront

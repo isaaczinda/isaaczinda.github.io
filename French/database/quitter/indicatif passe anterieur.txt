@@ -1,6 +1,6 @@
-j'eus quitte
-tu eus quitte
-il/elle eut quitte
-nous eumes quitte
-vous eutes quitte
-ils/elles eurent quitte
+j'eus quitt&eacute;
+tu eus quitt&eacute;
+il/elle eut quitt&eacute;
+nous e&ucirc;mes quitt&eacute;
+vous e&ucirc;tes quitt&eacute;
+ils/elles eurent quitt&eacute;

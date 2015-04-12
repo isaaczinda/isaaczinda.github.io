@@ -1,6 +1,6 @@
 je sentis
 tu sentis
 il/elle sentit
-nous sentimes
-vous sentites
+nous sent&icirc;mes
+vous sent&icirc;tes
 ils/elles sentirent

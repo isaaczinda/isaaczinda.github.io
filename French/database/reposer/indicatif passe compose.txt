@@ -1,6 +1,6 @@
-j'ai repose
-tu as repose
-il/elle a repose
-nous avons repose
-vous avez repose
-ils/elles ont repose
+j'ai repos&eacute;
+tu as repos&eacute;
+il/elle a repos&eacute;
+nous avons repos&eacute;
+vous avez repos&eacute;
+ils/elles ont repos&eacute;

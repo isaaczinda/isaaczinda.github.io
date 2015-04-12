@@ -1,6 +1,6 @@
-j'ai rappele
-tu as rappele
-il/elle a rappele
-nous avons rappele
-vous avez rappele
-ils/elles ont rappele
+j'ai rappel&eacute;
+tu as rappel&eacute;
+il/elle a rappel&eacute;
+nous avons rappel&eacute;
+vous avez rappel&eacute;
+ils/elles ont rappel&eacute;

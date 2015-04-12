@@ -1,6 +1,6 @@
 je disparus
 tu disparus
 il/elle disparut
-nous disparumes
-vous disparutes
+nous dispar&ucirc;mes
+vous dispar&ucirc;tes
 ils/elles disparurent

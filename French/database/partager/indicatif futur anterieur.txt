@@ -1,6 +1,6 @@
-j'aurai partage
-tu auras partage
-il/elle aura partage
-nous aurons partage
-vous aurez partage
-ils/elles auront partage
+j'aurai partag&eacute;
+tu auras partag&eacute;
+il/elle aura partag&eacute;
+nous aurons partag&eacute;
+vous aurez partag&eacute;
+ils/elles auront partag&eacute;

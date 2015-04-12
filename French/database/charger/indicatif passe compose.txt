@@ -1,6 +1,6 @@
-j'ai charge
-tu as charge
-il/elle a charge
-nous avons charge
-vous avez charge
-ils/elles ont charge
+j'ai charg&eacute;
+tu as charg&eacute;
+il/elle a charg&eacute;
+nous avons charg&eacute;
+vous avez charg&eacute;
+ils/elles ont charg&eacute;

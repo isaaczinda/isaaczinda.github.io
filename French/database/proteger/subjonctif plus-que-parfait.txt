@@ -1,6 +1,6 @@
-j'eusse protege
-tu eusses protege
-il/elle eut protege
-nous eussions protege
-vous eussiez protege
-ils/elles eussent protege
+j'eusse prot&eacute;g&eacute;
+tu eusses prot&eacute;g&eacute;
+il/elle e&ucirc;t prot&eacute;g&eacute;
+nous eussions prot&eacute;g&eacute;
+vous eussiez prot&eacute;g&eacute;
+ils/elles eussent prot&eacute;g&eacute;

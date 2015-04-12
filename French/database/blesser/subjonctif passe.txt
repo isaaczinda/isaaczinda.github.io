@@ -1,6 +1,6 @@
-j'aie blesse
-tu aies blesse
-il/elle ait blesse
-nous ayons blesse
-vous ayez blesse
-ils/elles aient blesse
+j'aie bless&eacute;
+tu aies bless&eacute;
+il/elle ait bless&eacute;
+nous ayons bless&eacute;
+vous ayez bless&eacute;
+ils/elles aient bless&eacute;

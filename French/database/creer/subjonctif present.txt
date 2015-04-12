@@ -1,6 +1,6 @@
-je cree
-tu crees
-il/elle cree
-nous creions
-vous creiez
-ils/elles creent
+je cr&eacute;e
+tu cr&eacute;es
+il/elle cr&eacute;e
+nous cr&eacute;ions
+vous cr&eacute;iez
+ils/elles cr&eacute;ent

@@ -1,6 +1,6 @@
-j'avais evite
-tu avais evite
-il/elle avait evite
-nous avions evite
-vous aviez evite
-ils/elles avaient evite
+j'avais &eacute;vit&eacute;
+tu avais &eacute;vit&eacute;
+il/elle avait &eacute;vit&eacute;
+nous avions &eacute;vit&eacute;
+vous aviez &eacute;vit&eacute;
+ils/elles avaient &eacute;vit&eacute;

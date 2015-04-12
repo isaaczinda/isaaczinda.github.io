@@ -1,6 +1,6 @@
-j'eus touche
-tu eus touche
-il/elle eut touche
-nous eumes touche
-vous eutes touche
-ils/elles eurent touche
+j'eus touch&eacute;
+tu eus touch&eacute;
+il/elle eut touch&eacute;
+nous e&ucirc;mes touch&eacute;
+vous e&ucirc;tes touch&eacute;
+ils/elles eurent touch&eacute;

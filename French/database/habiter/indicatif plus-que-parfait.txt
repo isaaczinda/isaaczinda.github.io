@@ -1,6 +1,6 @@
-j'avais habite
-tu avais habite
-il/elle avait habite
-nous avions habite
-vous aviez habite
-ils/elles avaient habite
+j'avais habit&eacute;
+tu avais habit&eacute;
+il/elle avait habit&eacute;
+nous avions habit&eacute;
+vous aviez habit&eacute;
+ils/elles avaient habit&eacute;

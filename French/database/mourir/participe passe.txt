@@ -1,2 +1,2 @@
 mort
-etant mort
+&eacute;tant mort

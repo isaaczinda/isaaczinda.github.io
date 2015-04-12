@@ -1,6 +1,7 @@
 je rentre
 tu rentres
 il/elle rentre
+
 nous rentrions
 vous rentriez
 ils/elles rentrent

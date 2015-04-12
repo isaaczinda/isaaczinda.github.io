@@ -1,6 +1,6 @@
-j'evite
-tu evites
-il/elle evite
-nous evitons
-vous evitez
-ils/elles evitent
+j'&eacute;vite
+tu &eacute;vites
+il/elle &eacute;vite
+nous &eacute;vitons
+vous &eacute;vitez
+ils/elles &eacute;vitent

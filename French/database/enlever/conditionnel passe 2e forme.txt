@@ -1,6 +1,6 @@
-j'eusse enleve
-tu eusses enleve
-il/elle eut enleve
-nous eussions enleve
-vous eussiez enleve
-ils/elles eussent enleve
+j'eusse enlev&eacute;
+tu eusses enlev&eacute;
+il/elle e&ucirc;t enlev&eacute;
+nous eussions enlev&eacute;
+vous eussiez enlev&eacute;
+ils/elles eussent enlev&eacute;

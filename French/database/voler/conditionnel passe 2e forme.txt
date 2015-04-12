@@ -1,6 +1,6 @@
-j'eusse vole
-tu eusses vole
-il/elle eut vole
-nous eussions vole
-vous eussiez vole
-ils/elles eussent vole
+j'eusse vol&eacute;
+tu eusses vol&eacute;
+il/elle e&ucirc;t vol&eacute;
+nous eussions vol&eacute;
+vous eussiez vol&eacute;
+ils/elles eussent vol&eacute;

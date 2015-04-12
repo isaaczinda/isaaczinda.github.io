@@ -1,6 +1,6 @@
-j'eusse inquiete
-tu eusses inquiete
-il/elle eut inquiete
-nous eussions inquiete
-vous eussiez inquiete
-ils/elles eussent inquiete
+j'eusse inqui&eacute;t&eacute;
+tu eusses inqui&eacute;t&eacute;
+il/elle e&ucirc;t inqui&eacute;t&eacute;
+nous eussions inqui&eacute;t&eacute;
+vous eussiez inqui&eacute;t&eacute;
+ils/elles eussent inqui&eacute;t&eacute;

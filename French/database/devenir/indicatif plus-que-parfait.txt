@@ -1,8 +1,8 @@
-j'etais devenu
-tu etais devenu
-il etait devenu
-elle etait devenue
-nous etions devenus
-vous etiez devenus
-ils etaient  devenus
-elles etaient devenues
+j'&eacute;tais devenu
+tu &eacute;tais devenu
+il &eacute;tait devenu
+elle &eacute;tait devenue
+nous &eacute;tions devenus
+vous &eacute;tiez devenus
+ils &eacute;taient  devenus
+elles &eacute;taient devenues

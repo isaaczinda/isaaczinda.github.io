@@ -1,6 +1,6 @@
-j'aie partage
-tu aies partage
-il/elle ait partage
-nous ayons partage
-vous ayez partage
-ils/elles aient partage
+j'aie partag&eacute;
+tu aies partag&eacute;
+il/elle ait partag&eacute;
+nous ayons partag&eacute;
+vous ayez partag&eacute;
+ils/elles aient partag&eacute;

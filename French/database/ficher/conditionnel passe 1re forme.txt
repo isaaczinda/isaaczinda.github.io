@@ -1,8 +1,0 @@
-j'aurais fiche/fichu
-tu aurais fiche/fichu
-il aurait fiche/fichu
-elle aurait fiche/fichu
-nous aurions fiche/fichu
-vous auriez fiche/fichu
-ils auraient fiche/fichu
-elles auraient fiche/fichu

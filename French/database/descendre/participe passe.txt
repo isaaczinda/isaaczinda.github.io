@@ -1,2 +1,2 @@
 descendu
-etant descendu
+&eacute;tant descendu

@@ -1,6 +1,6 @@
-j'eus traite
-tu eus traite
-il/elle eut traite
-nous eumes traite
-vous eutes traite
-ils/elles eurent traite
+j'eus trait&eacute;
+tu eus trait&eacute;
+il/elle eut trait&eacute;
+nous e&ucirc;mes trait&eacute;
+vous e&ucirc;tes trait&eacute;
+ils/elles eurent trait&eacute;

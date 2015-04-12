@@ -1,6 +1,6 @@
-j'ai deteste
-tu as deteste
-il/elle a deteste
-nous avons deteste
-vous avez deteste
-ils/elles ont deteste
+j'ai d&eacute;test&eacute;
+tu as d&eacute;test&eacute;
+il/elle a d&eacute;test&eacute;
+nous avons d&eacute;test&eacute;
+vous avez d&eacute;test&eacute;
+ils/elles ont d&eacute;test&eacute;

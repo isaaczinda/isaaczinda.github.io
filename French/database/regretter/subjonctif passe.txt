@@ -1,6 +1,6 @@
-j'aie regrette
-tu aies regrette
-il/elle ait regrette
-nous ayons regrette
-vous ayez regrette
-ils/elles aient regrette
+j'aie regrett&eacute;
+tu aies regrett&eacute;
+il/elle ait regrett&eacute;
+nous ayons regrett&eacute;
+vous ayez regrett&eacute;
+ils/elles aient regrett&eacute;

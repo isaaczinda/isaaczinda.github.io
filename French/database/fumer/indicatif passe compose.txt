@@ -1,6 +1,6 @@
-j'ai fume
-tu as fume
-il/elle a fume
-nous avons fume
-vous avez fume
-ils/elles ont fume
+j'ai fum&eacute;
+tu as fum&eacute;
+il/elle a fum&eacute;
+nous avons fum&eacute;
+vous avez fum&eacute;
+ils/elles ont fum&eacute;

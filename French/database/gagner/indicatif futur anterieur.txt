@@ -1,6 +1,6 @@
-j'aurai gagne
-tu auras gagne
-il/elle aura gagne
-nous aurons gagne
-vous aurez gagne
-ils/elles auront gagne
+j'aurai gagn&eacute;
+tu auras gagn&eacute;
+il/elle aura gagn&eacute;
+nous aurons gagn&eacute;
+vous aurez gagn&eacute;
+ils/elles auront gagn&eacute;

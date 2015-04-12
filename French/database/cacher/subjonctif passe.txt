@@ -1,6 +1,6 @@
-j'aie cache
-tu aies cache
-il/elle ait cache
-nous ayons cache
-vous ayez cache
-ils/elles aient cache
+j'aie cach&eacute;
+tu aies cach&eacute;
+il/elle ait cach&eacute;
+nous ayons cach&eacute;
+vous ayez cach&eacute;
+ils/elles aient cach&eacute;

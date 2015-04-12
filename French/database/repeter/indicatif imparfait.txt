@@ -1,6 +1,6 @@
-je repetais
-tu repetais
-il/elle repetait
-nous repetions
-vous repetiez
-ils/elles repetaient
+je r&eacute;p&eacute;tais
+tu r&eacute;p&eacute;tais
+il/elle r&eacute;p&eacute;tait
+nous r&eacute;p&eacute;tions
+vous r&eacute;p&eacute;tiez
+ils/elles r&eacute;p&eacute;taient

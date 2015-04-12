@@ -1,6 +1,6 @@
 j'eus choisi
 tu eus choisi
 il/elle eut choisi
-nous eumes choisi
-vous eutes choisi
+nous e&ucirc;mes choisi
+vous e&ucirc;tes choisi
 ils/elles eurent choisi

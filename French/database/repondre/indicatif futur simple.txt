@@ -1,6 +1,6 @@
-je repondrai
-tu repondras
-il/elle repondra
-nous repondrons
-vous repondrez
-ils/elles repondront
+je r&eacute;pondrai
+tu r&eacute;pondras
+il/elle r&eacute;pondra
+nous r&eacute;pondrons
+vous r&eacute;pondrez
+ils/elles r&eacute;pondront

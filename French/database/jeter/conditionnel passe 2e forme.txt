@@ -1,6 +1,6 @@
-j'eusse jete
-tu eusses jete
-il/elle eut jete
-nous eussions jete
-vous eussiez jete
-ils/elles eussent jete
+j'eusse jet&eacute;
+tu eusses jet&eacute;
+il/elle e&ucirc;t jet&eacute;
+nous eussions jet&eacute;
+vous eussiez jet&eacute;
+ils/elles eussent jet&eacute;

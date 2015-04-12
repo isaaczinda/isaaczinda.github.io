@@ -1,6 +1,6 @@
-je previendrai
-tu previendras
-il/elle previendra
-nous previendrons
-vous previendrez
-ils/elles previendront
+je pr&eacute;viendrai
+tu pr&eacute;viendras
+il/elle pr&eacute;viendra
+nous pr&eacute;viendrons
+vous pr&eacute;viendrez
+ils/elles pr&eacute;viendront

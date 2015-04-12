@@ -1,6 +1,6 @@
-j'aie habite
-tu aies habite
-il/elle ait habite
-nous ayons habite
-vous ayez habite
-ils/elles aient habite
+j'aie habit&eacute;
+tu aies habit&eacute;
+il/elle ait habit&eacute;
+nous ayons habit&eacute;
+vous ayez habit&eacute;
+ils/elles aient habit&eacute;

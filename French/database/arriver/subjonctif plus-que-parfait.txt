@@ -1,8 +1,8 @@
-je fusse arrive
-tu fusses arrive
-il fut arrive
-elle fut arrivee
-nous fussions arrives
-vous fussiez arrives
-ils fussent arrives
-elles fussent arrivees
+je fusse arriv&eacute;
+tu fusses arriv&eacute;
+il f&ucirc;t arriv&eacute;
+elle f&ucirc;t arriv&eacute;e
+nous fussions arriv&eacute;s
+vous fussiez arriv&eacute;s
+ils fussent arriv&eacute;s
+elles fussent arriv&eacute;es

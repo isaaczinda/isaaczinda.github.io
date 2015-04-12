@@ -1,6 +1,6 @@
-j'ai oublie
-tu as oublie
-il/elle a oublie
-nous avons oublie
-vous avez oublie
-ils/elles ont oublie
+j'ai oubli&eacute;
+tu as oubli&eacute;
+il/elle a oubli&eacute;
+nous avons oubli&eacute;
+vous avez oubli&eacute;
+ils/elles ont oubli&eacute;

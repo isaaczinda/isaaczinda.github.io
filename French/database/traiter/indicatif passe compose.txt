@@ -1,6 +1,6 @@
-j'ai traite
-tu as traite
-il/elle a traite
-nous avons traite
-vous avez traite
-ils/elles ont traite
+j'ai trait&eacute;
+tu as trait&eacute;
+il/elle a trait&eacute;
+nous avons trait&eacute;
+vous avez trait&eacute;
+ils/elles ont trait&eacute;

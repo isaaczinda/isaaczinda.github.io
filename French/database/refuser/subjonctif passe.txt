@@ -1,6 +1,6 @@
-j'aie refuse
-tu aies refuse
-il/elle ait refuse
-nous ayons refuse
-vous ayez refuse
-ils/elles aient refuse
+j'aie refus&eacute;
+tu aies refus&eacute;
+il/elle ait refus&eacute;
+nous ayons refus&eacute;
+vous ayez refus&eacute;
+ils/elles aient refus&eacute;

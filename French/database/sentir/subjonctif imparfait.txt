@@ -1,6 +1,6 @@
 je sentisse
 tu sentisses
-il/elle sentit
+il/elle sent&icirc;t
 nous sentissions
 vous sentissiez
 ils/elles sentissent

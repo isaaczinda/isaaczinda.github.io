@@ -1,6 +1,6 @@
-j'eus coupe
-tu eus coupe
-il/elle eut coupe
-nous eumes coupe
-vous eutes coupe
-ils/elles eurent coupe
+j'eus coup&eacute;
+tu eus coup&eacute;
+il/elle eut coup&eacute;
+nous e&ucirc;mes coup&eacute;
+vous e&ucirc;tes coup&eacute;
+ils/elles eurent coup&eacute;

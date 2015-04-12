@@ -1,6 +1,6 @@
-je reponds
-tu reponds
-il/elle repond
-nous repondons
-vous repondez
-ils/elles repondent
+je r&eacute;ponds
+tu r&eacute;ponds
+il/elle r&eacute;pond
+nous r&eacute;pondons
+vous r&eacute;pondez
+ils/elles r&eacute;pondent

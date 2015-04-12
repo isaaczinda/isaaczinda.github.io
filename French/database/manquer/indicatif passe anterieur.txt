@@ -1,6 +1,6 @@
-j'eus manque
-tu eus manque
-il/elle eut manque
-nous eumes manque
-vous eutes manque
-ils/elles eurent manque
+j'eus manqu&eacute;
+tu eus manqu&eacute;
+il/elle eut manqu&eacute;
+nous e&ucirc;mes manqu&eacute;
+vous e&ucirc;tes manqu&eacute;
+ils/elles eurent manqu&eacute;

@@ -1,6 +1,6 @@
 je plus
 tu plus
 il/elle plut
-nous plumes
-vous plutes
+nous pl&ucirc;mes
+vous pl&ucirc;tes
 ils/elles plurent

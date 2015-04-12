@@ -1,8 +1,8 @@
-je serai reste
-tu seras reste
-il sera reste
-elle sera restee
-nous serons restes
-vous serez restes
-ils seront restes
-elles seront restees
+je serai rest&eacute;
+tu seras rest&eacute;
+il sera rest&eacute;
+elle sera rest&eacute;e
+nous serons rest&eacute;s
+vous serez rest&eacute;s
+ils seront rest&eacute;s
+elles seront rest&eacute;es

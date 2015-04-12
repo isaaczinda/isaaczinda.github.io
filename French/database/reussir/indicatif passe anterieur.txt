@@ -1,6 +1,6 @@
-j'eus reussi
-tu eus reussi
-il/elle eut reussi
-nous eumes reussi
-vous eutes reussi
-ils/elles eurent reussi
+j'eus r&eacute;ussi
+tu eus r&eacute;ussi
+il/elle eut r&eacute;ussi
+nous e&ucirc;mes r&eacute;ussi
+vous e&ucirc;tes r&eacute;ussi
+ils/elles eurent r&eacute;ussi

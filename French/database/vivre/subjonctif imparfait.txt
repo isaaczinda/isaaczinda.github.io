@@ -1,6 +1,6 @@
-je vecusse
-tu vecusses
-il/elle vecut
-nous vecussions
-vous vecussiez
-ils/elles vecussent
+je v&eacute;cusse
+tu v&eacute;cusses
+il/elle v&eacute;c&ucirc;t
+nous v&eacute;cussions
+vous v&eacute;cussiez
+ils/elles v&eacute;cussent

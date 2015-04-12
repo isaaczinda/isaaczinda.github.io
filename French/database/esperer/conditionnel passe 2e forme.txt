@@ -1,6 +1,6 @@
-j'eusse espere
-tu eusses espere
-il/elle eut espere
-nous eussions espere
-vous eussiez espere
-ils/elles eussent espere
+j'eusse esp&eacute;r&eacute;
+tu eusses esp&eacute;r&eacute;
+il/elle e&ucirc;t esp&eacute;r&eacute;
+nous eussions esp&eacute;r&eacute;
+vous eussiez esp&eacute;r&eacute;
+ils/elles eussent esp&eacute;r&eacute;

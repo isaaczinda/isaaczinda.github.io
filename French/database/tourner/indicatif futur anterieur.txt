@@ -1,6 +1,6 @@
-j'aurai tourne
-tu auras tourne
-il/elle aura tourne
-nous aurons tourne
-vous aurez tourne
-ils/elles auront tourne
+j'aurai tourn&eacute;
+tu auras tourn&eacute;
+il/elle aura tourn&eacute;
+nous aurons tourn&eacute;
+vous aurez tourn&eacute;
+ils/elles auront tourn&eacute;

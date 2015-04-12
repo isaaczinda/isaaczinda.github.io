@@ -1,6 +1,6 @@
-j'eus decouvert
-tu eus decouvert
-il/elle eut decouvert
-nous eumes decouvert
-vous eutes decouvert
-ils/elles eurent decouvert
+j'eus d&eacute;couvert
+tu eus d&eacute;couvert
+il/elle eut d&eacute;couvert
+nous e&ucirc;mes d&eacute;couvert
+vous e&ucirc;tes d&eacute;couvert
+ils/elles eurent d&eacute;couvert

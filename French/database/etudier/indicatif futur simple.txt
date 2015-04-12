@@ -1,6 +1,6 @@
-j'etudierai
-tu etudieras
-il/elle etudiera
-nous etudierons
-vous etudierez
-ils/elles etudieront
+j'&eacute;tudierai
+tu &eacute;tudieras
+il/elle &eacute;tudiera
+nous &eacute;tudierons
+vous &eacute;tudierez
+ils/elles &eacute;tudieront

@@ -1,6 +1,6 @@
-j'aie cherche
-tu aies cherche
-il/elle ait cherche
-nous ayons cherche
-vous ayez cherche
-ils/elles aient cherche
+j'aie cherch&eacute;
+tu aies cherch&eacute;
+il/elle ait cherch&eacute;
+nous ayons cherch&eacute;
+vous ayez cherch&eacute;
+ils/elles aient cherch&eacute;

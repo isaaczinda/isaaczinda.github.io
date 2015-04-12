@@ -1,6 +1,6 @@
-je desirai
-tu desiras
-il/elle desira
-nous desir&acirc;mes
-vous desir&acirc;tes
-ils/elles desir&egrave;rent
+je d&eacute;sirai
+tu d&eacute;siras
+il/elle d&eacute;sira
+nous d&eacute;sir&acirc;mes
+vous d&eacute;sir&acirc;tes
+ils/elles d&eacute;sir&egrave;rent

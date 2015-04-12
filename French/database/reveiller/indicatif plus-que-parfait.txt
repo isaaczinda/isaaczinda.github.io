@@ -1,6 +1,6 @@
-j'avais reveille
-tu avais reveille
-il/elle avait reveille
-nous avions reveille
-vous aviez reveille
-ils/elles avaient reveille
+j'avais r&eacute;veill&eacute;
+tu avais r&eacute;veill&eacute;
+il/elle avait r&eacute;veill&eacute;
+nous avions r&eacute;veill&eacute;
+vous aviez r&eacute;veill&eacute;
+ils/elles avaient r&eacute;veill&eacute;

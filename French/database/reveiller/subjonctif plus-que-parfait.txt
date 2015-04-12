@@ -1,6 +1,6 @@
-j'eusse reveille
-tu eusses reveille
-il/elle eut reveille
-nous eussions reveille
-vous eussiez reveille
-ils/elles eussent reveille
+j'eusse r&eacute;veill&eacute;
+tu eusses r&eacute;veill&eacute;
+il/elle e&ucirc;t r&eacute;veill&eacute;
+nous eussions r&eacute;veill&eacute;
+vous eussiez r&eacute;veill&eacute;
+ils/elles eussent r&eacute;veill&eacute;

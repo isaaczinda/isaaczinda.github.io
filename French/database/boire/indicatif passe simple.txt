@@ -1,6 +1,6 @@
 je bus
 tu bus
 il/elle but
-nous bumes
-vous butes
+nous b&ucirc;mes
+vous b&ucirc;tes
 ils/elles burent

@@ -1,6 +1,6 @@
-j'aurai fume
-tu auras fume
-il/elle aura fume
-nous aurons fume
-vous aurez fume
-ils/elles auront fume
+j'aurai fum&eacute;
+tu auras fum&eacute;
+il/elle aura fum&eacute;
+nous aurons fum&eacute;
+vous aurez fum&eacute;
+ils/elles auront fum&eacute;

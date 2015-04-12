@@ -1,6 +1,6 @@
 je servis
 tu servis
 il/elle servit
-nous servimes
-vous servites
+nous serv&icirc;mes
+vous serv&icirc;tes
 ils/elles servirent

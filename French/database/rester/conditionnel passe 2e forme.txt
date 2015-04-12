@@ -1,8 +1,8 @@
-je fusse reste
-tu fusses reste
-il fut reste
-elle fut restee
-nous fussions restes
-vous fussiez restes
-ils fussent restes
-elles fussent restees
+je fusse rest&eacute;
+tu fusses rest&eacute;
+il f&ucirc;t rest&eacute;
+elle f&ucirc;t rest&eacute;e
+nous fussions rest&eacute;s
+vous fussiez rest&eacute;s
+ils fussent rest&eacute;s
+elles fussent rest&eacute;es

@@ -1,6 +1,6 @@
-j'aie emmene
-tu aies emmene
-il/elle ait emmene
-nous ayons emmene
-vous ayez emmene
-ils/elles aient emmene
+j'aie emmen&eacute;
+tu aies emmen&eacute;
+il/elle ait emmen&eacute;
+nous ayons emmen&eacute;
+vous ayez emmen&eacute;
+ils/elles aient emmen&eacute;

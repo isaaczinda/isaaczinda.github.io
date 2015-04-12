@@ -1,8 +1,8 @@
-je fusse tombe
-tu fusses tombe
-il fut tombe
-elle fut tombee
-nous fussions tombes
-vous fussiez tombes
-ils fussent tombes
-elles fussent tombees
+je fusse tomb&eacute;
+tu fusses tomb&eacute;
+il f&ucirc;t tomb&eacute;
+elle f&ucirc;t tomb&eacute;e
+nous fussions tomb&eacute;s
+vous fussiez tomb&eacute;s
+ils fussent tomb&eacute;s
+elles fussent tomb&eacute;es

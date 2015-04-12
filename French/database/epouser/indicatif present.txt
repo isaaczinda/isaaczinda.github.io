@@ -1,6 +1,6 @@
-j'epouse
-tu epouses
-il/elle epouse
-nous epousons
-vous epousez
-ils/elles epousent
+j'&eacute;pouse
+tu &eacute;pouses
+il/elle &eacute;pouse
+nous &eacute;pousons
+vous &eacute;pousez
+ils/elles &eacute;pousent

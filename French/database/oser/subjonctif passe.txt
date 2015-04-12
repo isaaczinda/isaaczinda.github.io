@@ -1,6 +1,6 @@
-j'aie ose
-tu aies ose
-il/elle ait ose
-nous ayons ose
-vous ayez ose
-ils/elles aient ose
+j'aie os&eacute;
+tu aies os&eacute;
+il/elle ait os&eacute;
+nous ayons os&eacute;
+vous ayez os&eacute;
+ils/elles aient os&eacute;

@@ -1,8 +1,8 @@
-je fus ne
-tu fus ne
-il fut ne
-elle fut nee
-nous fumes nes
-vous futes nes
-ils furent nes
-elles furent nees
+je fus n&eacute;
+tu fus n&eacute;
+il fut n&eacute;
+elle fut n&eacute;e
+nous f&ucirc;mes n&eacute;s
+vous f&ucirc;tes n&eacute;s
+ils furent n&eacute;s
+elles furent n&eacute;es

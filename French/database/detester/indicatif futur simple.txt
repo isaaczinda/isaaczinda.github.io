@@ -1,6 +1,6 @@
-je detesterai
-tu detesteras
-il/elle detestera
-nous detesterons
-vous detesterez
-ils/elles detesteront
+je d&eacute;testerai
+tu d&eacute;testeras
+il/elle d&eacute;testera
+nous d&eacute;testerons
+vous d&eacute;testerez
+ils/elles d&eacute;testeront

@@ -1,6 +1,6 @@
-je degagerai
-tu degageras
-il/elle degagera
-nous degagerons
-vous degagerez
-ils/elles degageront
+je d&eacute;gagerai
+tu d&eacute;gageras
+il/elle d&eacute;gagera
+nous d&eacute;gagerons
+vous d&eacute;gagerez
+ils/elles d&eacute;gageront

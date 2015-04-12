@@ -1,6 +1,6 @@
-je previnsse
-tu previnsses
-il/elle prevint
-nous previnssions
-vous previnssiez
-ils/elles previnssent
+je pr&eacute;vinsse
+tu pr&eacute;vinsses
+il/elle pr&eacute;v&icirc;nt
+nous pr&eacute;vinssions
+vous pr&eacute;vinssiez
+ils/elles pr&eacute;vinssent

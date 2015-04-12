@@ -1,6 +1,6 @@
-j'aurai rencontre
-tu auras rencontre
-il/elle aura rencontre
-nous aurons rencontre
-vous aurez rencontre
-ils/elles auront rencontre
+j'aurai rencontr&eacute;
+tu auras rencontr&eacute;
+il/elle aura rencontr&eacute;
+nous aurons rencontr&eacute;
+vous aurez rencontr&eacute;
+ils/elles auront rencontr&eacute;

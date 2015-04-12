@@ -1,6 +1,6 @@
-j'aie excuse
-tu aies excuse
-il/elle ait excuse
-nous ayons excuse
-vous ayez excuse
-ils/elles aient excuse
+j'aie excus&eacute;
+tu aies excus&eacute;
+il/elle ait excus&eacute;
+nous ayons excus&eacute;
+vous ayez excus&eacute;
+ils/elles aient excus&eacute;

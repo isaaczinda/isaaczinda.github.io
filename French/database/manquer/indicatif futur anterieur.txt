@@ -1,6 +1,6 @@
-j'aurai manque
-tu auras manque
-il/elle aura manque
-nous aurons manque
-vous aurez manque
-ils/elles auront manque
+j'aurai manqu&eacute;
+tu auras manqu&eacute;
+il/elle aura manqu&eacute;
+nous aurons manqu&eacute;
+vous aurez manqu&eacute;
+ils/elles auront manqu&eacute;

@@ -1,6 +1,6 @@
-je reflechissais
-tu reflechissais
-il/elle reflechissait
-nous reflechissions
-vous reflechissiez
-ils/elles reflechissaient
+je r&eacute;fl&eacute;chissais
+tu r&eacute;fl&eacute;chissais
+il/elle r&eacute;fl&eacute;chissait
+nous r&eacute;fl&eacute;chissions
+vous r&eacute;fl&eacute;chissiez
+ils/elles r&eacute;fl&eacute;chissaient

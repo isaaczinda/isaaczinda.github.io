@@ -1,6 +1,6 @@
-j'eus espere
-tu eus espere
-il/elle eut espere
-nous eumes espere
-vous eutes espere
-ils/elles eurent espere
+j'eus esp&eacute;r&eacute;
+tu eus esp&eacute;r&eacute;
+il/elle eut esp&eacute;r&eacute;
+nous e&ucirc;mes esp&eacute;r&eacute;
+vous e&ucirc;tes esp&eacute;r&eacute;
+ils/elles eurent esp&eacute;r&eacute;

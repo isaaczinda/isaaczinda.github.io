@@ -1,6 +1,6 @@
-j'ai jure
-tu as jure
-il/elle a jure
-nous avons jure
-vous avez jure
-ils/elles ont jure
+j'ai jur&eacute;
+tu as jur&eacute;
+il/elle a jur&eacute;
+nous avons jur&eacute;
+vous avez jur&eacute;
+ils/elles ont jur&eacute;

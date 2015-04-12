@@ -1,6 +1,6 @@
 je choisis
 tu choisis
 il/elle choisit
-nous choisimes
-vous choisites
+nous chois&icirc;mes
+vous chois&icirc;tes
 ils/elles choisirent

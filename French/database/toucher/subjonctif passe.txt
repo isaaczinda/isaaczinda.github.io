@@ -1,6 +1,6 @@
-j'aie touche
-tu aies touche
-il/elle ait touche
-nous ayons touche
-vous ayez touche
-ils/elles aient touche
+j'aie touch&eacute;
+tu aies touch&eacute;
+il/elle ait touch&eacute;
+nous ayons touch&eacute;
+vous ayez touch&eacute;
+ils/elles aient touch&eacute;

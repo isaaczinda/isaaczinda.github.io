@@ -1,6 +1,6 @@
-j'ai etudie
-tu as etudie
-il/elle a etudie
-nous avons etudie
-vous avez etudie
-ils/elles ont etudie
+j'ai &eacute;tudi&eacute;
+tu as &eacute;tudi&eacute;
+il/elle a &eacute;tudi&eacute;
+nous avons &eacute;tudi&eacute;
+vous avez &eacute;tudi&eacute;
+ils/elles ont &eacute;tudi&eacute;

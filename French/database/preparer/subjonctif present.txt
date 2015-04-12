@@ -1,6 +1,6 @@
-je prepare
-tu prepares
-il/elle prepare
-nous preparions
-vous prepariez
-ils/elles preparent
+je pr&eacute;pare
+tu pr&eacute;pares
+il/elle pr&eacute;pare
+nous pr&eacute;parions
+vous pr&eacute;pariez
+ils/elles pr&eacute;parent

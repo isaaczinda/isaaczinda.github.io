@@ -1,6 +1,6 @@
-j'eus jure
-tu eus jure
-il/elle eut jure
-nous eumes jure
-vous eutes jure
-ils/elles eurent jure
+j'eus jur&eacute;
+tu eus jur&eacute;
+il/elle eut jur&eacute;
+nous e&ucirc;mes jur&eacute;
+vous e&ucirc;tes jur&eacute;
+ils/elles eurent jur&eacute;

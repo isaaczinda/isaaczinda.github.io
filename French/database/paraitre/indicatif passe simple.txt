@@ -1,6 +1,6 @@
 je parus
 tu parus
 il/elle parut
-nous parumes
-vous parutes
+nous par&ucirc;mes
+vous par&ucirc;tes
 ils/elles parurent

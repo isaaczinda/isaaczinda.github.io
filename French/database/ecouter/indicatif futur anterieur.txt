@@ -1,6 +1,6 @@
-j'aurai ecoute
-tu auras ecoute
-il/elle aura ecoute
-nous aurons ecoute
-vous aurez ecoute
-ils/elles auront ecoute
+j'aurai &eacute;cout&eacute;
+tu auras &eacute;cout&eacute;
+il/elle aura &eacute;cout&eacute;
+nous aurons &eacute;cout&eacute;
+vous aurez &eacute;cout&eacute;
+ils/elles auront &eacute;cout&eacute;

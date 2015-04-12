@@ -1,6 +1,6 @@
 je pris
 tu pris
 il/elle prit
-nous primes
-vous prites
+nous pr&icirc;mes
+vous pr&icirc;tes
 ils/elles prirent

@@ -1,8 +1,8 @@
-je fus arrive
-tu fus arrive
-il fut arrive
-elle fut arrivee
-nous fumes arrives
-vous futes arrives
-ils furent arrives
-elles furent arrivees
+je fus arriv&eacute;
+tu fus arriv&eacute;
+il fut arriv&eacute;
+elle fut arriv&eacute;e
+nous f&ucirc;mes arriv&eacute;s
+vous f&ucirc;tes arriv&eacute;s
+ils furent arriv&eacute;s
+elles furent arriv&eacute;es

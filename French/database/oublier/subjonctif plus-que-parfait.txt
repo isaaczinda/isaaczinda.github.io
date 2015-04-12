@@ -1,6 +1,6 @@
-j'eusse oublie
-tu eusses oublie
-il/elle eut oublie
-nous eussions oublie
-vous eussiez oublie
-ils/elles eussent oublie
+j'eusse oubli&eacute;
+tu eusses oubli&eacute;
+il/elle e&ucirc;t oubli&eacute;
+nous eussions oubli&eacute;
+vous eussiez oubli&eacute;
+ils/elles eussent oubli&eacute;

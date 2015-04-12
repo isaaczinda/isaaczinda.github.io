@@ -1,6 +1,6 @@
-j'eusse tire
-tu eusses tire
-il/elle eut tire
-nous eussions tire
-vous eussiez tire
-ils/elles eussent tire
+j'eusse tir&eacute;
+tu eusses tir&eacute;
+il/elle e&ucirc;t tir&eacute;
+nous eussions tir&eacute;
+vous eussiez tir&eacute;
+ils/elles eussent tir&eacute;

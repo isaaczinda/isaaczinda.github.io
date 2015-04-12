@@ -1,6 +1,6 @@
-je derange
-tu deranges
-il/elle derange
-nous derangeons
-vous derangez
-ils/elles derangent
+je d&eacute;range
+tu d&eacute;ranges
+il/elle d&eacute;range
+nous d&eacute;rangeons
+vous d&eacute;rangez
+ils/elles d&eacute;rangent

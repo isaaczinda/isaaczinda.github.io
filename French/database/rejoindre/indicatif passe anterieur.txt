@@ -1,6 +1,6 @@
 j'eus rejoint
 tu eus rejoint
 il/elle eut rejoint
-nous eumes rejoint
-vous eutes rejoint
+nous e&ucirc;mes rejoint
+vous e&ucirc;tes rejoint
 ils/elles eurent rejoint

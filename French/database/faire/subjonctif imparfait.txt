@@ -1,6 +1,6 @@
 je fisse
 tu fisses
-il/elle fit
+il/elle f&icirc;t
 nous fissions
 vous fissiez
 ils/elles fissent

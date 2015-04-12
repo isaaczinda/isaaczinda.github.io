@@ -1,6 +1,6 @@
 je vins
 tu vins
 il/elle vint
-nous vinmes
-vous vintes
+nous v&icirc;nmes
+vous v&icirc;ntes
 ils/elles vinrent

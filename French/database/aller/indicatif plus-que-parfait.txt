@@ -1,8 +1,8 @@
-j'etais alle
-tu etais alle
-il etait alle
-elle etait allee
-nous etions alles
-vous etiez alles
-ils etaient alles
-elles etaient allees
+j'&eacute;tais all&eacute;
+tu &eacute;tais all&eacute;
+il &eacute;tait all&eacute;
+elle &eacute;tait all&eacute;e
+nous &eacute;tions all&eacute;s
+vous &eacute;tiez all&eacute;s
+ils &eacute;taient all&eacute;s
+elles &eacute;taient all&eacute;es

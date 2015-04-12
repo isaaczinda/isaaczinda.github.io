@@ -1,6 +1,6 @@
 j'assis
 tu assis
 il/elle assit
-nous assimes
-vous assites
+nous ass&icirc;mes
+vous ass&icirc;tes
 ils/elles assirent

@@ -1,6 +1,6 @@
-j'eus repete
-tu eus repete
-il/elle eut repete
-nous eumes repete
-vous eutes repete
-ils/elles eurent repete
+j'eus r&eacute;p&eacute;t&eacute;
+tu eus r&eacute;p&eacute;t&eacute;
+il/elle eut r&eacute;p&eacute;t&eacute;
+nous e&ucirc;mes r&eacute;p&eacute;t&eacute;
+vous e&ucirc;tes r&eacute;p&eacute;t&eacute;
+ils/elles eurent r&eacute;p&eacute;t&eacute;

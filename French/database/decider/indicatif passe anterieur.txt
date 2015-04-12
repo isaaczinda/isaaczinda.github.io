@@ -1,6 +1,6 @@
-j'eus decide
-tu eus decide
-il/elle eut decide
-nous eumes decide
-vous eutes decide
-ils/elles eurent decide
+j'eus d&eacute;cid&eacute;
+tu eus d&eacute;cid&eacute;
+il/elle eut d&eacute;cid&eacute;
+nous e&ucirc;mes d&eacute;cid&eacute;
+vous e&ucirc;tes d&eacute;cid&eacute;
+ils/elles eurent d&eacute;cid&eacute;

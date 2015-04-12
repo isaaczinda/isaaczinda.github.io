@@ -1,6 +1,6 @@
-j'eusse tue
-tu eusses tue
-il/elle eut tue
-nous eussions tue
-vous eussiez tue
-ils/elles eussent tue
+j'eusse tu&eacute;
+tu eusses tu&eacute;
+il/elle e&ucirc;t tu&eacute;
+nous eussions tu&eacute;
+vous eussiez tu&eacute;
+ils/elles eussent tu&eacute;

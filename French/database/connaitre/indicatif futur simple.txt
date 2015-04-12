@@ -1,6 +1,6 @@
-je connaitrai
-tu connaitras
-il/elle connaitra
-nous connaitrons
-vous connaitrez
-ils/elles connaitront
+je conna&icirc;trai
+tu conna&icirc;tras
+il/elle conna&icirc;tra
+nous conna&icirc;trons
+vous conna&icirc;trez
+ils/elles conna&icirc;tront

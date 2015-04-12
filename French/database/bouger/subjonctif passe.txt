@@ -1,6 +1,6 @@
-j'aie bouge
-tu aies bouge
-il/elle ait bouge
-nous ayons bouge
-vous ayez bouge
-ils/elles aient bouge
+j'aie boug&eacute;
+tu aies boug&eacute;
+il/elle ait boug&eacute;
+nous ayons boug&eacute;
+vous ayez boug&eacute;
+ils/elles aient boug&eacute;

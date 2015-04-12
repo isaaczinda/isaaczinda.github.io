@@ -1,6 +1,6 @@
-je deciderai
-tu decideras
-il/elle decidera
-nous deciderons
-vous deciderez
-ils/elles decideront
+je d&eacute;ciderai
+tu d&eacute;cideras
+il/elle d&eacute;cidera
+nous d&eacute;ciderons
+vous d&eacute;ciderez
+ils/elles d&eacute;cideront

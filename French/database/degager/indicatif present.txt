@@ -1,6 +1,6 @@
-je degage
-tu degages
-il/elle degage
-nous degageons
-vous degagez
-ils/elles degagent
+je d&eacute;gage
+tu d&eacute;gages
+il/elle d&eacute;gage
+nous d&eacute;gageons
+vous d&eacute;gagez
+ils/elles d&eacute;gagent

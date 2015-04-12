@@ -1,6 +1,6 @@
-j'eus appele
-tu eus appele
-il/elle eut appele
-nous eumes appele
-vous eutes appele
-ils/elles eurent appele
+j'eus appel&eacute;
+tu eus appel&eacute;
+il/elle eut appel&eacute;
+nous e&ucirc;mes appel&eacute;
+vous e&ucirc;tes appel&eacute;
+ils/elles eurent appel&eacute;

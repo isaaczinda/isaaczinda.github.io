@@ -1,6 +1,6 @@
-j'aurai lance
-tu auras lance
-il/elle aura lance
-nous aurons lance
-vous aurez lance
-ils/elles auront lance
+j'aurai lanc&eacute;
+tu auras lanc&eacute;
+il/elle aura lanc&eacute;
+nous aurons lanc&eacute;
+vous aurez lanc&eacute;
+ils/elles auront lanc&eacute;

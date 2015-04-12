@@ -1,7 +1,7 @@
 je fusse sorti
 tu fusses sorti
-il fut sorti
-elle fut sortie
+il f&ucirc;t sorti
+elle f&ucirc;t sortie
 nous fussions sortis
 vous fussiez sortis
 ils fussent sortis

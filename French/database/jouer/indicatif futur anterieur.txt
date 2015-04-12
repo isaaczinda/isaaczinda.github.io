@@ -1,6 +1,6 @@
-j'aurai joue
-tu auras joue
-il/elle aura joue
-nous aurons joue
-vous aurez joue
-ils/elles auront joue
+j'aurai jou&eacute;
+tu auras jou&eacute;
+il/elle aura jou&eacute;
+nous aurons jou&eacute;
+vous aurez jou&eacute;
+ils/elles auront jou&eacute;

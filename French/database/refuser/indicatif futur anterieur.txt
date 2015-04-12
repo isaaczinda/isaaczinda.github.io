@@ -1,6 +1,6 @@
-j'aurai refuse
-tu auras refuse
-il/elle aura refuse
-nous aurons refuse
-vous aurez refuse
-ils/elles auront refuse
+j'aurai refus&eacute;
+tu auras refus&eacute;
+il/elle aura refus&eacute;
+nous aurons refus&eacute;
+vous aurez refus&eacute;
+ils/elles auront refus&eacute;

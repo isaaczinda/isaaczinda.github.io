@@ -1,6 +1,6 @@
-j'eus occupe
-tu eus occupe
-il/elle eut occupe
-nous eumes occupe
-vous eutes occupe
-ils/elles eurent occupe
+j'eus occup&eacute;
+tu eus occup&eacute;
+il/elle eut occup&eacute;
+nous e&ucirc;mes occup&eacute;
+vous e&ucirc;tes occup&eacute;
+ils/elles eurent occup&eacute;

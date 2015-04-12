@@ -1,6 +1,6 @@
-j'eus doute
-tu eus doute
-il/elle eut doute
-nous eumes doute
-vous eutes doute
-ils/elles eurent doute
+j'eus dout&eacute;
+tu eus dout&eacute;
+il/elle eut dout&eacute;
+nous e&ucirc;mes dout&eacute;
+vous e&ucirc;tes dout&eacute;
+ils/elles eurent dout&eacute;
