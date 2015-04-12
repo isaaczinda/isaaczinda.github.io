@@ -5,6 +5,15 @@
 	</head>
 	
 	<body>
+		<div id = "Modal" class="modal fade bs-example-modal-sm" tabindex="-1" role="dialog" aria-labelledby="mySmallModalLabel" aria-hidden="true">
+		  <div class="modal-dialog modal-sm">
+		    <div class="modal-content">
+		    	You did not type a valid french verb.
+		    </div>
+		  </div>
+		</div>
+
+
 		<div class = "container-fluid">
 			<div class="jumbotron">
 			  <h1>Welcome to the French Verb Conjugator</h1>
@@ -90,7 +99,8 @@
 
 			if(!(VerbList.indexOf("\n" + Verb + "\n") > 0))
 			{
-				alert("That's not a french verb (that we know of).");
+				$('#Modal').modal('show');
+				//alert("That's not a french verb (that we know of).");
 				return -1;
 			}
 
@@ -105,6 +115,10 @@
 
 		$(document).ready(function()
 		{
+			$('#Modal').modal({
+			  keyboard: false
+			})
+
 			GetVerbList();
 
 			$("#SearchTextbox").bind('keypress', function(e) 
