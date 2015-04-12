@@ -1,0 +1,6 @@
+j'aie prescrit
+tu aies prescrit
+il/elle ait prescrit
+nous ayons prescrit
+vous ayez prescrit
+ils/elles aient prescrit

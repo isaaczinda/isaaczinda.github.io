@@ -1,0 +1,6 @@
+je ralentis
+tu ralentis
+il/elle ralentit
+nous ralent&icirc;mes
+vous ralent&icirc;tes
+ils/elles ralentirent

@@ -1,0 +1,6 @@
+je bavardais
+tu bavardais
+il/elle bavardait
+nous bavardions
+vous bavardiez
+ils/elles bavardaient

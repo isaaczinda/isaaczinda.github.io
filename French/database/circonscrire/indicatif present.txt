@@ -1,0 +1,6 @@
+je circonscris
+tu circonscris
+il/elle circonscrit
+nous circonscrivons
+vous circonscrivez
+ils/elles circonscrivent

@@ -1,0 +1,6 @@
+j'ai occlus
+tu as occlus
+il/elle a occlus
+nous avons occlus
+vous avez occlus
+ils/elles ont occlus

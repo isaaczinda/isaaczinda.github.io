@@ -1,0 +1,6 @@
+je saisis
+tu saisis
+il/elle saisit
+nous saisissons
+vous saisissez
+ils/elles saisissent

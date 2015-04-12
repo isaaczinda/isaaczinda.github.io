@@ -1,0 +1,6 @@
+je secourrai
+tu secourras
+il/elle secourra
+nous secourrons
+vous secourrez
+ils/elles secourront

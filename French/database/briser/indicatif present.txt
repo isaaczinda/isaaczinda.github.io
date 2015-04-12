@@ -1,0 +1,6 @@
+je brise
+tu brises
+il/elle brise
+nous brisons
+vous brisez
+ils/elles brisent

@@ -1,0 +1,6 @@
+j'inscris
+tu inscris
+il/elle inscrit
+nous inscrivons
+vous inscrivez
+ils/elles inscrivent

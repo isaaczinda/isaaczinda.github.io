@@ -1,0 +1,6 @@
+je hoquette
+tu hoquettes
+il/elle hoquette
+nous hoquetons
+vous hoquetez
+ils/elles hoquettent

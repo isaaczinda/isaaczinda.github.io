@@ -1,0 +1,6 @@
+j'emploie
+tu emploies
+il/elle emploie
+nous employons
+vous employez
+ils/elles emploient

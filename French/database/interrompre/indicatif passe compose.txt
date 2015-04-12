@@ -1,0 +1,6 @@
+j'ai interrompu
+tu as interrompu
+il/elle a interrompu
+nous avons interrompu
+vous avez interrompu
+ils/elles ont interrompu

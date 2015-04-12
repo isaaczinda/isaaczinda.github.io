@@ -1,0 +1,6 @@
+j'ai parcouru
+tu as parcouru
+il/elle a parcouru
+nous avons parcouru
+vous avez parcouru
+ils/elles ont parcouru

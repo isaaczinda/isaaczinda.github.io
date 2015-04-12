@@ -1,0 +1,6 @@
+je r&eacute;cris
+tu r&eacute;cris
+il/elle r&eacute;crit
+nous r&eacute;crivons
+vous r&eacute;crivez
+ils/elles r&eacute;crivent

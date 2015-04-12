@@ -1,0 +1,6 @@
+je maigrisse
+tu maigrisses
+il/elle maigrisse
+nous maigrissions
+vous maigrissiez
+ils/elles maigrissent

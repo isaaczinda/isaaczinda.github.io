@@ -1,0 +1,6 @@
+je plongerai
+tu plongeras
+il/elle plongera
+nous plongerons
+vous plongerez
+ils/elles plongeront

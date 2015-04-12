@@ -1,0 +1,6 @@
+j'aie inscrit
+tu aies inscrit
+il/elle ait inscrit
+nous ayons inscrit
+vous ayez inscrit
+ils/elles aient inscrit

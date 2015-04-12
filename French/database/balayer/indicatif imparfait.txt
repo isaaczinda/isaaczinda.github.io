@@ -1,0 +1,6 @@
+je balayais
+tu balayais
+il/elle balayait
+nous balayions
+vous balayiez
+ils/elles balayaient

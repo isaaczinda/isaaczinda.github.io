@@ -1,0 +1,6 @@
+je cheminasse
+tu cheminasses
+il/elle chemin&acirc;t
+nous cheminassions
+vous cheminassiez
+ils/elles cheminassent

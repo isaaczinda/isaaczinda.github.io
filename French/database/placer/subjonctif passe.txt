@@ -1,0 +1,6 @@
+j'aie plac&eacute;
+tu aies plac&eacute;
+il/elle ait plac&eacute;
+nous ayons plac&eacute;
+vous ayez plac&eacute;
+ils/elles aient plac&eacute;

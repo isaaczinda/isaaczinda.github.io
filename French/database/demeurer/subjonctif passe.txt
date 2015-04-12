@@ -1,0 +1,6 @@
+j'aie demeur&eacute;
+tu aies demeur&eacute;
+il/elle ait demeur&eacute;
+nous ayons demeur&eacute;
+vous ayez demeur&eacute;
+ils/elles aient demeur&eacute;

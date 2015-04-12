@@ -1,0 +1,6 @@
+je double
+tu doubles
+il/elle double
+nous doublons
+vous doublez
+ils/elles doublent

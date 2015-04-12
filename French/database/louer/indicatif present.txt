@@ -1,0 +1,6 @@
+je loue
+tu loues
+il/elle loue
+nous louons
+vous louez
+ils/elles louent

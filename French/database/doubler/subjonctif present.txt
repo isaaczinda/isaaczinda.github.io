@@ -1,0 +1,6 @@
+je double
+tu doubles
+il/elle double
+nous doublions
+vous doubliez
+ils/elles doublent

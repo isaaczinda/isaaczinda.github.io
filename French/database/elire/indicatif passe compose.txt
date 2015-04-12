@@ -1,0 +1,6 @@
+j'ai &eacute;lu
+tu as &eacute;lu
+il/elle a &eacute;lu
+nous avons &eacute;lu
+vous avez &eacute;lu
+ils/elles ont &eacute;lu

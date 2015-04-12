@@ -1,0 +1,6 @@
+j'aie tapot&eacute;
+tu aies tapot&eacute;
+il/elle ait tapot&eacute;
+nous ayons tapot&eacute;
+vous ayez tapot&eacute;
+ils/elles aient tapot&eacute;

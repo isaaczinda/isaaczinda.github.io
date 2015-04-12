@@ -1,0 +1,6 @@
+je peins
+tu peins
+il/elle peint
+nous peignons
+vous peignez
+ils/elles peignent

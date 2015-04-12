@@ -1,0 +1,6 @@
+j'&eacute;prouve
+tu &eacute;prouves
+il/elle &eacute;prouve
+nous &eacute;prouvons
+vous &eacute;prouvez
+ils/elles &eacute;prouvent

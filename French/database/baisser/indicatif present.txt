@@ -1,0 +1,6 @@
+je baisse
+tu baisses
+il/elle baisse
+nous baissons
+vous baissez
+ils/elles baissent

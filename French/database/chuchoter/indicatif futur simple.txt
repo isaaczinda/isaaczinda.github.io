@@ -1,0 +1,6 @@
+je chuchoterai
+tu chuchoteras
+il/elle chuchotera
+nous chuchoterons
+vous chuchoterez
+ils/elles chuchoteront

@@ -1,0 +1,6 @@
+je diminue
+tu diminues
+il/elle diminue
+nous diminuons
+vous diminuez
+ils/elles diminuent

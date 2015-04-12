@@ -1,0 +1,6 @@
+je participe
+tu participes
+il/elle participe
+nous participions
+vous participiez
+ils/elles participent

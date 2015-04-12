@@ -1,0 +1,6 @@
+j'habille
+tu habilles
+il/elle habille
+nous habillions
+vous habilliez
+ils/elles habillent

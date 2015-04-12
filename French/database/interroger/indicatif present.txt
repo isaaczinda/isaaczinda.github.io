@@ -1,0 +1,6 @@
+j'interroge
+tu interroges
+il/elle interroge
+nous interrogeons
+vous interrogez
+ils/elles interrogent

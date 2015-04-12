@@ -1,0 +1,6 @@
+j'ai bouilli
+tu as bouilli
+il/elle a bouilli
+nous avons bouilli
+vous avez bouilli
+ils/elles ont bouilli

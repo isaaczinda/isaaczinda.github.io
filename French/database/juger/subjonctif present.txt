@@ -1,0 +1,6 @@
+je juge
+tu juges
+il/elle juge
+nous jugions
+vous jugiez
+ils/elles jugent

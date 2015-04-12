@@ -1,0 +1,6 @@
+je voyagerai
+tu voyageras
+il/elle voyagera
+nous voyagerons
+vous voyagerez
+ils/elles voyageront

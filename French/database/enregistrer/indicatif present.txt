@@ -1,0 +1,6 @@
+j'enregistre
+tu enregistres
+il/elle enregistre
+nous enregistrons
+vous enregistrez
+ils/elles enregistrent

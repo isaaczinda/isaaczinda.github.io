@@ -1,0 +1,6 @@
+je repasse
+tu repasses
+il/elle repasse
+nous repassions
+vous repassiez
+ils/elles repassent

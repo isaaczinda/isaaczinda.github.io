@@ -1,0 +1,6 @@
+j'ai nourri
+tu as nourri
+il/elle a nourri
+nous avons nourri
+vous avez nourri
+ils/elles ont nourri

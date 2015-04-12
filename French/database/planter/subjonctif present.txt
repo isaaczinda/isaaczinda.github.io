@@ -1,0 +1,6 @@
+je plante
+tu plantes
+il/elle plante
+nous plantions
+vous plantiez
+ils/elles plantent

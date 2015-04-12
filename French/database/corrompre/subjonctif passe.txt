@@ -1,0 +1,6 @@
+j'aie corrompu
+tu aies corrompu
+il/elle ait corrompu
+nous ayons corrompu
+vous ayez corrompu
+ils/elles aient corrompu

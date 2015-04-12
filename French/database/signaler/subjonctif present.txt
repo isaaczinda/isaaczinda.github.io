@@ -1,0 +1,6 @@
+je signale
+tu signales
+il/elle signale
+nous signalions
+vous signaliez
+ils/elles signalent

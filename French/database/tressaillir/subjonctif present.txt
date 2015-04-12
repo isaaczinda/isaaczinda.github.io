@@ -1,0 +1,6 @@
+je tressaille
+tu tressailles
+il/elle tressaille
+nous tressaillions
+vous tressailliez
+ils/elles tressaillent

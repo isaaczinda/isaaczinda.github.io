@@ -1,0 +1,6 @@
+j'aie interrompu
+tu aies interrompu
+il/elle ait interrompu
+nous ayons interrompu
+vous ayez interrompu
+ils/elles aient interrompu

@@ -1,0 +1,6 @@
+j'aie conquis
+tu aies conquis
+il/elle ait conquis
+nous ayons conquis
+vous ayez conquis
+ils/elles aient conquis

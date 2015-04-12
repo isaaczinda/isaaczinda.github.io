@@ -1,0 +1,6 @@
+je chasse
+tu chasses
+il/elle chasse
+nous chassions
+vous chassiez
+ils/elles chassent

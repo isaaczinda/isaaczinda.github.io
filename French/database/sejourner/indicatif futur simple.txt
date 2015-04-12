@@ -1,0 +1,6 @@
+je s&eacute;journerai
+tu s&eacute;journeras
+il/elle s&eacute;journera
+nous s&eacute;journerons
+vous s&eacute;journerez
+ils/elles s&eacute;journeront

@@ -1,0 +1,6 @@
+je geigne
+tu geignes
+il/elle geigne
+nous geignions
+vous geigniez
+ils/elles geignent

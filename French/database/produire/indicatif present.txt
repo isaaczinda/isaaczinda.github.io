@@ -1,0 +1,6 @@
+je produis
+tu produis
+il/elle produit
+nous produisons
+vous produisez
+ils/elles produisent

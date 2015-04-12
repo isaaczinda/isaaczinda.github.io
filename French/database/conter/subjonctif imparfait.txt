@@ -1,0 +1,6 @@
+je contasse
+tu contasses
+il/elle cont&acirc;t
+nous contassions
+vous contassiez
+ils/elles contassent

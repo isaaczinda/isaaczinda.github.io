@@ -1,0 +1,6 @@
+je riposte
+tu ripostes
+il/elle riposte
+nous ripostons
+vous ripostez
+ils/elles ripostent

@@ -1,0 +1,6 @@
+je parcoure
+tu parcoures
+il/elle parcoure
+nous parcourions
+vous parcouriez
+ils/elles parcourent

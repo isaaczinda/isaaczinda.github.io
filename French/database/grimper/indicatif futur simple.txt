@@ -1,0 +1,6 @@
+je grimperai
+tu grimperas
+il/elle grimpera
+nous grimperons
+vous grimperez
+ils/elles grimperont

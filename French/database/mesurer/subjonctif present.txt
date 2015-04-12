@@ -1,0 +1,6 @@
+je mesure
+tu mesures
+il/elle mesure
+nous mesurions
+vous mesuriez
+ils/elles mesurent

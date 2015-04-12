@@ -1,0 +1,6 @@
+je survole
+tu survoles
+il/elle survole
+nous survolons
+vous survolez
+ils/elles survolent

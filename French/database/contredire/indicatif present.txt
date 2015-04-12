@@ -1,0 +1,6 @@
+je contredis
+tu contredis
+il/elle contredit
+nous contredisons
+vous contredisez
+ils/elles contredisent

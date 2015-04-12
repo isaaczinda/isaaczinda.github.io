@@ -1,0 +1,6 @@
+je disjoins
+tu disjoins
+il/elle disjoint
+nous disjoignons
+vous disjoignez
+ils/elles disjoignent

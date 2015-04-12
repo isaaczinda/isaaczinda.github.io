@@ -1,0 +1,6 @@
+je contiendrai
+tu contiendras
+il/elle contiendra
+nous contiendrons
+vous contiendrez
+ils/elles contiendront

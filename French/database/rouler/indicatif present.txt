@@ -1,0 +1,6 @@
+je roule
+tu roules
+il/elle roule
+nous roulons
+vous roulez
+ils/elles roulent

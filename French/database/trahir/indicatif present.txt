@@ -1,0 +1,6 @@
+je trahis
+tu trahis
+il/elle trahit
+nous trahissons
+vous trahissez
+ils/elles trahissent

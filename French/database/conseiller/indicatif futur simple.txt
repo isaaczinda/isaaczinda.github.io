@@ -1,0 +1,6 @@
+je conseillerai
+tu conseilleras
+il/elle conseillera
+nous conseillerons
+vous conseillerez
+ils/elles conseilleront

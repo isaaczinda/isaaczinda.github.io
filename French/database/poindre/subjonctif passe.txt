@@ -1,0 +1,6 @@
+j'aie point
+tu aies point
+il/elle ait point
+nous ayons point
+vous ayez point
+ils/elles aient point

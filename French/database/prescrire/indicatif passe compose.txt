@@ -1,0 +1,6 @@
+j'ai prescrit
+tu as prescrit
+il/elle a prescrit
+nous avons prescrit
+vous avez prescrit
+ils/elles ont prescrit

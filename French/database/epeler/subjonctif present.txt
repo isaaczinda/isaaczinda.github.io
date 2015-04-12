@@ -1,0 +1,6 @@
+j'&eacute;pelle
+tu &eacute;pelles
+il/elle &eacute;pelle
+nous &eacute;pelions
+vous &eacute;peliez
+ils/elles &eacute;pellent

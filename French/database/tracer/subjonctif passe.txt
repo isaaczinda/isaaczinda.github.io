@@ -1,0 +1,6 @@
+j'aie trac&eacute;
+tu aies trac&eacute;
+il/elle ait trac&eacute;
+nous ayons trac&eacute;
+vous ayez trac&eacute;
+ils/elles aient trac&eacute;

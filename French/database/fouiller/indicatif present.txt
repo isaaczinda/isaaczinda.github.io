@@ -1,0 +1,6 @@
+je fouille
+tu fouilles
+il/elle fouille
+nous fouillons
+vous fouillez
+ils/elles fouillent

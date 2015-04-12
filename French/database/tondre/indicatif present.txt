@@ -1,0 +1,6 @@
+je tonds
+tu tonds
+il/elle tond
+nous tondons
+vous tondez
+ils/elles tondent

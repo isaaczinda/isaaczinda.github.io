@@ -1,0 +1,6 @@
+je mordisse
+tu mordisses
+il/elle mord&icirc;t
+nous mordissions
+vous mordissiez
+ils/elles mordissent

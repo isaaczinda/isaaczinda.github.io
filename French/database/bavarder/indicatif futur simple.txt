@@ -1,0 +1,6 @@
+je bavarderai
+tu bavarderas
+il/elle bavardera
+nous bavarderons
+vous bavarderez
+ils/elles bavarderont

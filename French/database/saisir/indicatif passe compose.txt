@@ -1,0 +1,6 @@
+j'ai saisi
+tu as saisi
+il/elle a saisi
+nous avons saisi
+vous avez saisi
+ils/elles ont saisi

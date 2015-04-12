@@ -1,0 +1,6 @@
+j'ai &eacute;tendu
+tu as &eacute;tendu
+il/elle a &eacute;tendu
+nous avons &eacute;tendu
+vous avez &eacute;tendu
+ils/elles ont &eacute;tendu

@@ -1,0 +1,6 @@
+je cuis
+tu cuis
+il/elle cuit
+nous cuisons
+vous cuisez
+ils/elles cuisent

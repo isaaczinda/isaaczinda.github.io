@@ -1,0 +1,6 @@
+je b&ecirc;le
+tu b&ecirc;les
+il/elle b&ecirc;le
+nous b&ecirc;lions
+vous b&ecirc;liez
+ils/elles b&ecirc;lent

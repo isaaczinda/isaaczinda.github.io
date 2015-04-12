@@ -1,0 +1,6 @@
+j'aie &eacute;treint
+tu aies &eacute;treint
+il/elle ait &eacute;treint
+nous ayons &eacute;treint
+vous ayez &eacute;treint
+ils/elles aient &eacute;treint

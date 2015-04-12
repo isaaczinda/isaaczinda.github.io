@@ -1,0 +1,6 @@
+j'aie circonvenu
+tu aies circonvenu
+il/elle ait circonvenu
+nous ayons circonvenu
+vous ayez circonvenu
+ils/elles aient circonvenu

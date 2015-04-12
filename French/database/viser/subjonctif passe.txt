@@ -1,0 +1,6 @@
+j'aie vis&eacute;
+tu aies vis&eacute;
+il/elle ait vis&eacute;
+nous ayons vis&eacute;
+vous ayez vis&eacute;
+ils/elles aient vis&eacute;

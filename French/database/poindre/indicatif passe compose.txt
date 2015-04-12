@@ -1,0 +1,6 @@
+j'ai point
+tu as point
+il/elle a point
+nous avons point
+vous avez point
+ils/elles ont point

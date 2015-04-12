@@ -1,0 +1,6 @@
+je tutoie
+tu tutoies
+il/elle tutoie
+nous tutoyons
+vous tutoyez
+ils/elles tutoient

@@ -1,0 +1,6 @@
+je conte
+tu contes
+il/elle conte
+nous contons
+vous contez
+ils/elles content

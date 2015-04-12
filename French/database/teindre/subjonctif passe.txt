@@ -1,0 +1,6 @@
+j'aie teint
+tu aies teint
+il/elle ait teint
+nous ayons teint
+vous ayez teint
+ils/elles aient teint

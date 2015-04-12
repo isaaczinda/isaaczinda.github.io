@@ -1,0 +1,6 @@
+j'enseigne
+tu enseignes
+il/elle enseigne
+nous enseignons
+vous enseignez
+ils/elles enseignent

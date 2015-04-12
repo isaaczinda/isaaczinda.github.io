@@ -1,0 +1,6 @@
+je votasse
+tu votasses
+il/elle vot&acirc;t
+nous votassions
+vous votassiez
+ils/elles votassent

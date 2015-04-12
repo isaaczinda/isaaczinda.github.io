@@ -1,0 +1,6 @@
+je bouillis
+tu bouillis
+il/elle bouillit
+nous bouill&icirc;mes
+vous bouill&icirc;tes
+ils/elles bouillirent

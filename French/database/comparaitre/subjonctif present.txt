@@ -1,0 +1,6 @@
+je comparaisse
+tu comparaisses
+il/elle comparaisse
+nous comparaissions
+vous comparaissiez
+ils/elles comparaissent

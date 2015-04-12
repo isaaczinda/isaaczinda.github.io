@@ -1,0 +1,6 @@
+j'aie combattu
+tu aies combattu
+il/elle ait combattu
+nous ayons combattu
+vous ayez combattu
+ils/elles aient combattu

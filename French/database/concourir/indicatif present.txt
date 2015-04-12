@@ -1,0 +1,6 @@
+je concours
+tu concours
+il/elle concourt
+nous concourons
+vous concourez
+ils/elles concourent

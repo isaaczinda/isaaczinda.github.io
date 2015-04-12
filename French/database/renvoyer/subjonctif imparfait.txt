@@ -1,0 +1,6 @@
+je renvoyasse
+tu renvoyasses
+il/elle renvoy&acirc;t
+nous renvoyassions
+vous renvoyassiez
+ils/elles renvoyassent

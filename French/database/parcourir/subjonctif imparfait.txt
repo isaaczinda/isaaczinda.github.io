@@ -1,0 +1,6 @@
+je parcourusse
+tu parcourusses
+il/elle parcour&ucirc;t
+nous parcourussions
+vous parcourussiez
+ils/elles parcourussent

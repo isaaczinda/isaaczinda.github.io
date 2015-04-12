@@ -1,0 +1,6 @@
+je brosserai
+tu brosseras
+il/elle brossera
+nous brosserons
+vous brosserez
+ils/elles brosseront

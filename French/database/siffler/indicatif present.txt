@@ -1,0 +1,6 @@
+je siffle
+tu siffles
+il/elle siffle
+nous sifflons
+vous sifflez
+ils/elles sifflent

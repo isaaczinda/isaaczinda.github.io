@@ -1,0 +1,6 @@
+j'arme
+tu armes
+il/elle arme
+nous armons
+vous armez
+ils/elles arment

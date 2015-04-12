@@ -1,0 +1,6 @@
+j'aie vaincu
+tu aies vaincu
+il/elle ait vaincu
+nous ayons vaincu
+vous ayez vaincu
+ils/elles aient vaincu

@@ -1,0 +1,6 @@
+j'interviens
+tu interviens
+il/elle intervient
+nous intervenons
+vous intervenez
+ils/elles interviennent

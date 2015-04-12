@@ -1,0 +1,6 @@
+je voile
+tu voiles
+il/elle voile
+nous voilons
+vous voilez
+ils/elles voilent

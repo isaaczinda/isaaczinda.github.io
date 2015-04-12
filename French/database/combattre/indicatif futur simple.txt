@@ -1,0 +1,6 @@
+je combattrai
+tu combattras
+il/elle combattra
+nous combattrons
+vous combattrez
+ils/elles combattront

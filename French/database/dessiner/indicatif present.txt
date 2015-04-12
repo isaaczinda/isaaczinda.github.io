@@ -1,0 +1,6 @@
+je dessine
+tu dessines
+il/elle dessine
+nous dessinons
+vous dessinez
+ils/elles dessinent

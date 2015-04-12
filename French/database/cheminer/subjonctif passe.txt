@@ -1,0 +1,6 @@
+j'aie chemin&eacute;
+tu aies chemin&eacute;
+il/elle ait chemin&eacute;
+nous ayons chemin&eacute;
+vous ayez chemin&eacute;
+ils/elles aient chemin&eacute;

@@ -1,0 +1,8 @@
+j'&eacute;tais convenu
+tu &eacute;tais convenu
+il &eacute;tait convenu
+elle &eacute;tait convenue
+nous &eacute;tions convenus
+vous &eacute;tiez convenus
+ils &eacute;taient  convenus
+elles &eacute;taient convenues

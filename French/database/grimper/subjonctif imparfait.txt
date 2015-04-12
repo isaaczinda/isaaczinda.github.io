@@ -1,0 +1,6 @@
+je grimpasse
+tu grimpasses
+il/elle grimp&acirc;t
+nous grimpassions
+vous grimpassiez
+ils/elles grimpassent

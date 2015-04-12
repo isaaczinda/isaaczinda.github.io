@@ -1,0 +1,6 @@
+je jouis
+tu jouis
+il/elle jouit
+nous jouissons
+vous jouissez
+ils/elles jouissent

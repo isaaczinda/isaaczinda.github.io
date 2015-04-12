@@ -1,0 +1,6 @@
+j'approuve
+tu approuves
+il/elle approuve
+nous approuvons
+vous approuvez
+ils/elles approuvent

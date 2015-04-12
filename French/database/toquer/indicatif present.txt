@@ -1,0 +1,6 @@
+je toque
+tu toques
+il/elle toque
+nous toquons
+vous toquez
+ils/elles toquent

@@ -1,0 +1,6 @@
+je jaunis
+tu jaunis
+il/elle jaunit
+nous jaunissons
+vous jaunissez
+ils/elles jaunissent

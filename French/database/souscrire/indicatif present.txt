@@ -1,0 +1,6 @@
+je souscris
+tu souscris
+il/elle souscrit
+nous souscrivons
+vous souscrivez
+ils/elles souscrivent

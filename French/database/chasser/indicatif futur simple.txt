@@ -1,0 +1,6 @@
+je chasserai
+tu chasseras
+il/elle chassera
+nous chasserons
+vous chasserez
+ils/elles chasseront

@@ -1,0 +1,6 @@
+je saisirai
+tu saisiras
+il/elle saisira
+nous saisirons
+vous saisirez
+ils/elles saisiront

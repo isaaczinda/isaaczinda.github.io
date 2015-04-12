@@ -1,0 +1,6 @@
+je feuilletterai
+tu feuilletteras
+il/elle feuillettera
+nous feuilletterons
+vous feuilletterez
+ils/elles feuilletteront

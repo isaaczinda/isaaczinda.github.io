@@ -1,0 +1,6 @@
+je logeai
+tu logeas
+il/elle logea
+nous loge&acirc;mes
+vous loge&acirc;tes
+ils/elles log&egrave;rent

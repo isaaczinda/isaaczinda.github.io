@@ -1,0 +1,6 @@
+j'aie voyag&eacute;
+tu aies voyag&eacute;
+il/elle ait voyag&eacute;
+nous ayons voyag&eacute;
+vous ayez voyag&eacute;
+ils/elles aient voyag&eacute;

@@ -1,0 +1,6 @@
+j'aie occlus
+tu aies occlus
+il/elle ait occlus
+nous ayons occlus
+vous ayez occlus
+ils/elles aient occlus

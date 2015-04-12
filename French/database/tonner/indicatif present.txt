@@ -1,0 +1,6 @@
+je tonne
+tu tonnes
+il/elle tonne
+nous tonnons
+vous tonnez
+ils/elles tonnent

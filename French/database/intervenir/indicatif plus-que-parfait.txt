@@ -1,0 +1,8 @@
+j'&eacute;tais intervenu
+tu &eacute;tais intervenu
+il &eacute;tait intervenu
+elle &eacute;tait intervenue
+nous &eacute;tions intervenus
+vous &eacute;tiez intervenus
+ils &eacute;taient  intervenus
+elles &eacute;taient intervenues

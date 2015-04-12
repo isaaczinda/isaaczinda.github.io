@@ -1,0 +1,6 @@
+j'ai adjoint
+tu as adjoint
+il/elle a adjoint
+nous avons adjoint
+vous avez adjoint
+ils/elles ont adjoint

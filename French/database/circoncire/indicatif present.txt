@@ -1,0 +1,6 @@
+je circoncis
+tu circoncis
+il/elle circoncit
+nous circoncisons
+vous circoncisez
+ils/elles circoncisent

@@ -1,0 +1,6 @@
+je pianote
+tu pianotes
+il/elle pianote
+nous pianotions
+vous pianotiez
+ils/elles pianotent

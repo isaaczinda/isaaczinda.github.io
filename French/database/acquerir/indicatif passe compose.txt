@@ -1,0 +1,6 @@
+j'ai acquis
+tu as acquis
+il/elle a acquis
+nous avons acquis
+vous avez acquis
+ils/elles ont acquis

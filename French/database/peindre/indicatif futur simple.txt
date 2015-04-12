@@ -1,0 +1,6 @@
+je peindrai
+tu peindras
+il/elle peindra
+nous peindrons
+vous peindrez
+ils/elles peindront

@@ -1,0 +1,6 @@
+je secours
+tu secours
+il/elle secourt
+nous secourons
+vous secourez
+ils/elles secourent

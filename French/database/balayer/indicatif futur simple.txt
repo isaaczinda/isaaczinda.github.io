@@ -1,0 +1,6 @@
+je balayerai/balaierai
+tu balayeras/balaieras
+il/elle balayera/balaiera
+nous balayerons/balaierons
+vous balayerez/balaierez
+ils/elles balayeront/balaieront

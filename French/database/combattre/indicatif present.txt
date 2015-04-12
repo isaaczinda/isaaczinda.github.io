@@ -1,0 +1,6 @@
+je combats
+tu combats
+il/elle combat
+nous combattons
+vous combattez
+ils/elles combattent

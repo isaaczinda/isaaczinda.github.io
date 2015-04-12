@@ -1,0 +1,6 @@
+je renvoie
+tu renvoies
+il/elle renvoie
+nous renvoyons
+vous renvoyez
+ils/elles renvoient

@@ -1,0 +1,6 @@
+je roulerai
+tu rouleras
+il/elle roulera
+nous roulerons
+vous roulerez
+ils/elles rouleront

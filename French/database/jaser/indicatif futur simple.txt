@@ -1,0 +1,6 @@
+je jaserai
+tu jaseras
+il/elle jasera
+nous jaserons
+vous jaserez
+ils/elles jaseront

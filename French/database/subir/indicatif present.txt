@@ -1,0 +1,6 @@
+je subis
+tu subis
+il/elle subit
+nous subissons
+vous subissez
+ils/elles subissent

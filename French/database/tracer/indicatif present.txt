@@ -1,0 +1,6 @@
+je trace
+tu traces
+il/elle trace
+nous tra&ccedil;ons
+vous tracez
+ils/elles tracent

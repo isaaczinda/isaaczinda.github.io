@@ -1,0 +1,6 @@
+je patine
+tu patines
+il/elle patine
+nous patinons
+vous patinez
+ils/elles patinent

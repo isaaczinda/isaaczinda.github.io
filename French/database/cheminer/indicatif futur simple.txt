@@ -1,0 +1,6 @@
+je cheminerai
+tu chemineras
+il/elle cheminera
+nous cheminerons
+vous cheminerez
+ils/elles chemineront

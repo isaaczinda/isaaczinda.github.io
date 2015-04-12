@@ -1,0 +1,6 @@
+je nettoie
+tu nettoies
+il/elle nettoie
+nous nettoyions
+vous nettoyiez
+ils/elles nettoient

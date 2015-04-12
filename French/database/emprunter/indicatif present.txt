@@ -1,0 +1,6 @@
+j'emprunte
+tu empruntes
+il/elle emprunte
+nous empruntons
+vous empruntez
+ils/elles empruntent

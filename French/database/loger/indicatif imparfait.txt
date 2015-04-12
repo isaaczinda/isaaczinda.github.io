@@ -1,0 +1,6 @@
+je logeais
+tu logeais
+il/elle logeait
+nous logions
+vous logiez
+ils/elles logeaient

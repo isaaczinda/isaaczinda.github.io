@@ -1,0 +1,6 @@
+j'aie souscrit
+tu aies souscrit
+il/elle ait souscrit
+nous ayons souscrit
+vous ayez souscrit
+ils/elles aient souscrit

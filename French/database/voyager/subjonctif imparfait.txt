@@ -1,0 +1,6 @@
+je voyageasse
+tu voyageasses
+il/elle voyage&acirc;t
+nous voyageassions
+vous voyageassiez
+ils/elles voyageassent

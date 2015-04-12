@@ -1,0 +1,6 @@
+je loge
+tu loges
+il/elle loge
+nous logions
+vous logiez
+ils/elles logent

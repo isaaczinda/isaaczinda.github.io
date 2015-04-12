@@ -1,0 +1,6 @@
+j'ai chemin&eacute;
+tu as chemin&eacute;
+il/elle a chemin&eacute;
+nous avons chemin&eacute;
+vous avez chemin&eacute;
+ils/elles ont chemin&eacute;

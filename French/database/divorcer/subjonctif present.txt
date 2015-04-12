@@ -1,0 +1,6 @@
+je divorce
+tu divorces
+il/elle divorce
+nous divorcions
+vous divorciez
+ils/elles divorcent

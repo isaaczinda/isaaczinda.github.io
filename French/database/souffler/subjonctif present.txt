@@ -1,0 +1,6 @@
+je souffle
+tu souffles
+il/elle souffle
+nous soufflions
+vous souffliez
+ils/elles soufflent

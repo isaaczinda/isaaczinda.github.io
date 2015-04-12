@@ -1,0 +1,6 @@
+je brosse
+tu brosses
+il/elle brosse
+nous brossons
+vous brossez
+ils/elles brossent
