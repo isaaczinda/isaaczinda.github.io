@@ -5,8 +5,8 @@
 	</head>
 	
 	<body>
-		<div id = "Modal" class="modal fade bs-example-modal-sm" tabindex="-1" role="dialog" aria-labelledby="mySmallModalLabel" aria-hidden="true">
-		  <div class="modal-dialog modal-sm">
+		<div class="modal fade bs-example-modal-sm" tabindex="-1" role="dialog" aria-labelledby="mySmallModalLabel" aria-hidden="true">
+		  <div class="modal-dialog modal-sm" id = "Modal">
 		    <div class="modal-content">
 		    	You did not type a valid french verb.
 		    </div>
@@ -118,6 +118,7 @@
 			$('#Modal').modal({
 			  keyboard: false
 			})
+			$('#Modal').modal('hide');
 
 			GetVerbList();
 
