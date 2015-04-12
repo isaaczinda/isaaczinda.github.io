@@ -26,15 +26,7 @@
 					<!-- <li onclick = 'LoadPage("Bio", this)'><a href="#">Bio</a></li> -->
 					<li onclick = 'LoadPage("Resume", this)'><a href="#">Resume</a></li>
 					<li onclick = 'LoadPage("Downloads", this)'><a href="#">Desktop Projects</a></li>
-					<li class="dropdown">
-						<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Robotics<span class="caret"></span></a>
-						<ul class="dropdown-menu" role="menu">
-							<li><a href="http://www.seattleacademy.net/robots/final-ball-conveyor/">Ball Collector</a></li>
-							<li><a href="http://www.seattleacademy.net/robots/telescoping-arm/">Telescoping Arm</a></li>
-							<li><a href="http://www.seattleacademy.net/robots/gyro-roadblock/">Robot IMU</a></li>
-							<li><a href="https://github.com/saasrobotics/2856">Github Repository</a></li>
-						</ul>
-					</li>
+					<li onclick = 'LoadPage("Robotics", this)'><a href="#">Robotics</a></li>
 
 					<li class="dropdown">
 						<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Web Projects<span class="caret"></span></a>
@@ -50,7 +42,7 @@
 			</div>
 		</nav>
 		<div id = "Content">
-			<div class = "Home" class = "active container-fluid">
+			<div class = "Home" class = "container-fluid">
 				<div class = "row">
 					<div class = "page-header col-sm-12 col-md-6">
 					  	<h1>isaaczinda.com<div><small>Home to my bio, resume, and project collection</small></div></h1>
@@ -60,8 +52,32 @@
 					</div>
 				</div>
 			</div>
-			<div class = "Bio" class = "container-fluid">
-				Etiam laoreet, nunc in sagittis ornare, sapien nibh tristique turpis, eu aliquet magna orci vitae tellus. Phasellus semper velit nec lacus varius, ut tristique ex aliquam. Duis ac ex eros. Mauris at venenatis massa. Aliquam fermentum fermentum neque et euismod. Suspendisse vel odio neque. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nam a diam tempus, blandit diam in, commodo diam. Curabitur tincidunt orci gravida, gravida eros non, lobortis mauris.
+			<div class = "Robotics container-fluid">
+				<div class = "row">
+					<div class = "col-sm-12 col-md-6">
+						<h1>The First Tech Challenge</h1>
+						<p>The First Tech Challenge, or FTC, is a nationwide robotics competition. High-school students are given three months and an almost unlimited list of material to construct a robot which fits in an 18 inch cube and plays a specific game. A video describing this year's game can be seen <a href = "https://www.youtube.com/watch?v=ABmBxCwHV94">here</a>. Robots successful in their regionals' competitions will advance to state, superregionals, and then worlds. Individuals as well as teams can receive awards. Students who have demonstrated technical expertise, commitment to the FIRST community, and the ability to lead teammates can be selected as a Dean's list semi-finalist, finalist, or winner. FTC has become a passion of mine due to its fun yet difficult challenges great community.</p>
+
+						<h1>Awards</h1>
+
+						<p>National Dean's List finalist 2015. A Dean's List winner demonstrates technical expertise, commitment to the FIRST community, and the ability to lead teammates. My school's writeup about this award is linked <a href = "http://www.seattleacademy.info/wp/robotics-competes-at-superregional-zinda-%E2%80%9916-named-to-ftc-dean%E2%80%99s-list-finalist/">here</a>.</p>
+
+						<p>Second place in state competition 2015, advanced to compete against entire west cost.</p>
+
+						<p>Second place Inspire Award at state competition 2015. The team that receives this award is chosen by the judges as having best represented a role model FIRST Tech Challenge Team.</p>
+					</div>
+					<div class = "col-sm-12 col-md-6">
+						<h1>Contributions</h1>
+						
+						<p>To allow for precise turning and movement, my mentor Gabe Cronin and I <button class="btn btn-default btn-xs" onclick = "window.location = 'http://www.seattleacademy.net/robots/gyro-roadblock/'">built an IMU</button> and written protocols which allow it to communicate with the NXT brick. The Gyroscope, Accelerometer, and Magnetometer data are incorporated using a Kalman filter and sent to the NXT using the I2C industry standard.</p>
+						
+						<p>I <button class="btn btn-default btn-xs" onclick = "window.location = 'http://www.seattleacademy.net/robots/telescoping-arm/'">built our team's telescoping arm</button> which uses drawer slides to lift balls high into the air and deploy them in tall tubes. </p>
+
+						<p>I have written all the code for my team's robot, all of which is stores in <button class="btn btn-default btn-xs" onclick = "window.location = 'https://github.com/saasrobotics/2856'">our repository</button> on Github.</p>
+
+						<p>I collaborated with teammates to build <button class="btn btn-default btn-xs" onclick = "window.location = 'http://www.seattleacademy.net/robots/final-ball-conveyor/'">our robot's ball collector</button>, which collects the balls which are then scored into tubes.</p> 
+					</div>
+				</div>
 			</div>
 			<div class = "Resume" class = "container-fluid">
 				<div class = "row">
