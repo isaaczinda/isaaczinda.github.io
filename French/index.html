@@ -20,10 +20,11 @@
 			      </span>
 			    </div><!-- /input-group -->
 			  </div><!-- /.col-lg-6 -->
+			  <div id = "Verbs"></div>
 			</div><!-- /.row -->
 		</div>
 
-		<div id = "Verbs"></div>
+		
 	</body>
 
 	<script src="js/jquery.js"></script>
@@ -47,7 +48,8 @@
 			}
 			).done(function(data) 
 			{
-				VerbList = data;
+
+				VerbList = data.replace(/ /g, '');
 				console.log(VerbList);
 			});
 		}
@@ -86,7 +88,7 @@
 		{
 			var Verb = $("#SearchTextbox").val().toLowerCase();
 
-			if(!(VerbList.indexOf(Verb) > 0))
+			if(!(VerbList.indexOf("\n" + Verb + "\n") > 0))
 			{
 				alert("That's not a french verb (that we know of).");
 				return -1;
