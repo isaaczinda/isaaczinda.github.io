@@ -48,6 +48,7 @@
 			).done(function(data) 
 			{
 				VerbList = data;
+				console.log(VerbList);
 			});
 		}
 
@@ -87,8 +88,8 @@
 
 			if(!(VerbList.indexOf(Verb) > 0))
 			{
-				alert("That's not a french verb (we know of).");
-				break;
+				alert("That's not a french verb (that we know of).");
+				return -1;
 			}
 
 			$("#Verbs").empty();
