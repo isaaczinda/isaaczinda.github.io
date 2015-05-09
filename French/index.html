@@ -145,13 +145,13 @@
 
 			var lines = ToAppend.split("\n");
 
-			var NewDiv = $("#Verbs").append("<div class = 'col-md-6'></div>");
+			$("#Verbs").append("<div class = 'col-md-6'></div>");
 
 			for(i = 0; i < lines.length; i++)
 			{
 				if(lines[i] != "")
 				{
-					$(NewDiv).append("<p class = 'paragraph'>" + lines[i] + "</p>");
+					$("#Verbs div")[RequestIndex].append("<p class = 'paragraph'>" + lines[i] + "</p>");
 				}
 			}
 		}
