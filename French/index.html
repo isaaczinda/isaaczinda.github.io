@@ -156,14 +156,14 @@
 			RequestIndex = 0;
 			MakeRequests(Verb);
 
-			$("#loading").fadein(200);
+			$("#loading").fadeIn(200);
 		}
 
 		function MakeRequests(Verb)
 		{
 			if(RequestIndex == Tenses.length)
 			{
-				$("#loading").fadeout(200);
+				$("#loading").fadeOut(200);
 				return true;
 			}
 
@@ -172,7 +172,7 @@
 
 		$(document).ready(function()
 		{
-			$("#loading").fadeout(0);
+			$("#loading").fadeOut(0);
 			$('#Modal').modal('hide');
 
 			GetVerbList();
