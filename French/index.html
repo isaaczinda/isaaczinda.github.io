@@ -91,9 +91,12 @@
 		function AppendToDOM(Verb, Conjugation, ToAppend)
 		{
 			$("#Verbs").append("<h3 class = 'sub-title'>" + Conjugation + "</h3>");
+			
+			//gets rid of double returns
+			ToAppend = ToAppend.replace("\n\n", "\n");
 
 			var lines = ToAppend.split("\n");
-			
+
 			for(i = 0; lines[i] != ""; i++)
 			{
 				$("#Verbs").append("<p class = 'paragraph'>" + lines[i] + "</p>");
@@ -102,6 +105,8 @@
 
 		function Search()
 		{
+			console.log("searching");
+			
 			var Verb = $("#SearchTextbox").val().toLowerCase();
 
 			if(!(VerbList.indexOf("\n" + Verb + "\n") > 0))
