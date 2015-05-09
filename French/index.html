@@ -144,15 +144,15 @@
 			$("#Verbs").append("<h3 class = 'sub-title'>" + Conjugation + "</h3>");
 
 			var lines = ToAppend.split("\n");
-			$("#Verbs").append("<div class = 'col-md-6'>");
+			$("#Verbs").innerHTML += "<div class = 'col-md-6'>";
 			for(i = 0; i < lines.length; i++)
 			{
 				if(lines[i] != "")
 				{
-					$("#Verbs").append("<p class = 'paragraph'>" + lines[i] + "</p>");
+					$("#Verbs").innerHTML += "<p class = 'paragraph'>" + lines[i] + "</p>";
 				}
 			}
-			$("#Verbs").append("</div>");
+			$("#Verbs").innerHTML += "</div>";
 		}
 
 		function Search()
