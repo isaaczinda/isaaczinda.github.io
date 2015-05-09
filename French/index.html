@@ -71,7 +71,7 @@
 			  <p><a class="btn btn-primary btn-lg" href="#" role="button">Learn more</a></p>
 			</div>
 			<div class="row">
-			  <div class="col-md-offset-3 col-md-4 col-sm-10">
+			  <div class="col-md-offset-2 col-lg-6 col-xs-10">
 			    <div class="input-group">
 			      <input type="text" id = "SearchTextbox" class="form-control input-lg" placeholder="Search for french verbs...">
 			      <span class="input-group-btn">
@@ -144,15 +144,16 @@
 			$("#Verbs").append("<h3 class = 'sub-title'>" + Conjugation + "</h3>");
 
 			var lines = ToAppend.split("\n");
-			$("#Verbs").innerHTML += "<div class = 'col-md-6'>";
+			$("#Verbs").html($("#Verbs").html() + "<div class = 'col-md-6'>");
+
 			for(i = 0; i < lines.length; i++)
 			{
 				if(lines[i] != "")
 				{
-					$("#Verbs").innerHTML += "<p class = 'paragraph'>" + lines[i] + "</p>";
+					$("#Verbs").html($("#Verbs").html() + "<p class = 'paragraph'>" + lines[i] + "</p>");
 				}
 			}
-			$("#Verbs").innerHTML += "</div>";
+			$("#Verbs").html($("#Verbs").html() + "</div>");
 		}
 
 		function Search()
