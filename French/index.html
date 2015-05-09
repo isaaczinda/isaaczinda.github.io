@@ -151,7 +151,7 @@
 			{
 				if(lines[i] != "")
 				{
-					$("#Verbs div")[RequestIndex].append("<p class = 'paragraph'>" + lines[i] + "</p>");
+					$("#Verbs div:nth-child(" + (RequestIndex + 1) + ")").append("<p class = 'paragraph'>" + lines[i] + "</p>");
 				}
 			}
 		}
