@@ -49,6 +49,7 @@
 	<script>
 		var Tenses = new Array("indicatif present", "indicatif futur simple", "indicatif passe compose", "indicatif plus-que-parfait", "indicatif imparfait");
 		var VerbList = "";
+		var RequestIndex = 0;
 
 		function GetVerbList()
 		{
@@ -65,15 +66,14 @@
 			).done(function(data) 
 			{
 				VerbList = data.replace(/ /g, '');
-				console.log(VerbList);
 			});
 		}
 
-		function DatabaseFile(Verb, Conjugation, Callback)
+		function DatabaseFile(Verb, Conjugation)
 		{
 			var File = "database/" + Verb + "/" + Conjugation + ".txt";
 			console.log("requesting " + File);
-			
+
 			$.ajax(
 		    {
 				url: File,
@@ -84,8 +84,12 @@
 			}
 			).done(function(data) 
 			{
+				console.log("recieved " + File);
+
 				AppendToDOM(Verb, Conjugation, data);
 
+				RequestIndex++;
+				MakeRequests(Verb);
 			});
 		}
 
@@ -120,10 +124,19 @@
 			$("#Verbs").empty();
 
 			$("#Verbs").append("<h1 class = 'title'>" + Verb + "</h1>");
-			for(i = 0; i < Tenses.length; i++)
+
+			RequestIndex = 0;
+			MakeRequests(Verb);
+		}
+
+		function MakeRequests(Verb)
+		{
+			if(RequestIndex == Tenses.length)
 			{
-				DatabaseFile(Verb, Tenses[i]);
+				return true;
 			}
+
+			DatabaseFile(Verb, Tenses[RequestIndex]);
 		}
 
 		$(document).ready(function()
