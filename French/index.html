@@ -6,6 +6,8 @@
 		#ajaxloader
 		{
 			position: absolute;
+			left: 50px;
+			top: 50px;
 			width: 30px;
 			height: 30px;
 			border: 8px solid #fff;
@@ -124,11 +126,8 @@
 
 			var lines = ToAppend.split("\n");
 
-			console.log("split lines " + lines.length);
-
 			for(i = 0; i < lines.length; i++)
 			{
-				console.log(i);
 				if(lines[i] != "")
 				{
 					$("#Verbs").append("<p class = 'paragraph'>" + lines[i] + "</p>");
@@ -157,12 +156,14 @@
 			MakeRequests(Verb);
 
 			$("#loading").fadeIn(200);
+			console.log("in");
 		}
 
 		function MakeRequests(Verb)
 		{
 			if(RequestIndex == Tenses.length)
 			{
+				console.log("out");
 				$("#loading").fadeOut(200);
 				return true;
 			}
