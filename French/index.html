@@ -64,16 +64,16 @@
 			}
 			).done(function(data) 
 			{
-
 				VerbList = data.replace(/ /g, '');
 				console.log(VerbList);
 			});
 		}
 
-		function DatabaseFile(Verb, Conjugation)
+		function DatabaseFile(Verb, Conjugation, Callback)
 		{
 			var File = "database/" + Verb + "/" + Conjugation + ".txt";
-
+			console.log("requesting " + File);
+			
 			$.ajax(
 		    {
 				url: File,
@@ -85,6 +85,7 @@
 			).done(function(data) 
 			{
 				AppendToDOM(Verb, Conjugation, data);
+
 			});
 		}
 
@@ -106,7 +107,7 @@
 		function Search()
 		{
 			console.log("searching");
-			
+
 			var Verb = $("#SearchTextbox").val().toLowerCase();
 
 			if(!(VerbList.indexOf("\n" + Verb + "\n") > 0))
