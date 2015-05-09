@@ -2,6 +2,30 @@
 </html>
 	<head>
 		<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+		<style>
+		#ajaxloader
+		{
+			position: absolute;
+			width: 30px;
+			height: 30px;
+			border: 8px solid #fff;
+			border-right-color: transparent;
+			border-radius: 50%;
+			box-shadow: 0 0 25px 2px #eee;
+		}
+
+		#ajaxloader
+		{
+			animation: spin 1s linear infinite;
+		}
+
+		@keyframes spin
+		{
+			from { transform: rotate(0deg);   opacity: 0.2; }
+			50%  { transform: rotate(180deg); opacity: 1.0; }
+			to   { transform: rotate(360deg); opacity: 0.2; }
+		}
+		</style>
 	</head>
 	
 	<body>
@@ -39,8 +63,7 @@
 			  <div class = "col-xs-12" id = "Verbs"></div>
 			</div><!-- /.row -->
 		</div>
-
-		
+		<div id="loading"></div>
 	</body>
 
 	<script src="js/jquery.js"></script>
@@ -132,12 +155,15 @@
 
 			RequestIndex = 0;
 			MakeRequests(Verb);
+
+			$("#loading").fadein(200);
 		}
 
 		function MakeRequests(Verb)
 		{
 			if(RequestIndex == Tenses.length)
 			{
+				$("#loading").fadeout(200);
 				return true;
 			}
 
@@ -146,6 +172,7 @@
 
 		$(document).ready(function()
 		{
+			$("#loading").fadeout(0);
 			$('#Modal').modal('hide');
 
 			GetVerbList();
