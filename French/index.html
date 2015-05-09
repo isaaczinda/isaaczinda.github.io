@@ -3,6 +3,7 @@
 	<head>
 		<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
 		<style>
+
 		#loading
 		{
 			position: absolute;
@@ -10,12 +11,12 @@
 			top: 50%;
 			width: 30px;
 			height: 30px;
-			border: 8px solid #fff;
+			border: 8px solid #337AB7;
 			border-right-color: transparent;
 			border-radius: 50%;
 			box-shadow: 0 0 25px 2px #eee;
 			z-index: 1000;
-			background-color: #337AB7;
+			background-color: transparent;
 		}
 
 		#loading
@@ -24,13 +25,18 @@
 			animation-duration: 1s;
 			animation-name: spin;
 			animation-iteration-count: infinite;
+		
+			-webkit-animation-timing-function: linear;
+			-webkit-animation-duration: 1s;
+			-webkit-animation-name: spin;
+			-webkit-animation-iteration-count: infinite;
 		}
 
 		@keyframes spin
 		{
-			from { transform: rotate(0deg);   opacity: 0.2; }
+			from { transform: rotate(0deg);   opacity: 0.5; }
 			50%  { transform: rotate(180deg); opacity: 1.0; }
-			to   { transform: rotate(360deg); opacity: 0.2; }
+			to   { transform: rotate(360deg); opacity: 0.5; }
 		}
 		</style>
 	</head>
