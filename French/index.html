@@ -142,11 +142,11 @@
 
 		function AppendToDOM(Verb, Conjugation, ToAppend)
 		{
+			$("#Verbs").append("<div class = 'col-md-6'></div>");
+
 			$("#Verbs div:nth-child(" + (RequestIndex + 1) + ")").append("<h3 class = 'sub-title'>" + Conjugation + "</h3>");
 
 			var lines = ToAppend.split("\n");
-
-			$("#Verbs").append("<div class = 'col-md-6'></div>");
 
 			for(i = 0; i < lines.length; i++)
 			{
