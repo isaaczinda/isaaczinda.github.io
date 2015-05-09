@@ -32,6 +32,13 @@
 			-webkit-animation-iteration-count: infinite;
 		}
 
+		@-webkit-keyframes spin
+		{
+			from { transform: rotate(0deg);   opacity: 0.5; }
+			50%  { transform: rotate(180deg); opacity: 1.0; }
+			to   { transform: rotate(360deg); opacity: 0.5; }
+		}
+
 		@keyframes spin
 		{
 			from { transform: rotate(0deg);   opacity: 0.5; }
