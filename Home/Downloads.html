@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0"/>
+		<link rel="stylesheet" type="text/css" href="http://bootswatch.com/darkly/bootstrap.min.css">
+		<link rel="stylesheet" type="text/css" href="css/main.css">
+	</head>
+
+	<title>isaaczinda.com</title>
+
+	<script src = "js/jquery.js"></script>
+	<script src = "js/bootstrap.min.js"></script>
+
+	<body>
+		<nav class="navbar navbar-default navbar-static-top">
+			<!-- The Navbar Header -->
+		    <div class = "container-fluid">
+			    <div class="navbar-header">
+			    	<div>
+				        <img id = "ImageBrand" alt="Brand" src="img/Crest.png">
+			    		<a class="navbar-brand" href="http://www.isaaczinda.com/Home">isaaczinda.com</a>
+			    	</div>
+			    </div>
+				<ul class="nav navbar-nav navbar-right" id = "navbar">
+					<li onclick = "window.location = 'index.html'"><a href="#">Home</a></li>
+					<!-- <li onclick = 'LoadPage("Bio", this)'><a href="#">Bio</a></li> -->
+					<li onclick = "window.location = 'Resume.html'"><a href="#">Resume</a></li>
+					<li class = "Current" onclick = "window.location = 'Downloads.html'"><a href="#">Desktop Projects</a></li>
+					<li onclick = "window.location = 'Robotics.html'"><a href="#">Robotics</a></li>
+
+					<li class="dropdown">
+						<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Web Projects<span class="caret"></span></a>
+						<ul class="dropdown-menu" role="menu">
+							<li><a href="http://www.isaaczinda.com/French">French Dictionary</a></li>
+							<li><a href="http://www.isaaczinda.com/EasyC">EasyC</a></li>
+							<li><a href="http://www.isaaczinda.com/Bezier_Curves">Bezier Curves</a></li>
+							<!-- <li class="divider"></li> -->
+							<li><a href="http://www.isaaczinda.com/PID">PID Controller</a></li>
+							<li><a href="http://www.isaaczinda.com/Tidal_Waves">Tidal / Waves</a></li>
+						</ul>
+					</li>
+				</ul>
+			</div>
+		</nav>
+		<div id = "Content">
+			<div class = "Downloads" class = "container-fluid">
+				<div class = "row">
+					<div class = "col-sm-12 col-md-6">
+						<h1 class = "">Centipede</h1>
+						I created <em>Centipede</em> in a two week Digipen programming class. It is a clone of the popular 80's game made by Atari, but features a two-player mode and different monsters. It can also be played with Xbox controllers. To play <em>Centipede</em>, first you have to download and <a href = "http://isaaczinda.com/Downloads/SlimDX.msi">install SlimDX</a>, and then you have to download and  <a href = "http://isaaczinda.com/Downloads/Centipede_Installer.exe">install the game.</a> To start a new game, use the arrow keys to select single player and hit enter. To play, use the left and right arrow keys to move and the up arrow to fire. Press escape to pause the game. For more specifics, visit the help screen. 
+					</div>
+					<div class = "col-sm-12 col-md-6">
+						<h1 class = "">Renderer</h1>
+						I created <em>Renderer</em> from the ground up, as an experiment to see if I could build a basic 3D engine. The program draws in wireframe, supports world rotation, scaling, and translation, and draws from an STL file. <em>Renderer</em> was build with the 2D Tkinter canvas and uses hardware accceleration for matrix multiplications, but all of the rendering and geometry is done by my engine. Click here to download a demo of the engine: <a href = "http://isaaczinda.com/Downloads/Install_Renderer.exe">install renderer</a>.
+					</div>
+					<div class = "col-sm-12 col-md-6">
+						<h1 class = "">mcp9808</h1>
+						mcp9808 is a library written in Node.js and published to <a href = "https://www.npmjs.com">npm</a> used to work with the mcp9808 temperature sensor from the raspberry  pi. You can download it by running sudo npm install mcp9808 on any machine equipped with npm. A link to my package can be found <a href = "https://www.npmjs.com/package/mcp9808">here</a>, or you can find the code in the mcp9808 repository <a href = "https://github.com/seattleacademy/mcp9808">here</a> on GitHub.
+					</div>
+				</div>
+			</div>
+		</div>
+	</body>
+</html>
