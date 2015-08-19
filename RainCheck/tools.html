@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=yes"/>
+		<meta charset="utf-8">
+
+		<title>RainCheck</title>
+
+		<!-- jquery -->
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+
+		<!-- boostrap includes -->
+		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap-theme.min.css">
+
+		<!-- my includes -->
+		<link rel="stylesheet" type="text/css" href="css/style.css"/>
+	</head>
+	<body>
+		<nav class="navbar navbar-default navbar-fixed-top">
+		  <div class="container-fluid">
+		    <!-- Brand and toggle get grouped for better mobile display -->
+		    <div class="navbar-header">
+		      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+		        <span class="sr-only">Toggle navigation</span>
+		        <span class="icon-bar"></span>
+		        <span class="icon-bar"></span>
+		        <span class="icon-bar"></span>
+		      </button>
+		      <a class="navbar-brand" href="#">Brand</a>
+		    </div>
+
+		    <!-- Collect the nav links, forms, and other content for toggling -->
+		    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+		      <ul class="nav navbar-nav">
+		        <li><a href="index.html">Home<span class="sr-only">(current)</span></a></li>
+		        <li><a href="about.html">About<span class="sr-only">(current)</span></a></li>
+		        <li><a href="building-kernel.html">Building the Kernel<span class="sr-only">(current)</span></a></li>
+		        <li><a href="capacitance-values.html">Getting the Capacitance Values<span class="sr-only">(current)</span></a></li>
+		        <li><a href="water-rejection.html">Water Rejection Algorithms<span class="sr-only">(current)</span></a></li>
+		        <li class="active"><a href="tools.html">Tools<span class="sr-only">(current)</span></a></li>
+		      </ul>
+		    </div><!-- /.navbar-collapse -->
+		  </div><!-- /.container-fluid -->
+		</nav>
+		<div class = "container-fluid">
+			<div class= "row">
+				<div class="col-lg-12">
+					<h1>Tools and Code</h1>
+
+<p>All of the python code that I have written is documented here. All of the files are copiously commented, but more general information is laid out here.</p>
+
+<h2>live.py</h2>
+
+<p>This program displays a live view of the data coming from the kernel. It displays what the phone thinks are touch points (in red) and touch points that have been processed with my algorithms (in green) on top of the capacitance matrix data.</p>
+
+<h3>Usage</h3>
+
+<p>python live.py</p>
+
+<h2>record.py</h2>
+
+<p>This program will record touch point data coming from the phone's kernel, encode it as a JSON string, and store it as a file in the DataFiles directory.</p>
+
+<h3>Usage</h3>
+
+<p>python record.py [filename]</p>
+
+<h2>play.py</h2>
+
+<p>This program will play any of the files created by record.py.</p>
+
+<h3>Usage</h3>
+
+<p>python play.py [filename, all] [slow, medium, fast]</p>
+
+<p>The first argument specified the file to playback, or all. All will play every file in the DataFiles directory. The second argument specified the speed with which the file should be played back.</p>
+
+<h2>data.py</h2>
+
+<p>This program is a module, to be used by other programs and not run form the command line. It is responsible for getting data from the phone's /proc files over adb and formatting this data.</p>
+
+<h3>Public Functions</h3>
+
+<pre><code>//gets the data from the phone and stores the unformatted data in a local variable.
+FetchData()
+
+//formats and return the matrix data. The data will be formatted as a 2D array. 
+GetMatrixData()
+
+//formats and returns the points data. The data will be formatted as a 2D array.
+GetPointsData()
+</code></pre>
+
+<h2>viewframe.py</h2>
+
+<p>Used to view and render a specific frame from any file.</p>
+
+<h3>Usage</h3>
+
+<p>python viewframe.py [Filename] [Frame]</p>
+
+<h2>rendering.py</h2>
+
+<p>This module used the graphics.py library to draw the capacitance matrix. It can also draw touch points, and highlight certain rows of the drawn capacitance matrix in red.</p>
+
+<h3>Public Functions</h3>
+
+<pre><code>Update(MatrixData, TouchPointData, OptimizedTouchPointData, OutlineData, DrawOnChange);
+</code></pre>
+
+<p>Updates the data in the graphics window.</p>
+
+<p>MatrixData: 2D array of capacitance values. Values should each be from -255 to 255.
+TouchPointData: array of touch point arrays to be drawn in red.
+OptimizedTouchPointData: array of touch point arrays to be drawn in green.
+OutlineData: an array of numbers that indicated whether an outline should be drawn on this row or not. A value of 0 draws no outline, 1 draws one. An empty array disables outlines. 
+DrawOnChange: bool that indicated whether all of the squares should be updated each frame, or if they should just be updated when they change. </p>
+
+<pre><code>Reset();
+</code></pre>
+
+<p>Restarts the graphics window.</p>
+
+
+				</div>
+			</div>
+		</div>
+	</body>
+</html>
