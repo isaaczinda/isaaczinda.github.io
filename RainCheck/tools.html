@@ -11,10 +11,9 @@
 
 		<!-- boostrap includes -->
 		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
-		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
-		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap-theme.min.css">
 
 		<!-- my includes -->
+		<link rel="stylesheet" type="text/css" href="https://bootswatch.com/superhero/bootstrap.min.css"/>
 		<link rel="stylesheet" type="text/css" href="css/style.css"/>
 	</head>
 	<body>
@@ -28,7 +27,7 @@
 		        <span class="icon-bar"></span>
 		        <span class="icon-bar"></span>
 		      </button>
-		      <a class="navbar-brand" href="#">Brand</a>
+		      <a class="navbar-brand" href="#">RainCheck</a>
 		    </div>
 
 		    <!-- Collect the nav links, forms, and other content for toggling -->
@@ -47,83 +46,48 @@
 		<div class = "container-fluid">
 			<div class= "row">
 				<div class="col-lg-12">
-					<h1>Tools and Code</h1>
-
-<p>All of the python code that I have written is documented here. All of the files are copiously commented, but more general information is laid out here.</p>
-
+					<!-- startcontent -->
+<h1>Tools and Code</h1>
+<p>All of the files related to RainCheck are located in <a href="https://github.com/isaaczinda/RainCheck" title="RainCheck git Repository">the project's git repository</a>. If you have followed all of the steps in the building the kernel and getting the capacitance matrix sections, you should be able to use my modified touch driver, located in the git repository in the Kernel folder. To use it, just replace the kernel's touch_synaptics_ds5.c file with my touch_synaptics_ds5.c file.</p>
+<p>My version of the synaptics_ds5.c file is not described below because it is so copiously commented. My modifications to this file are on lines 813 - 1183, 2146 - 2152, 2403 - 2454, 2457, 2458, and 2465 - 2470.</p>
+<p>Once you built and flashed the new kernel, you can use my python scripts to get the capacitance data from it. These scripts are in the Python folder of the git repository. Running live.py will display a live rendering of the capacitance matrix.</p>
+<p>In order to develop more with my codebase, you may want to learn more about its nuances. All of the python files that I have written and descriptions of the their usage are listed below. These files are used to record and analyze the raw capacitance matrix.</p>
 <h2>live.py</h2>
-
-<p>This program displays a live view of the data coming from the kernel. It displays what the phone thinks are touch points (in red) and touch points that have been processed with my algorithms (in green) on top of the capacitance matrix data.</p>
-
-<h3>Usage</h3>
-
-<p>python live.py</p>
-
-<h2>record.py</h2>
-
-<p>This program will record touch point data coming from the phone's kernel, encode it as a JSON string, and store it as a file in the DataFiles directory.</p>
-
-<h3>Usage</h3>
-
-<p>python record.py [filename]</p>
-
-<h2>play.py</h2>
-
-<p>This program will play any of the files created by record.py.</p>
-
-<h3>Usage</h3>
-
-<p>python play.py [filename, all] [slow, medium, fast]</p>
-
-<p>The first argument specified the file to playback, or all. All will play every file in the DataFiles directory. The second argument specified the speed with which the file should be played back.</p>
-
-<h2>data.py</h2>
-
-<p>This program is a module, to be used by other programs and not run form the command line. It is responsible for getting data from the phone's /proc files over adb and formatting this data.</p>
-
-<h3>Public Functions</h3>
-
-<pre><code>//gets the data from the phone and stores the unformatted data in a local variable.
-FetchData()
-
-//formats and return the matrix data. The data will be formatted as a 2D array. 
-GetMatrixData()
-
-//formats and returns the points data. The data will be formatted as a 2D array.
-GetPointsData()
+<p>This program displays a live view of the data coming from the kernel. It displays what the phone thinks the touch points are on top of the capacitance matrix data. To run the program use the command below.</p>
+<pre><code>python live.py
 </code></pre>
-
+<h2>record.py</h2>
+<p>This program will record touch point data coming from the phone's kernel, encode it as a JSON string, and store it as a file in the DataFiles directory. To run the program use the command below, specifying the name of the file to save the recording to.</p>
+<pre><code>python record.py [filename]
+</code></pre>
+<h2>play.py</h2>
+<p>This program will play any of the files created by record.py. Run it with the command below. The first argument specifies the file to playback; this can be a specific file or all files.  The second argument specifies the speed with which the file should be played back.</p>
+<pre><code>python play.py [filename, all] [slow, medium, fast]
+</code></pre>
+<h2>data.py</h2>
+<p>This program is a module, to be used by other programs and not run from the command line. It is responsible for getting capacitance data from the phone's /proc files via adb and formatting this data. Its functions are listed below.</p>
+<pre><code>FetchData()
+</code></pre>
+<p>Gets the unformatted capacitance data from the phone and stores it. This function has no returns.</p>
+<pre><code>GetMatrixData()
+</code></pre>
+<p>Formats and return the capacitance data matrix. The data will be formatted as a 2D array.</p>
+<pre><code>GetPointsData()
+</code></pre>
+<p>Formats and returns the touch points data. The data will be formatted as a 2D array.</p>
 <h2>viewframe.py</h2>
-
-<p>Used to view and render a specific frame from any file.</p>
-
-<h3>Usage</h3>
-
-<p>python viewframe.py [Filename] [Frame]</p>
-
+<p>This program is used to view and render a specific frame from any file saved with record.py. The program's usage is shown below. The Filename argument is the name of the file to be searched. The Frame argument is the frame within the file to be played.</p>
+<pre><code>python viewframe.py [Filename] [Frame]
+</code></pre>
 <h2>rendering.py</h2>
-
-<p>This module used the graphics.py library to draw the capacitance matrix. It can also draw touch points, and highlight certain rows of the drawn capacitance matrix in red.</p>
-
-<h3>Public Functions</h3>
-
+<p>This module uses the graphics.py library to draw the capacitance matrix. It can also draw touch points, and highlight certain rows of the drawn capacitance matrix in red. It has a few public functions, which are shown below.</p>
 <pre><code>Update(MatrixData, TouchPointData, OptimizedTouchPointData, OutlineData, DrawOnChange);
 </code></pre>
-
-<p>Updates the data in the graphics window.</p>
-
-<p>MatrixData: 2D array of capacitance values. Values should each be from -255 to 255.
-TouchPointData: array of touch point arrays to be drawn in red.
-OptimizedTouchPointData: array of touch point arrays to be drawn in green.
-OutlineData: an array of numbers that indicated whether an outline should be drawn on this row or not. A value of 0 draws no outline, 1 draws one. An empty array disables outlines. 
-DrawOnChange: bool that indicated whether all of the squares should be updated each frame, or if they should just be updated when they change. </p>
-
+<p>Updates the data in the graphics window and initializes it if necessary. MatrixData is a 2D array of capacitance values. Each individual value should each be from -255 to 255. TouchPointData is an array of touch point arrays to be drawn in red. OptimizedTouchPointData is an array of touch point arrays to be drawn in green. OutlineData is an array of numbers that indicated whether an outline should be drawn on this row or not. A value of 0 draws no outline, 1 draws one. An empty array disables outlines. DrawOnChange is a bool that indicated whether all of the squares should be updated each frame, or if they should just be updated when they change.</p>
 <pre><code>Reset();
 </code></pre>
-
-<p>Restarts the graphics window.</p>
-
-
+<p>Restarts and clears the graphics window.</p>
+<!-- endcontent -->
 				</div>
 			</div>
 		</div>

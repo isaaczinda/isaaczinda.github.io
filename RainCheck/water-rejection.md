@@ -2,7 +2,7 @@
 
 ## Infrestructure
 
-The first step in implementing water rejection was the creation of two kernel proc files in the touch_synaptics_ds5.c file. One of these files contained the raw capacitance data, and the other contained the phone's default touch point data. Using a python file, I was able to visualize the capacitance data and gain an annecdotal understanding of how water effects the touchscreen. 
+The first step in implementing water rejection was the creation of two kernel proc files from the touch_synaptics_ds5.c kernel module. One of these files contained the raw capacitance data, and the other contained the phone's default touch point data. Using a python file, I was able to visualize the capacitance data and gain an annecdotal understanding of how water effects the touchscreen. 
 
 ## Recording
 
@@ -21,12 +21,6 @@ The best of my ten algorithms identified only 12 points incorrectly as touches. 
 Below is a graph of the default touch detection compared with three of my best algorithms:
 
 ![Graph of the Default Touch Detection Compared to my Algorithms](AlgorithmComparison.png)
-
-## Video
-
-Here is a short demo of RainCheck in action:
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hd8Gp_xiJ4M" frameborder="0" allowfullscreen></iframe>
 
 ## Future Work
 
