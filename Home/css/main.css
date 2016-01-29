@@ -16,11 +16,11 @@ body
     background-image: url("http://www.isaaczinda.com/Home/img/Canyoneering.JPG");
 }
 
-#footer-container
+.footer
 {
-
+	padding-top: 5px;
+	padding-bottom: 5px;
 }
-
 
 h1 small
 {
@@ -37,20 +37,22 @@ h1 small
 	margin-bottom: 10px;
 }
 
+#website-title
+{
+	margin-left: 5px;
+}
+
 .navbar
 {
 	margin-bottom: 0px !important;
 }
 
-#Content > div > div
+html, body
 {
-	margin-left: 0px;
-	margin-right: 0px;
-	padding-left: 0px !important;
-	padding-right: 0px !important;
+	height: 100%;
 }
 
-#Content > div
+#Content
 {
 	padding-top: 10px;
 	padding-bottom: 10px;
@@ -60,13 +62,6 @@ h1 small
 	border-radius: 0px;
 	padding-left: 10px;
 	padding-right: 10px;
-}
-
-#Downloads > div > div > button
-{
-	margin-top: 20px;
-	display: block;
-	float: center;
 }
 
 #navbar > li > a
@@ -105,6 +100,7 @@ h1 small
 {
 	margin-top: 0px;
 	margin-bottom: 0px;
+	padding-bottom: 0px !important;
 }
 
 .page-header > h1
@@ -112,11 +108,6 @@ h1 small
 	margin-top: 5px;
 	margin-bottom: 5px;
 }
-
-.Robotics .btn-xs
-{
-	margin-bottom: 3px;
-} 
 
 #Verbs p
 {
@@ -126,4 +117,9 @@ h1 small
 #navbar li:hover
 {
 	background-color: #68A1BB;
+}
+
+#introduction-text p
+{
+	margin-bottom: 0px;
 }

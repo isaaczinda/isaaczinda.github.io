@@ -1,0 +1,11 @@
+# RainCheck
+RainCheck is a project that uses raw capacitance data from the Nexus 5 phone to improve the performance of the phone's touchscreen when wet. This project was completed by Isaac Zinda with the help of Mayank Goel in [Professor Shwetak Patel's UbiComp Lab](https://ubicomplab.cs.washington.edu/ "Computing lab home page") at The University of Washington. To learn more about RainCheck, visit the project's [official website](https://ubicomplab.cs.washington.edu/raincheck "RainCheck website") or view its [Github repository](https://github.com/isaaczinda/RainCheck "Project Github repository").
+
+# Renderer
+I created Renderer from the ground up, as an experiment to see if I could build a basic 3D engine. The program draws in wireframe, supports world rotation, scaling, and translation, and draws from an STL file. Renderer was build with the 2D Tkinter canvas and uses hardware acceleration for matrix multiplications, but all of the rendering and geometry is done by my engine. Click here to download a demo of the engine: [install renderer](http://isaaczinda.com/Downloads/Install_Renderer.exe "install Renderer").
+
+#mcp9808
+mcp9808 is a library written in Node.js and published to [npm](https://www.npmjs.com "link to npm") used to work with the mcp9808 temperature sensor from the raspberry  pi. You can download it by running sudo npm install mcp9808 on any machine equipped with npm. A link to my package can be found [here](https://www.npmjs.com/package/mcp9808 "link to package"), or you can find the code in the mcp9808 repository [here](https://github.com/seattleacademy/mcp9808 "github repository") on GitHub.
+
+# Centipede
+I created Centipede in a two week Digipen programming class. It is a clone of the popular 80's game made by Atari, but features a two-player mode and different monsters. It can also be played with Xbox controllers. To play Centipede, first you have to download and [install SlimDX](http://isaaczinda.com/Downloads/SlimDX.msi "install SlimDX"), and then you have to download and [install the game](http://isaaczinda.com/Downloads/Centipede_Installer.exe "install the game"). To start a new game, use the arrow keys to select single player and hit enter. To play, use the left and right arrow keys to move and the up arrow to fire. Press escape to pause the game. For more specifics, visit the help screen.

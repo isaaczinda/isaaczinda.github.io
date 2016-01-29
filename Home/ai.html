@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0"/>
+		<link rel="stylesheet" type="text/css" href="http://bootswatch.com/darkly/bootstrap.min.css">
+		<link rel="stylesheet" type="text/css" href="css/main.css">
+	</head>
+
+	<title>isaaczinda.com</title>
+
+	<script src = "js/jquery.js"></script>
+	<script src = "js/bootstrap.min.js"></script>
+
+	<body>
+		<nav class="navbar navbar-default navbar-static-top">
+			<!-- The Navbar Header -->
+		    <div class = "container-fluid">
+			    <div class="navbar-header">
+			    	<div>
+				        <img id = "ImageBrand" alt="Brand" src="img/Crest.png">
+			    		<a class="navbar-brand" href="http://www.isaaczinda.com/Home">isaaczinda.com</a>
+			    	</div>
+			    </div>
+				<ul class="nav navbar-nav navbar-right" id = "navbar">
+					<li><a href="index.html">Home</a></li>
+					<li><a href="resume.html">Resume</a></li>
+					<li><a href="downloads.html">Projects</a></li>
+					<li class = "Current"><a href="ai.html">Artificial Intelligence</a></li>
+					<li><a href="robotics.html">Robotics</a></li>
+
+					<li class="dropdown">
+						<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Websites<span class="caret"></span></a>
+						<ul class="dropdown-menu" role="menu">
+							<li><a href="http://www.isaaczinda.com/French">French Dictionary</a></li>
+							<li><a href="http://www.isaaczinda.com/EasyC">EasyC</a></li>
+							<li><a href="http://www.isaaczinda.com/Bezier_Curves">Bezier Curves</a></li>
+							<!-- <li class="divider"></li> -->
+							<li><a href="http://www.isaaczinda.com/PID">PID Controller</a></li>
+							<li><a href="http://www.isaaczinda.com/Tidal_Waves">Tidal / Waves</a></li>
+						</ul>
+					</li>
+				</ul>
+			</div>
+		</nav>
+		<div id = "Content">
+			<!-- startcontent -->
+<h1>Reading Characters using a Neural Network</h1>
+<h3>Approach and Engine Specifics</h3>
+<p>I began the project by building a neural network engine from scratch. I referred to <a href="http://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/" title="neural network tutorial">this tutorial</a> which was invaluable in understanding the basics of neural networks. The engine that I ultimately created can have any number of input nodes, hidden layer nodes, and output nodes. The engine inputs data into the network, checks the error, and uses this to <a href="https://en.wikipedia.org/wiki/Backpropagation" title="backpropogation link">backpropogate</a>. Once you have trained a network, the engine can save it as a JSON file so that it can be loaded later. The entire project was written in python for speed and readability, and as a result some performance compromises were made; it takes a few days for this network to train on very large data sets.</p>
+<h3>Character Recognition</h3>
+<p>I used my engine to create a program capable of recognizing handwritten characters. To collect data for training, I drew letters via a python program, which compressed them to 10x16 images and automatically saved them to their correct folder. All in all, I collected 30-50 samples for each letter -- over 1000 images in all. The network itself has 160 input nodes, 20 hidden layer nodes, and 26 outputs (one for each character). After training the network and reducing the error as much as possible, it was able to identify letters correctly a large majority of the time.</p>
+<h3>Examples</h3>
+<p>Here are some examples of letters identified by my neural network. The blue writing on the right -- the network's output -- shows which letters are the best matches. The decimal number is the likelihood from 0 to 1 (one being highest) that the letter is a match.</p>
+<p><img src="img/neural-network.jpg" alt="example character recognition" title="example character recognition"></p>
+<h3>Program Download / Usage</h3>
+<!-- endcontent -->
+		</div>
+	</body>
+</html>
