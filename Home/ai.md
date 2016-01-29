@@ -13,5 +13,3 @@ I used my engine to create a program capable of recognizing handwritten characte
 Here are some examples of letters identified by my neural network. The blue writing on the right -- the network's output -- shows which letters are the best matches. The decimal number is the likelihood from 0 to 1 (one being highest) that the letter is a match. 
 
 ![example character recognition](img/neural-network.jpg "example character recognition")
-
-### Program Download / Usage
