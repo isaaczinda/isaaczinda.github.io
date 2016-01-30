@@ -52,6 +52,22 @@
 <h3>Examples</h3>
 <p>Here are some examples of letters identified by my neural network. The blue writing on the right -- the network's output -- shows which letters are the best matches. The decimal number is the likelihood from 0 to 1 (one being highest) that the letter is a match.</p>
 <p><img src="img/neural-network.jpg" alt="example character recognition" title="example character recognition"></p>
+<h3>Download / Program Usage</h3>
+<p>To run this neural network for yourself, you need to download some software. You need to install <a href="https://www.python.org/download/releases/2.7.8/" title="python download link">python version 2.78</a> (other versions may work but I haven't checked), <a href="http://www.pythonware.com/products/pil/" title="PIL download link">PIL Version 1.1.7</a>. I recommend using windows to run my neural network, but in any operating system <strong>should</strong> work.</p>
+<p>To download the program, unzip <a href="../Downloads/character-recognition-neural-network.zip" title="zipped neural network files">this file</a> somewhere on your computer. Open a terminal, enter this folder, and you're ready to go! To draw a letter and see what the neural network's thinks it is, type the following command:</p>
+<pre><code>python DrawLetters.py analyze [letter]
+</code></pre>
+<p>The [letter] argument is the letter you are about to type. The neural network <strong>does not</strong> look at this -- it is only there so that if the network incorrectly identifies the letter it can add to its training samples. Additionally, you should only write lowercase letters because these are all the network has been trained on.</p>
+<p>If you want to retrain the network, you can delete the images located in the 'Letters' folder and add new ones with my python script. The following command will prompt you to draw a specified number of letters for each letter in the alphabet.</p>
+<pre><code>python DrawLetters.py alphabet [number of letters to draw]
+</code></pre>
+<p>You can also use this command to save drawings of a specific letter:</p>
+<pre><code>python DrawLetters.py series [letter] [number of letters to draw]
+</code></pre>
+<p>Once you have updated the training data to your liking, you will have to retrain the network with the following command. The training process will take quite a long time -- maybe a few days. However, after training has finished, the new network will automatically be used from then on. Here is the command to retrain the network:</p>
+<pre><code>python Network.py
+</code></pre>
+<p>If you have any questions about specifics, feel free to shoot me an email. My address is me@isaaczinda.com.</p>
 <!-- endcontent -->
 		</div>
 	</body>

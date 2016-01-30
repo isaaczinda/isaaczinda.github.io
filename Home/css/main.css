@@ -123,3 +123,15 @@ html, body
 {
 	margin-bottom: 0px;
 }
+
+/*this is to style blocks of code*/
+pre
+{
+	background-color: rgba(100, 100, 100, .3);
+	border-width: 0px;
+	border-radius: 0px !important;
+}
+pre code
+{
+	color: #DDDDDD;
+}

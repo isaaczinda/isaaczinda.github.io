@@ -13,3 +13,27 @@ I used my engine to create a program capable of recognizing handwritten characte
 Here are some examples of letters identified by my neural network. The blue writing on the right -- the network's output -- shows which letters are the best matches. The decimal number is the likelihood from 0 to 1 (one being highest) that the letter is a match. 
 
 ![example character recognition](img/neural-network.jpg "example character recognition")
+
+### Download / Program Usage
+
+To run this neural network for yourself, you need to download some software. You need to install [python version 2.78](https://www.python.org/download/releases/2.7.8/ "python download link") (other versions may work but I haven't checked), [PIL Version 1.1.7](http://www.pythonware.com/products/pil/ "PIL download link"). I recommend using windows to run my neural network, but in any operating system __should__ work.  
+
+To download the program, unzip [this file](../Downloads/character-recognition-neural-network.zip "zipped neural network files") somewhere on your computer. Open a terminal, enter this folder, and you're ready to go! To draw a letter and see what the neural network's thinks it is, type the following command:
+
+	python DrawLetters.py analyze [letter]
+
+The [letter] argument is the letter you are about to type. The neural network **does not** look at this -- it is only there so that if the network incorrectly identifies the letter it can add to its training samples. Additionally, you should only write lowercase letters because these are all the network has been trained on. 
+
+If you want to retrain the network, you can delete the images located in the 'Letters' folder and add new ones with my python script. The following command will prompt you to draw a specified number of letters for each letter in the alphabet.
+
+	python DrawLetters.py alphabet [number of letters to draw]
+
+You can also use this command to save drawings of a specific letter:
+
+	python DrawLetters.py series [letter] [number of letters to draw]
+
+Once you have updated the training data to your liking, you will have to retrain the network with the following command. The training process will take quite a long time -- maybe a few days. However, after training has finished, the new network will automatically be used from then on. Here is the command to retrain the network:
+
+	python Network.py
+
+If you have any questions about specifics, feel free to shoot me an email.
