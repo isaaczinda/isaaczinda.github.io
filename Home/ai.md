@@ -16,7 +16,7 @@ Here are some examples of letters identified by my neural network. The blue writ
 
 ### Download / Program Usage
 
-To run this neural network for yourself, you need to download some software. You need to install [python version 2.78](https://www.python.org/download/releases/2.7.8/ "python download link") (other versions may work but I haven't checked), [PIL Version 1.1.7](http://www.pythonware.com/products/pil/ "PIL download link"). I recommend using windows to run my neural network, but in any operating system __should__ work.  
+To run this neural network for yourself, you need to download some software. You need to install [python version 2.78](https://www.python.org/download/releases/2.7.8/ "python download link") (other versions may work but I haven't checked) and [PIL Version 1.1.7](http://www.pythonware.com/products/pil/ "PIL download link"). I recommend using windows to run my neural network, but in any operating system *should* work.  
 
 To download the program, unzip [this file](../Downloads/character-recognition-neural-network.zip "zipped neural network files") somewhere on your computer. Open a terminal, enter this folder, and you're ready to go! To draw a letter and see what the neural network's thinks it is, type the following command:
 
