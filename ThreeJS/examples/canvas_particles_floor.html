@@ -1,0 +1,266 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<title>three.js canvas - particles - floor</title>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0">
+		<style>
+			body {
+				background-color: #000000;
+				margin: 0px;
+				overflow: hidden;
+			}
+
+			a {
+				color:#0078ff;
+			}
+		</style>
+	</head>
+	<body>
+
+		<script src="../build/three.min.js"></script>
+
+		<script src="js/renderers/Projector.js"></script>
+		<script src="js/renderers/CanvasRenderer.js"></script>
+
+		<script src="js/libs/stats.min.js"></script>
+		<script type="text/javascript" src="js/controls/FirstPersonControls.js"></script>
+
+		<script>
+			var YawAngle = 0;
+			var PitchAngle = 0;
+
+			var space = false;
+			var moveForward = false;
+			var moveBackwards = false;
+			var moveLeft = false;
+			var moveRight = false;
+
+			var SEPARATION = 50;
+			var AMOUNTX = 50;
+			var AMOUNTY = 50;
+
+			var container, stats;
+			var camera, scene, renderer, particle;
+			var mouseX = 0, mouseY = 0;
+
+			var windowHalfX = window.innerWidth / 2;
+			var windowHalfY = window.innerHeight / 2;
+
+			var clock;
+			var particles;
+
+			var light;
+
+			init();
+
+			function init() {
+
+				particles = [];
+
+				clock = new THREE.Clock();
+
+				container = document.createElement('div');
+				document.body.appendChild( container );
+
+				camera = new THREE.PerspectiveCamera( 75, window.innerWidth / window.innerHeight, 1, 700 );
+				camera.position.y = 200;
+				camera.position.x = SEPARATION * AMOUNTX / 2
+				camera.position.z = SEPARATION * AMOUNTY / 2
+				
+
+				scene = new THREE.Scene(); 
+
+
+				renderer = new THREE.WebGLRenderer();
+				renderer.setSize( window.innerWidth, window.innerHeight );
+				renderer.setClearColor( 0xffffff, 1 );
+
+				scene.fog = new THREE.FogExp2( 0xffffff, 0.0015 );
+
+
+				var geometry = new THREE.CubeGeometry(35, 5, 35);
+
+
+				// controls = new THREE.FirstPersonControls( camera );
+				// controls.movementSpeed = 50;
+				// controls.lookSpeed = .1;
+
+				light = new THREE.PointLight( 0xffffff, 1, 0);
+				light.position.set( camera.position.x, camera.position.y, camera.position.z);
+				scene.add( light );
+
+				var ambientlight = new THREE.AmbientLight( 0x404040 ); // soft white light
+				scene.add( ambientlight );
+
+				var i = 0;
+
+				for ( var ix = 0; ix < AMOUNTX; ix++ ) {
+
+					particles.push([]);
+
+					for ( var iy = 0; iy < AMOUNTY; iy++ ) {
+
+						var material = new THREE.MeshLambertMaterial({overdraw: true });
+						material.fog = true;
+
+						particle = new THREE.Mesh( geometry, material );
+
+						particles[ix].push(particle);
+
+						particle.position.x = ix * SEPARATION;
+						particle.position.z = iy * SEPARATION;
+						particle.position.y = 0;
+						scene.add( particle );
+
+					}
+
+				}
+
+				
+				container.appendChild( renderer.domElement );
+
+				stats = new Stats();
+				stats.domElement.style.position = 'absolute';
+				stats.domElement.style.top = '0px';
+				container.appendChild( stats.domElement );
+
+				document.addEventListener( 'mousemove', onDocumentMouseMove, false );
+				window.addEventListener( 'resize', onWindowResize, false );
+
+				document.addEventListener( 'keydown', onDocumentKeyDown, false );
+				document.addEventListener( 'keyup', onDocumentKeyUp, false );
+
+
+			}
+
+			function onDocumentKeyDown( event ) {
+				console.log(event.keyCode);
+
+				switch ( event.keyCode ) {
+					case 32: space = true; break;
+					case 87: moveForward = true; break; // up
+					case 83: moveBackwards = true; break; // down
+					case 65: moveLeft = true; break; // left
+					case 68: moveRight = true; break; // right
+
+				}
+
+			}
+
+			function onDocumentKeyUp( event ) {
+
+				switch ( event.keyCode ) {
+					case 32: space = false; break;
+					case 87: moveForward = false; break; // up
+					case 83: moveBackwards = false; break; // down
+					case 65: moveLeft = false; break; // left
+					case 68: moveRight = false; break; // right
+
+				}
+
+			}
+
+			function onWindowResize() 
+			{
+				windowHalfX = window.innerWidth / 2;
+				windowHalfY = window.innerHeight / 2;
+
+				camera.aspect = window.innerWidth / window.innerHeight;
+				camera.updateProjectionMatrix();
+
+				renderer.setSize( window.innerWidth, window.innerHeight );
+			}
+
+			function onDocumentMouseMove( event ) {
+
+				mouseX = event.clientX - windowHalfX;
+				mouseY = -event.clientY + windowHalfY;
+			}
+
+			function animate() 
+			{
+				requestAnimationFrame( animate );
+
+				render();
+				stats.update();
+			}
+
+			function render() {
+				FrameTime = clock.getDelta()
+
+				if (Math.abs(mouseX) > 100)
+				{
+					YawAngle += mouseX / 10000.0;
+				}
+
+
+				var cameratarget = new THREE.Vector3( Math.cos(YawAngle), 0, Math.sin(YawAngle) );
+				cameratarget.add(camera.position);
+				camera.lookAt(cameratarget);
+
+
+				var motiontarget = new THREE.Vector3(Math.cos(YawAngle), 0, Math.sin(YawAngle));
+				
+				var horizontalmotiontarget = motiontarget.clone();
+				var axis = new THREE.Vector3( 0, 1, 0 );
+				var angle = Math.PI / 2;
+				horizontalmotiontarget.applyAxisAngle(axis, angle);
+
+				if (moveForward == true)
+				{
+					camera.position.x += FrameTime * 50 * motiontarget.x;
+					camera.position.z += FrameTime * 50 * motiontarget.z;
+				}
+				if (moveBackwards == true)
+				{
+					camera.position.z -= FrameTime * 50 * motiontarget.z;
+					camera.position.x -= FrameTime * 50 * motiontarget.x;
+				}
+				if (moveRight == true)
+				{
+					camera.position.z -= FrameTime * 50 * horizontalmotiontarget.z;
+					camera.position.x -= FrameTime * 50 * horizontalmotiontarget.x;
+				}
+				if (moveLeft == true)
+				{
+					camera.position.z += FrameTime * 50 * horizontalmotiontarget.z;
+					camera.position.x += FrameTime * 50 * horizontalmotiontarget.x;
+				}
+
+				for (ix = 0; ix < particles.length; ix++)
+				{
+					for (iy = 0; iy < particles[0].length; iy++)
+					{
+						Difference = Math.sqrt(Math.pow(camera.position.z - particles[ix][iy].position.z, 2) + Math.pow(camera.position.x - particles[ix][iy].position.x, 2))
+
+						YOffset = (40.0 / (Difference))
+
+						if (YOffset > 1)
+						{
+							YOffset = 1;
+						}
+
+						particles[ix][iy].material.color = new THREE.Color( 1 - YOffset, 1, 1 );
+
+						//set the wave 
+						particles[ix][iy].position.y = 20 * Math.sin((clock.elapsedTime * .5 + 4 * Math.PI * (ix / particles.length)))
+						// particles[ix][iy].position.y += .1 * Math.sin(clock.elapsedTime + (2 * Math.PI * particles[0].length / iy))
+
+					}
+				}
+
+				// change camera height
+				TargetY = particles[Math.floor(camera.position.x / SEPARATION)][Math.floor(camera.position.z / SEPARATION)].position.y + 50;
+
+				camera.position.y += (TargetY - camera.position.y) * .1;
+
+
+				renderer.render( scene, camera );
+			}
+
+			animate();
+
+		</script>
+	</body>
+</html>
