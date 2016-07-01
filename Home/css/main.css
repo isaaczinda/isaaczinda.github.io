@@ -3,34 +3,71 @@
 	margin-left: 0px;
 }
 
-#ImageBrand
-{
-	width: 50px;
-	height: 50px;
+/*apply a sick gradient*/
+body {
 }
 
-body
-{
-    background-repeat: no-repeat;
-    background-size:cover;
-    background-image: url("http://www.isaaczinda.com/Home/img/Canyoneering.JPG");
+/*every div directly under a row*/
+.row > div {
+	font-size: 16px;
+  /*background-color: #d9d9d9;*/
+	padding: 10px;
+	border: 5px solid transparent;
 }
 
-.footer
+.row.title-row
 {
-	padding-top: 5px;
-	padding-bottom: 5px;
+	margin-bottom: 40px;
+	margin-top: 10px;
 }
 
-h1 small
-{
-	color: #cccccc;
+/*.row > .title-container {
+	background-color: #eeaa7b !important;
+}*/
+
+.row > .grey {
+	background-color: #d9d9d9 !important;
+	box-shadow: 0 0 5px 10px #d9d9d9;
+	opacity: 1;
 }
 
-.Current
-{
-	background-color: #28415B;
+.row {
+	margin: 5px;
 }
+
+#welcome-title{
+	margin: 0px;
+	color: grey;
+	text-align: center;
+	font-size: 50px;
+}
+
+#name-title{
+	color: #606060;
+	margin: 0px;
+	color: ;
+	text-align: center;
+	font-size: 70px;
+}
+
+.btn-primary {
+	background-image: none;
+	background-color: #e37222 !important;
+}
+
+/*e37222 tangerine*/
+/*07889b teal*/
+/*66b9bf powder*/
+/*eeaa7b tan*/
+/*d9d9d9 light-grey*/
+/*a6a6a6 dark-grey*/
+
+/*white navbar background*/
+
+body {
+	background-color: #ffffff;
+}
+
 
 .Resume img
 {
@@ -40,11 +77,6 @@ h1 small
 #website-title
 {
 	margin-left: 5px;
-}
-
-.navbar
-{
-	margin-bottom: 0px !important;
 }
 
 html, body
@@ -64,37 +96,7 @@ html, body
 	padding-right: 10px;
 }
 
-#navbar > li > a
-{
-	color: white;
-}
 
-#navbar > li
-{
-	-webkit-transition:background-color .5s;
-    transition:background-color .5s;
-}
-
-
-.footer 
-{
-	padding-left: 25px !important;
-
-	width: 100%;
-	/* Set the fixed height of the footer here */
-
-	background-color: rgba(0, 0, 0, .7);
-    vertical-align : bottom;
-}
-
-.footer p
-{
-	text-align: left;
-	padding-top: 0px;
-	padding-bottom: 0px;
-	margin-bottom: 0px;
-	margin-top: 0px;
-}
 
 .page-header
 {
@@ -112,11 +114,6 @@ html, body
 #Verbs p
 {
 	margin-bottom: 0px;
-}
-
-#navbar li:hover
-{
-	background-color: #68A1BB;
 }
 
 #introduction-text p

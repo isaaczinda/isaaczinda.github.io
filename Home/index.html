@@ -2,26 +2,41 @@
 <html>
 	<head>
 		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0"/>
-		<link rel="stylesheet" type="text/css" href="http://bootswatch.com/darkly/bootstrap.min.css">
-		<link rel="stylesheet" type="text/css" href="css/main.css">
+
 	</head>
 
+	<!-- set the site title  -->
 	<title>isaaczinda.com</title>
 
-	<script src = "js/jquery.js"></script>
-	<script src = "js/bootstrap.min.js"></script>
+	<!-- Latest compiled and minified CSS -->
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+	<!-- Optional theme -->
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap-theme.min.css" integrity="sha384-fLW2N01lMqjakBkx3l/M9EahuwpSfeNvV63J5ezn3uZzapT0u7EYsXMjQV+0En5r" crossorigin="anonymous">
+	<!-- latest jQuery -->
+	<script   src="https://code.jquery.com/jquery-2.2.4.min.js"   integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44="   crossorigin="anonymous"></script>
+	<!-- Latest compiled and minified JavaScript -->
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
+	<!-- links to local stylesheets -->
+	<link rel="stylesheet" type="text/css" href="css/main.css">
+	<link rel="stylesheet" type="text/css" href="css/navbar.css">
 
 	<body>
-		<nav class="navbar navbar-default navbar-static-top">
-			<!-- The Navbar Header -->
-		    <div class = "container-fluid">
-			    <div class="navbar-header">
-			    	<div>
-				        <img id = "ImageBrand" alt="Brand" src="img/Crest.png">
-			    		<a class="navbar-brand" href="http://www.isaaczinda.com/Home">isaaczinda.com</a>
-			    	</div>
-			    </div>
-				<ul class="nav navbar-nav navbar-right" id = "navbar">
+    <nav class="navbar navbar-default" role="navigation">
+      <!-- Brand and toggle get grouped for better mobile display -->
+      <div class="navbar-header">
+        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+          <span class="sr-only">Toggle navigation</span>
+
+					<!-- creates the hamburger bar -->
+					<span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+      </div>
+
+      <!-- Collect the nav links, forms, and other content for toggling -->
+      <div class="collapse navbar-collapse navbar-ex1-collapse">
+				<ul class="nav navbar-nav">
 					<li class = "Current"><a href="index.html">Home</a></li>
 					<li><a href="resume.html">Resume</a></li>
 					<li><a href="downloads.html">Projects</a></li>
@@ -34,31 +49,28 @@
 							<li><a href="http://www.isaaczinda.com/French">French Dictionary</a></li>
 							<li><a href="http://www.isaaczinda.com/EasyC">EasyC</a></li>
 							<li><a href="http://www.isaaczinda.com/Bezier_Curves">Bezier Curves</a></li>
-							<!-- <li class="divider"></li> -->
 							<li><a href="http://www.isaaczinda.com/PID">PID Controller</a></li>
-							<li><a href="http://www.isaaczinda.com/Tidal_Waves">Tidal / Waves</a></li>	
+							<li><a href="http://www.isaaczinda.com/Tidal_Waves">Tidal / Waves</a></li>
 						</ul>
 					</li>
 				</ul>
-			</div>
-		</nav>
-		<div id = "Content">
-			<div id = "home-screen" class = "container-fluid">
-				<div class = "row">
-					<div class = "page-header col-sm-12 col-md-6">
-					  	<h1 id = "website-title">isaaczinda.com<div><small>Home to my bio, resume, and project collection</small></div></h1>
-					</div>
-					<div id = "introduction-text" class = "col-sm-12 col-md-6">
-						<!-- startcontent -->
-<p>This website was created to demonstrate my passion for web design and programming and to provide a showcase for my resume. To explore my resume, simply visit the tab at the top of the page. Installers for desktop projects can be found on the downloads page. The robotics tab outlines my experience with the First Tech Challenge by way of my team's engineering notebook. Some sites I have created are located under the web projects tab.</p>
-<!-- endcontent -->
-					</div>
+      </div><!-- /.navbar-collapse -->
+    </nav>
+
+		<div class="container-fluid">
+			<div class="row title-row">
+				<div class = "col-md-8 col-md-offset-2 title-container">
+					<!-- <span id = "welcome-title">welcome to </span> -->
+					<span id = "name-title">Welcome to isaaczinda.com</span>
 				</div>
 			</div>
-		</div>
-		<div class="footer">
-			<p class="text-muted">You can email me at <a href="mailto:me@isaaczinda.com" target="_top">me@isaaczinda.com</a> if you have any questions</p>
-			<p class="text-muted">Site updated on 1.29.16</p>
+
+			<div class = "row">
+				<div class = "col-md-6 grey">
+					This website was created to demonstrate my passion for web design and programming and to provide a showcase for my resume. To explore my resume, simply visit the tab at the top of the page. Installers for desktop projects can be found on the downloads page. The robotics tab outlines my experience with the First Tech Challenge by way of my team's engineering notebook. Some sites I have created are located under the web projects tab.
+				</div>
+			</div>
+
 		</div>
 	</body>
 </html>
