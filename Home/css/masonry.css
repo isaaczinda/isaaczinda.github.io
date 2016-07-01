@@ -1,0 +1,23 @@
+.image-item, .grid-sizer {
+  height: 100px;
+  padding: 5px;
+  border: 5px solid white;
+  /*make the images slightly smaller*/
+  margin: -1px;
+  background-color: red;
+}
+
+.grid-sizer {
+  width: 50px;
+  visibility: hidden;
+}
+
+.small {
+  width: 50px;
+}
+.medium {
+  width: 100px;
+}
+.large {
+  width: 150px;
+}

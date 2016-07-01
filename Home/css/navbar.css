@@ -1,55 +1,76 @@
+/*styles that are true for all devices*/
+
+/*style the navbar gradient*/
 .navbar {
   border-radius: 0px !important;
   border-width: 0px;
   background: #00d2ff; /* fallback for old browsers */
   background: -webkit-linear-gradient(to left, #00d2ff , #3a7bd5); /* Chrome 10-25, Safari 5.1-6 */
   background: linear-gradient(to left, #00d2ff , #3a7bd5); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
-
 }
 
-.navbar .navbar-nav {
-  display: inline-block;
-  float: none;
-	margin-bottom: 0px;
-	margin-top: 3px;
-}
-
-.navbar-inner {
-	background: blue !important;
-}
-
-.navbar-default {
-	margin-bottom: 0px !important;
-}
-
-.navbar-nav > li
-{
-	font-size: 16px;
-	margin-left: 3px;
-	margin-right: 3px;
-	background-color: #d9d9d9;
-	-webkit-transition:background-color .5s, border-bottom .5s;
-	transition:background-color .5s, border-bottom .5s;
-
-	/*set a transparent border*/
-	border-bottom: 5px solid #606060;
-
-	min-width: 100px;
-}
 /*set text color to black*/
 .navbar-nav > li > a {
-	color:black !important;
+  color:black !important;
 }
 
-.navbar-nav > li:hover {
-	background-color: #a6a6a6;
-	border-bottom: 5px solid #606060;
+/* computer screens */
+@media only screen and (min-width : 768px) {
+  /*center the navbar*/
+  .navbar .navbar-nav {
+    display: inline-block;
+    float: none;
+  	margin-bottom: 0px;
+  	margin-top: 3px;
+  }
+
+  .navbar-inner {
+  	background: blue !important;
+  }
+
+  .navbar-default {
+  	margin-bottom: 0px !important;
+  }
+
+  .navbar-nav > li
+  {
+  	font-size: 16px;
+  	margin-left: 3px;
+  	margin-right: 3px;
+  	background-color: #d9d9d9;
+  	-webkit-transition:background-color .5s, border-bottom .5s;
+  	transition:background-color .5s, border-bottom .5s;
+
+  	/*set a transparent border*/
+  	border-bottom: 5px solid #606060;
+
+  	min-width: 100px;
+  }
+
+  .navbar-nav > li:hover {
+  	background-color: #a6a6a6;
+  	border-bottom: 5px solid #606060;
+  }
+
+  .navbar-nav > .Current {
+  	border-bottom: 5px solid #e37222;
+  }
+
+  .navbar .navbar-collapse {
+      text-align: center;
+  }
 }
 
-.navbar-nav > .Current {
-	border-bottom: 5px solid #e37222;
-}
+/*e37222 tangerine*/
+/*07889b teal*/
+/*66b9bf powder*/
+/*eeaa7b tan*/
+/*d9d9d9 light-grey*/
+/*a6a6a6 dark-grey*/
 
-.navbar .navbar-collapse {
-    text-align: center;
+/* phone screens */
+@media only screen and (max-width : 767px) {
+  .navbar-nav > .Current {
+    background-color: #aaaaaa;
+  }
 }

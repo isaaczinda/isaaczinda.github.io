@@ -1,0 +1,31 @@
+.row > div h1, .row > div h2 {
+	margin-top: 10px;
+	margin-bottom: 10px;
+/*
+
+  font-size: 14px;*/
+}
+
+/*every div directly under a row*/
+.row > div {
+	font-size: 16px;
+	padding: 10px;
+	border: 5px solid white;
+
+}
+
+/*no extra padding on elements with this class*/
+.row > div.no-padding {
+	padding: 0px;
+}
+
+/*sets the background of certain div elements*/
+div.grey {
+	background-color: #d9d9d9;
+}
+
+/*sets the row gutters to minimal*/
+.row {
+	margin-left: -10px;
+	margin-right: -10px;
+}

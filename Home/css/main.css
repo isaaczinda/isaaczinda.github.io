@@ -1,39 +1,29 @@
+/*set the gutters based on the screen size*/
+@media only screen and (max-width : 767px) {
+	.container-fluid {
+		margin-left: 0px;
+		margin-right: 0px;
+	}
+}
+@media only screen and (min-width : 768px) {
+	.container-fluid {
+		margin-left: 15%;
+		margin-right: 15%;
+	}
+}
+
+
+body {
+  font-family: 'Ubuntu', serif;
+}
+
+
+
 #WordDoc
 {
 	margin-left: 0px;
 }
 
-/*apply a sick gradient*/
-body {
-}
-
-/*every div directly under a row*/
-.row > div {
-	font-size: 16px;
-  /*background-color: #d9d9d9;*/
-	padding: 10px;
-	border: 5px solid transparent;
-}
-
-.row.title-row
-{
-	margin-bottom: 40px;
-	margin-top: 10px;
-}
-
-/*.row > .title-container {
-	background-color: #eeaa7b !important;
-}*/
-
-.row > .grey {
-	background-color: #d9d9d9 !important;
-	box-shadow: 0 0 5px 10px #d9d9d9;
-	opacity: 1;
-}
-
-.row {
-	margin: 5px;
-}
 
 #welcome-title{
 	margin: 0px;
@@ -66,6 +56,7 @@ body {
 
 body {
 	background-color: #ffffff;
+	margin-top: 68px;
 }
 
 
