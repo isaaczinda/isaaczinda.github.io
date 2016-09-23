@@ -1,6 +1,0 @@
-je voyage
-tu voyages
-il/elle voyage
-nous voyageons
-vous voyagez
-ils/elles voyagent

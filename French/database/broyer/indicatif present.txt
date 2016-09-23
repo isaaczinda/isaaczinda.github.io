@@ -1,6 +1,0 @@
-je broie
-tu broies
-il/elle broie
-nous broyons
-vous broyez
-ils/elles broient

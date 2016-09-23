@@ -1,6 +1,0 @@
-je feuillette
-tu feuillettes
-il/elle feuillette
-nous feuilletons
-vous feuilletez
-ils/elles feuillettent

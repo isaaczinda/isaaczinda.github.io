@@ -1,6 +1,0 @@
-je blanchis
-tu blanchis
-il/elle blanchit
-nous blanchissons
-vous blanchissez
-ils/elles blanchissent

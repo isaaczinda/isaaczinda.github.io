@@ -1,6 +1,0 @@
-je quitte
-tu quittes
-il/elle quitte
-nous quittions
-vous quittiez
-ils/elles quittent

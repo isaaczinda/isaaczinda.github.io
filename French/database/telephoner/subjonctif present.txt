@@ -1,6 +1,0 @@
-je t&eacute;l&eacute;phone
-tu t&eacute;l&eacute;phones
-il/elle t&eacute;l&eacute;phone
-nous t&eacute;l&eacute;phonions
-vous t&eacute;l&eacute;phoniez
-ils/elles t&eacute;l&eacute;phonent

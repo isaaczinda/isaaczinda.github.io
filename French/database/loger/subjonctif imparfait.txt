@@ -1,6 +1,0 @@
-je logeasse
-tu logeasses
-il/elle loge&acirc;t
-nous logeassions
-vous logeassiez
-ils/elles logeassent

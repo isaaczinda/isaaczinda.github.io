@@ -1,6 +1,0 @@
-j'aie quitt&eacute;
-tu aies quitt&eacute;
-il/elle ait quitt&eacute;
-nous ayons quitt&eacute;
-vous ayez quitt&eacute;
-ils/elles aient quitt&eacute;

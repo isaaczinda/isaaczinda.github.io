@@ -1,6 +1,0 @@
-j'aie emprunt&eacute;
-tu aies emprunt&eacute;
-il/elle ait emprunt&eacute;
-nous ayons emprunt&eacute;
-vous ayez emprunt&eacute;
-ils/elles aient emprunt&eacute;

@@ -1,6 +1,0 @@
-j'aie pens&eacute;
-tu aies pens&eacute;
-il/elle ait pens&eacute;
-nous ayons pens&eacute;
-vous ayez pens&eacute;
-ils/elles aient pens&eacute;

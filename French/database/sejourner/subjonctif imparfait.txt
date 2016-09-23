@@ -1,6 +1,0 @@
-je s&eacute;journasse
-tu s&eacute;journasses
-il/elle s&eacute;journ&acirc;t
-nous s&eacute;journassions
-vous s&eacute;journassiez
-ils/elles s&eacute;journassent

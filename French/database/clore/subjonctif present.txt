@@ -1,7 +1,0 @@
-je close
-tu closes
-il/elle close
-
-nous closions
-vous closiez
-ils/elles closent

@@ -1,6 +1,0 @@
-j'&eacute;value
-tu &eacute;values
-il/elle &eacute;value
-nous &eacute;valuons
-vous &eacute;valuez
-ils/elles &eacute;valuent

@@ -1,6 +1,0 @@
-je logerai
-tu logeras
-il/elle logera
-nous logerons
-vous logerez
-ils/elles logeront

@@ -1,6 +1,0 @@
-j'aie compt&eacute;
-tu aies compt&eacute;
-il/elle ait compt&eacute;
-nous ayons compt&eacute;
-vous ayez compt&eacute;
-ils/elles aient compt&eacute;

@@ -1,8 +1,0 @@
-j'ai &eacute;t&eacute;
-tu as &eacute;t&eacute;
-il a &eacute;t&eacute;
-elle a &eacute;t&eacute;
-nous avons &eacute;t&eacute;
-vous avez &eacute;t&eacute;
-ils ont &eacute;t&eacute;
-elles ont &eacute;t&eacute;

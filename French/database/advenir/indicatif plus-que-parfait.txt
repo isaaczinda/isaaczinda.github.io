@@ -1,8 +1,0 @@
--
--
-il &eacute;tait advenu
-elle &eacute;tait advenue
--
--
-ils &eacute;taient advenus
-elles &eacute;taient advenues

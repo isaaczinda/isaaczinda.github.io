@@ -1,6 +1,0 @@
-j'aie &eacute;tendu
-tu aies &eacute;tendu
-il/elle ait &eacute;tendu
-nous ayons &eacute;tendu
-vous ayez &eacute;tendu
-ils/elles aient &eacute;tendu

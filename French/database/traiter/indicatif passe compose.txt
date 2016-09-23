@@ -1,6 +1,0 @@
-j'ai trait&eacute;
-tu as trait&eacute;
-il/elle a trait&eacute;
-nous avons trait&eacute;
-vous avez trait&eacute;
-ils/elles ont trait&eacute;

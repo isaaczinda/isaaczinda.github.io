@@ -1,6 +1,0 @@
-j'ai relu
-tu as relu
-il/elle a relu
-nous avons relu
-vous avez relu
-ils/elles ont relu

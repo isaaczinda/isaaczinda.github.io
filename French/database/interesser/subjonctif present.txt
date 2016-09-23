@@ -1,6 +1,0 @@
-j'int&eacute;resse
-tu int&eacute;resses
-il/elle int&eacute;resse
-nous int&eacute;ressions
-vous int&eacute;ressiez
-ils/elles int&eacute;ressent

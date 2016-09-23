@@ -1,6 +1,0 @@
-je r&eacute;veille
-tu r&eacute;veilles
-il/elle r&eacute;veille
-nous r&eacute;veillions
-vous r&eacute;veilliez
-ils/elles r&eacute;veillent

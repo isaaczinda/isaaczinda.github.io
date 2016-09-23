@@ -1,8 +1,0 @@
-j'&eacute;tais venu
-tu &eacute;tais venu
-il &eacute;tait venu
-elle &eacute;tait venue
-nous &eacute;tions venus
-vous &eacute;tiez venus
-ils &eacute;taient  venus
-elles &eacute;taient venues

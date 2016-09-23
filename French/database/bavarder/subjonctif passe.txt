@@ -1,6 +1,0 @@
-j'aie bavard&eacute;
-tu aies bavard&eacute;
-il/elle ait bavard&eacute;
-nous ayons bavard&eacute;
-vous ayez bavard&eacute;
-ils/elles aient bavard&eacute;

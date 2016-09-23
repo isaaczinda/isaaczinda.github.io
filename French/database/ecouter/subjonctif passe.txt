@@ -1,6 +1,0 @@
-j'aie &eacute;cout&eacute;
-tu aies &eacute;cout&eacute;
-il/elle ait &eacute;cout&eacute;
-nous ayons &eacute;cout&eacute;
-vous ayez &eacute;cout&eacute;
-ils/elles aient &eacute;cout&eacute;

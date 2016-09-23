@@ -1,6 +1,0 @@
-je zone
-tu zones
-il/elle zone
-nous zonons
-vous zonez
-ils/elles zonent

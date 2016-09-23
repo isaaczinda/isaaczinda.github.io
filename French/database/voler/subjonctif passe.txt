@@ -1,6 +1,0 @@
-j'aie vol&eacute;
-tu aies vol&eacute;
-il/elle ait vol&eacute;
-nous ayons vol&eacute;
-vous ayez vol&eacute;
-ils/elles aient vol&eacute;

@@ -1,6 +1,0 @@
-j'aie produit
-tu aies produit
-il/elle ait produit
-nous ayons produit
-vous ayez produit
-ils/elles aient produit

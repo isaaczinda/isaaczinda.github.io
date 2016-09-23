@@ -1,6 +1,0 @@
-je plains
-tu plains
-il/elle plaint
-nous plaignons
-vous plaignez
-ils/elles plaignent

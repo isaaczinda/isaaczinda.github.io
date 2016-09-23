@@ -1,6 +1,0 @@
-j'aie visit&eacute;
-tu aies visit&eacute;
-il/elle ait visit&eacute;
-nous ayons visit&eacute;
-vous ayez visit&eacute;
-ils/elles aient visit&eacute;

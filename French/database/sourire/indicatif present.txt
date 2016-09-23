@@ -1,6 +1,0 @@
-je souris
-tu souris
-il/elle sourit
-nous sourions
-vous souriez
-ils/elles sourient

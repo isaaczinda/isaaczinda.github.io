@@ -1,6 +1,0 @@
-j'aie coll&eacute;
-tu aies coll&eacute;
-il/elle ait coll&eacute;
-nous ayons coll&eacute;
-vous ayez coll&eacute;
-ils/elles aient coll&eacute;

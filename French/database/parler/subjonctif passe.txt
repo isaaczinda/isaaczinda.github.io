@@ -1,6 +1,0 @@
-j'aie parl&eacute;
-tu aies parl&eacute;
-il/elle ait parl&eacute;
-nous ayons parl&eacute;
-vous ayez parl&eacute;
-ils/elles aient parl&eacute;

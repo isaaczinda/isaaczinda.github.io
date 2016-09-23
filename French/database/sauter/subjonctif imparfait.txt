@@ -1,6 +1,0 @@
-je sautasse
-tu sautasses
-il/elle saut&acirc;t
-nous sautassions
-vous sautassiez
-ils/elles sautassent

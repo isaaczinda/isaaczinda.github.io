@@ -1,6 +1,0 @@
-je survolerai
-tu survoleras
-il/elle survolera
-nous survolerons
-vous survolerez
-ils/elles survoleront

@@ -1,6 +1,0 @@
-je d&eacute;sire
-tu d&eacute;sires
-il/elle d&eacute;sire
-nous d&eacute;sirions
-vous d&eacute;siriez
-ils/elles d&eacute;sirent

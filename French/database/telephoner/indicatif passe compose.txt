@@ -1,6 +1,0 @@
-j'ai t&eacute;l&eacute;phon&eacute;
-tu as t&eacute;l&eacute;phon&eacute;
-il/elle a t&eacute;l&eacute;phon&eacute;
-nous avons t&eacute;l&eacute;phon&eacute;
-vous avez t&eacute;l&eacute;phon&eacute;
-ils/elles ont t&eacute;l&eacute;phon&eacute;

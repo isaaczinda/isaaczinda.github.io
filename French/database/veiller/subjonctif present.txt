@@ -1,6 +1,0 @@
-je veille
-tu veilles
-il/elle veille
-nous veillions
-vous veilliez
-ils/elles veillent

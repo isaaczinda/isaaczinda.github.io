@@ -1,6 +1,0 @@
-j'&eacute;loigne
-tu &eacute;loignes
-il/elle &eacute;loigne
-nous &eacute;loignons
-vous &eacute;loignez
-ils/elles &eacute;loignent

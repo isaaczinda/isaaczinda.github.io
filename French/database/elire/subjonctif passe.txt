@@ -1,6 +1,0 @@
-j'aie &eacute;lu
-tu aies &eacute;lu
-il/elle ait &eacute;lu
-nous ayons &eacute;lu
-vous ayez &eacute;lu
-ils/elles aient &eacute;lu

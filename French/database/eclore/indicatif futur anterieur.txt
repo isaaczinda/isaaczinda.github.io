@@ -1,8 +1,0 @@
--
--
-il aura &eacute;clos
-elle aura &eacute;clos
--
--
-ils auront &eacute;clos
-elles auront &eacute;clos

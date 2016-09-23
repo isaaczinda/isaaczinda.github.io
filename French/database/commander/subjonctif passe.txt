@@ -1,6 +1,0 @@
-j'aie command&eacute;
-tu aies command&eacute;
-il/elle ait command&eacute;
-nous ayons command&eacute;
-vous ayez command&eacute;
-ils/elles aient command&eacute;

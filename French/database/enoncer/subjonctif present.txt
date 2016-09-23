@@ -1,6 +1,0 @@
-j'&eacute;nonce
-tu &eacute;nonces
-il/elle &eacute;nonce
-nous &eacute;noncions
-vous &eacute;nonciez
-ils/elles &eacute;noncent

@@ -1,6 +1,0 @@
-j'aie assist&eacute;
-tu aies assist&eacute;
-il/elle ait assist&eacute;
-nous ayons assist&eacute;
-vous ayez assist&eacute;
-ils/elles aient assist&eacute;

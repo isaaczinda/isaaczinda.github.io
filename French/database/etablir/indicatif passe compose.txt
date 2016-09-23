@@ -1,6 +1,0 @@
-j'ai &eacute;tabli
-tu as &eacute;tabli
-il/elle a &eacute;tabli
-nous avons &eacute;tabli
-vous avez &eacute;tabli
-ils/elles ont &eacute;tabli

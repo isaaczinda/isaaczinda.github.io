@@ -1,6 +1,0 @@
-je n&eacute;gocierai
-tu n&eacute;gocieras
-il/elle n&eacute;gociera
-nous n&eacute;gocierons
-vous n&eacute;gocierez
-ils/elles n&eacute;gocieront

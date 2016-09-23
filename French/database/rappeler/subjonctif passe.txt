@@ -1,6 +1,0 @@
-j'aie rappel&eacute;
-tu aies rappel&eacute;
-il/elle ait rappel&eacute;
-nous ayons rappel&eacute;
-vous ayez rappel&eacute;
-ils/elles aient rappel&eacute;

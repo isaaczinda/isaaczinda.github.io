@@ -1,6 +1,0 @@
-j'aie lanc&eacute;
-tu aies lanc&eacute;
-il/elle ait lanc&eacute;
-nous ayons lanc&eacute;
-vous ayez lanc&eacute;
-ils/elles aient lanc&eacute;

@@ -1,8 +1,0 @@
-j'aie &eacute;t&eacute;
-tu aies &eacute;t&eacute;
-il ait &eacute;t&eacute;
-elle ait &eacute;t&eacute;
-nous ayons &eacute;t&eacute;
-vous ayez &eacute;t&eacute;
-ils aient &eacute;t&eacute;
-elles aient &eacute;t&eacute;

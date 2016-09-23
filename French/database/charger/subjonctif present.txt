@@ -1,6 +1,0 @@
-je charge
-tu charges
-il/elle charge
-nous chargions
-vous chargiez
-ils/elles chargent

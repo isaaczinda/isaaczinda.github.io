@@ -1,6 +1,0 @@
-je lise
-tu lises
-il/elle lise
-nous lisions
-vous lisiez
-ils/elles lisent

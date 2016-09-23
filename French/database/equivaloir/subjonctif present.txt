@@ -1,6 +1,0 @@
-j'&eacute;quivaille
-tu &eacute;quivailles
-il/elle &eacute;quivaille
-nous &eacute;quivalions
-vous &eacute;quivaliez
-ils/elles &eacute;quivaillent

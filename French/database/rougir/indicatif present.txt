@@ -1,6 +1,0 @@
-je rougis
-tu rougis
-il/elle rougit
-nous rougissons
-vous rougissez
-ils/elles rougissent

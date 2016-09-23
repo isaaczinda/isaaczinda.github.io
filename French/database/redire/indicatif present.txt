@@ -1,6 +1,0 @@
-je redis
-tu redis
-il/elle redit
-nous redisons
-vous redites
-ils/elles redisent

@@ -1,6 +1,0 @@
-je toucherai
-tu toucheras
-il/elle touchera
-nous toucherons
-vous toucherez
-ils/elles toucheront

@@ -1,6 +1,0 @@
-j'ai saut&eacute;
-tu as saut&eacute;
-il/elle a saut&eacute;
-nous avons saut&eacute;
-vous avez saut&eacute;
-ils/elles ont saut&eacute;

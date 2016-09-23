@@ -1,6 +1,0 @@
-je chemine
-tu chemines
-il/elle chemine
-nous cheminions
-vous cheminiez
-ils/elles cheminent

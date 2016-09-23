@@ -1,6 +1,0 @@
-je jugeasse
-tu jugeasses
-il/elle juge&acirc;t
-nous jugeassions
-vous jugeassiez
-ils/elles jugeassent

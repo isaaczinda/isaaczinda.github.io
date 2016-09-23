@@ -1,6 +1,0 @@
-je vote
-tu votes
-il/elle vote
-nous votions
-vous votiez
-ils/elles votent

@@ -1,6 +1,0 @@
-j'aie signal&eacute;
-tu aies signal&eacute;
-il/elle ait signal&eacute;
-nous ayons signal&eacute;
-vous ayez signal&eacute;
-ils/elles aient signal&eacute;

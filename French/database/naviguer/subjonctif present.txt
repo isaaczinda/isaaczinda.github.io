@@ -1,6 +1,0 @@
-je navigue
-tu navigues
-il/elle navigue
-nous naviguions
-vous naviguiez
-ils/elles naviguent

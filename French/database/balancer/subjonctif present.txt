@@ -1,6 +1,0 @@
-je balance
-tu balances
-il/elle balance
-nous balancions
-vous balanciez
-ils/elles balancent

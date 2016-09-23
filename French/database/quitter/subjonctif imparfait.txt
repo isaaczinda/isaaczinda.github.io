@@ -1,6 +1,0 @@
-je quittasse
-tu quittasses
-il/elle quitt&acirc;t
-nous quittassions
-vous quittassiez
-ils/elles quittassent

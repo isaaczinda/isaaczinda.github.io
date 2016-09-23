@@ -1,6 +1,0 @@
-j'&eacute;noncerai
-tu &eacute;nonceras
-il/elle &eacute;noncera
-nous &eacute;noncerons
-vous &eacute;noncerez
-ils/elles &eacute;nonceront

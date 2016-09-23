@@ -1,6 +1,0 @@
-j'aie hoquet&eacute;
-tu aies hoquet&eacute;
-il/elle ait hoquet&eacute;
-nous ayons hoquet&eacute;
-vous ayez hoquet&eacute;
-ils/elles aient hoquet&eacute;

@@ -1,6 +1,0 @@
-je grimpe
-tu grimpes
-il/elle grimpe
-nous grimpons
-vous grimpez
-ils/elles grimpent

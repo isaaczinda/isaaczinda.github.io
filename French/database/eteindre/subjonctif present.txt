@@ -1,6 +1,0 @@
-j'&eacute;teigne
-tu &eacute;teignes
-il/elle &eacute;teigne
-nous &eacute;teignions
-vous &eacute;teigniez
-ils/elles &eacute;teignent

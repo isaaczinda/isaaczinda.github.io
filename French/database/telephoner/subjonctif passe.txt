@@ -1,6 +1,0 @@
-j'aie t&eacute;l&eacute;phon&eacute;
-tu aies t&eacute;l&eacute;phon&eacute;
-il/elle ait t&eacute;l&eacute;phon&eacute;
-nous ayons t&eacute;l&eacute;phon&eacute;
-vous ayez t&eacute;l&eacute;phon&eacute;
-ils/elles aient t&eacute;l&eacute;phon&eacute;

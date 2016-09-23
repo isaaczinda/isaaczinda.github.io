@@ -1,6 +1,0 @@
-j'aie &eacute;quivalu
-tu aies &eacute;quivalu
-il/elle ait &eacute;quivalu
-nous ayons &eacute;quivalu
-vous ayez &eacute;quivalu
-ils/elles aient &eacute;quivalu

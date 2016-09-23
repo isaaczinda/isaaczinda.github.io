@@ -1,6 +1,0 @@
-je noircis
-tu noircis
-il/elle noircit
-nous noircissons
-vous noircissez
-ils/elles noircissent

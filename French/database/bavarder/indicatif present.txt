@@ -1,6 +1,0 @@
-je bavarde
-tu bavardes
-il/elle bavarde
-nous bavardons
-vous bavardez
-ils/elles bavardent

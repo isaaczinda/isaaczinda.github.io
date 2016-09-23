@@ -1,6 +1,0 @@
-j'aie coup&eacute;
-tu aies coup&eacute;
-il/elle ait coup&eacute;
-nous ayons coup&eacute;
-vous ayez coup&eacute;
-ils/elles aient coup&eacute;

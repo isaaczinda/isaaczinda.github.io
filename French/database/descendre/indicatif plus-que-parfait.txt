@@ -1,8 +1,0 @@
-j'&eacute;tais descendu
-tu &eacute;tais descendu
-il &eacute;tait descendu
-elle &eacute;tait descendue
-nous &eacute;tions descendus
-vous &eacute;tiez descendus
-ils &eacute;taient  descendus
-elles &eacute;taient descendues

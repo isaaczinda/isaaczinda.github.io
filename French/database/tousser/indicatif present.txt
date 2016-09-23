@@ -1,6 +1,0 @@
-je tousse
-tu tousses
-il/elle tousse
-nous toussons
-vous toussez
-ils/elles toussent

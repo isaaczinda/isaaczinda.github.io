@@ -1,6 +1,0 @@
-j'aie &eacute;conduit
-tu aies &eacute;conduit
-il/elle ait &eacute;conduit
-nous ayons &eacute;conduit
-vous ayez &eacute;conduit
-ils/elles aient &eacute;conduit

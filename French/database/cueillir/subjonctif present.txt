@@ -1,6 +1,0 @@
-je cueille
-tu cueilles
-il/elle cueille
-nous cueillions
-vous cueilliez
-ils/elles cueillent

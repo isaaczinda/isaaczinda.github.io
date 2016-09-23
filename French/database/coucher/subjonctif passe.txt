@@ -1,6 +1,0 @@
-j'aie couch&eacute;
-tu aies couch&eacute;
-il/elle ait couch&eacute;
-nous ayons couch&eacute;
-vous ayez couch&eacute;
-ils/elles aient couch&eacute;

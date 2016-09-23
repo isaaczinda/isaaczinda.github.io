@@ -1,6 +1,0 @@
-j'aie rat&eacute;
-tu aies rat&eacute;
-il/elle ait rat&eacute;
-nous ayons rat&eacute;
-vous ayez rat&eacute;
-ils/elles aient rat&eacute;

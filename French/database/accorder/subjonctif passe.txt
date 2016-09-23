@@ -1,6 +1,0 @@
-j'aie accord&eacute;
-tu aies accord&eacute;
-il/elle ait accord&eacute;
-nous ayons accord&eacute;
-vous ayez accord&eacute;
-ils/elles aient accord&eacute;

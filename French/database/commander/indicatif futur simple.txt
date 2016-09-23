@@ -1,6 +1,0 @@
-je commanderai
-tu commanderas
-il/elle commandera
-nous commanderons
-vous commanderez
-ils/elles commanderont

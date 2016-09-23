@@ -1,6 +1,0 @@
-je plonge
-tu plonges
-il/elle plonge
-nous plongions
-vous plongiez
-ils/elles plongent

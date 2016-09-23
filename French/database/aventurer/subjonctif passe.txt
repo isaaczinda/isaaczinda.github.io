@@ -1,6 +1,0 @@
-j'aie aventur&eacute;
-tu aies aventur&eacute;
-il/elle ait aventur&eacute;
-nous ayons aventur&eacute;
-vous ayez aventur&eacute;
-ils/elles aient aventur&eacute;

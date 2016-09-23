@@ -1,6 +1,0 @@
-j'&eacute;valuerai
-tu &eacute;valueras
-il/elle &eacute;valuera
-nous &eacute;valuerons
-vous &eacute;valuerez
-ils/elles &eacute;valueront

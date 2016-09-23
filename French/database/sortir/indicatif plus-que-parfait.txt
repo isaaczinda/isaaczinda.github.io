@@ -1,8 +1,0 @@
-j'&eacute;tais sorti
-tu &eacute;tais sorti
-il &eacute;tait sorti
-elle &eacute;tait sortie
-nous &eacute;tions sortis
-vous &eacute;tiez sortis
-ils &eacute;taient  sortis
-elles &eacute;taient sorties

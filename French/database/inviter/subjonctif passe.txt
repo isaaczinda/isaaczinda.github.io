@@ -1,6 +1,0 @@
-j'aie invit&eacute;
-tu aies invit&eacute;
-il/elle ait invit&eacute;
-nous ayons invit&eacute;
-vous ayez invit&eacute;
-ils/elles aient invit&eacute;

@@ -1,6 +1,0 @@
-j'aie achet&eacute;
-tu aies achet&eacute;
-il/elle ait achet&eacute;
-nous ayons achet&eacute;
-vous ayez achet&eacute;
-ils/elles aient achet&eacute;

@@ -1,6 +1,0 @@
-j'aie port&eacute;
-tu aies port&eacute;
-il/elle ait port&eacute;
-nous ayons port&eacute;
-vous ayez port&eacute;
-ils/elles aient port&eacute;

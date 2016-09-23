@@ -1,6 +1,0 @@
-j'ai produit
-tu as produit
-il/elle a produit
-nous avons produit
-vous avez produit
-ils/elles ont produit

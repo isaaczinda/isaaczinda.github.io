@@ -1,6 +1,0 @@
-j'aie apport&eacute;
-tu aies apport&eacute;
-il/elle ait apport&eacute;
-nous ayons apport&eacute;
-vous ayez apport&eacute;
-ils/elles aient apport&eacute;

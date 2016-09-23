@@ -1,6 +1,0 @@
-j'aie termin&eacute;
-tu aies termin&eacute;
-il/elle ait termin&eacute;
-nous ayons termin&eacute;
-vous ayez termin&eacute;
-ils/elles aient termin&eacute;

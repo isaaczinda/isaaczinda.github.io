@@ -1,7 +1,0 @@
-je survienne
-tu surviennes
-il/elle survienne
-
-nous survenions
-vous surveniez
-ils/elles surviennent

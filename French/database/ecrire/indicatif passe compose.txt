@@ -1,6 +1,0 @@
-j'ai &eacute;crit
-tu as &eacute;crit
-il/elle a &eacute;crit
-nous avons &eacute;crit
-vous avez &eacute;crit
-ils/elles ont &eacute;crit

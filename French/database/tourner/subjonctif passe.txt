@@ -1,6 +1,0 @@
-j'aie tourn&eacute;
-tu aies tourn&eacute;
-il/elle ait tourn&eacute;
-nous ayons tourn&eacute;
-vous ayez tourn&eacute;
-ils/elles aient tourn&eacute;

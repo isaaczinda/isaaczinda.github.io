@@ -1,6 +1,0 @@
-je balaye/balaie
-tu balayes/balaies
-il/elle balaye/balaie
-nous balayons
-vous balayez
-ils/elles balayent/balaient

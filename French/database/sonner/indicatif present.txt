@@ -1,6 +1,0 @@
-je sonne
-tu sonnes
-il/elle sonne
-nous sonnons
-vous sonnez
-ils/elles sonnent

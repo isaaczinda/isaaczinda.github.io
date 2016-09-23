@@ -1,6 +1,0 @@
-je boive
-tu boives
-il/elle boive
-nous buvions
-vous buviez
-ils/elles boivent

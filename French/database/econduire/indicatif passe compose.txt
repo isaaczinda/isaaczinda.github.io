@@ -1,6 +1,0 @@
-j'ai &eacute;conduit
-tu as &eacute;conduit
-il/elle a &eacute;conduit
-nous avons &eacute;conduit
-vous avez &eacute;conduit
-ils/elles ont &eacute;conduit

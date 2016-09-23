@@ -1,7 +1,0 @@
-je souvienne
-tu souviennes
-il/elle souvienne
-
-nous souvenions
-vous souveniez
-ils/elles souviennent

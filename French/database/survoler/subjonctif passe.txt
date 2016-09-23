@@ -1,6 +1,0 @@
-j'aie survol&eacute;
-tu aies survol&eacute;
-il/elle ait survol&eacute;
-nous ayons survol&eacute;
-vous ayez survol&eacute;
-ils/elles aient survol&eacute;

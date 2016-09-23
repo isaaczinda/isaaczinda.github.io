@@ -1,8 +1,0 @@
--
--
-il eut &eacute;clos
-elle eut &eacute;clos
--
--
-ils eurent &eacute;clos
-elles eurent &eacute;clos

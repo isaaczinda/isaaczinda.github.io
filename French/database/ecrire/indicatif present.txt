@@ -1,6 +1,0 @@
-j'&eacute;cris
-tu &eacute;cris
-il/elle &eacute;crit
-nous &eacute;crivons
-vous &eacute;crivez
-ils/elles &eacute;crivent

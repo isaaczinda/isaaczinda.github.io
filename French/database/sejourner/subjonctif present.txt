@@ -1,6 +1,0 @@
-je s&eacute;journe
-tu s&eacute;journes
-il/elle s&eacute;journe
-nous s&eacute;journions
-vous s&eacute;journiez
-ils/elles s&eacute;journent

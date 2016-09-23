@@ -1,6 +1,0 @@
-je consomme
-tu consommes
-il/elle consomme
-nous consommons
-vous consommez
-ils/elles consomment

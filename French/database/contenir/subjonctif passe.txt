@@ -1,6 +1,0 @@
-j'aie contenu
-tu aies contenu
-il/elle ait contenu
-nous ayons contenu
-vous ayez contenu
-ils/elles aient contenu

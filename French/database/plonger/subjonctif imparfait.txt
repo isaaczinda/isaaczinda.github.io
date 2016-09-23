@@ -1,6 +1,0 @@
-je plongeasse
-tu plongeasses
-il/elle plonge&acirc;t
-nous plongeassions
-vous plongeassiez
-ils/elles plongeassent

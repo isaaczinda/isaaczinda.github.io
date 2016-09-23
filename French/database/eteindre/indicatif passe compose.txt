@@ -1,6 +1,0 @@
-j'ai &eacute;teint
-tu as &eacute;teint
-il/elle a &eacute;teint
-nous avons &eacute;teint
-vous avez &eacute;teint
-ils/elles ont &eacute;teint
