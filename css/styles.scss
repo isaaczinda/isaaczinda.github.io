@@ -2,19 +2,44 @@
 ---
 
 .navbar li {
-  font-size: 1.5em
+  font-size: 1.5em;
 }
 
 .navbar .navbar-brand {
   font-size: 1.5em;
 }
 
+.jump-to-menu h1 {
+  text-align: center;
+}
 
-.container-fluid.content{
-  img {
-    width: 50%;
+
+
+h1 {
+  font-weight: 300 !important;
+
+  strong {
+    font-weight: 500 !important;
   }
 
-  width: 70%;
-  background-color: #555555;
+  font-size: 2em
+}
+
+.container-fluid.content {
+  background-color: rgb(231, 231, 231);
+
+  img {
+    width: 100%;
+  }
+}
+
+// change widths for computer screen
+@media (min-width: 768px) {
+  .container-fluid.content{
+    img {
+      width: 30%;
+    }
+
+    width: 70%;
+  }
 }

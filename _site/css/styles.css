@@ -4,8 +4,22 @@
 .navbar .navbar-brand {
   font-size: 1.5em; }
 
+.jump-to-menu h1 {
+  text-align: center; }
+
+h1 {
+  font-weight: 300 !important;
+  font-size: 2em; }
+  h1 strong {
+    font-weight: 500 !important; }
+
 .container-fluid.content {
-  width: 70%;
-  background-color: #555555; }
+  background-color: #e7e7e7; }
   .container-fluid.content img {
-    width: 50%; }
+    width: 100%; }
+
+@media (min-width: 768px) {
+  .container-fluid.content {
+    width: 70%; }
+    .container-fluid.content img {
+      width: 30%; } }
