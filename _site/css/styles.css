@@ -3,3 +3,9 @@
 
 .navbar .navbar-brand {
   font-size: 1.5em; }
+
+.container-fluid.content {
+  width: 70%;
+  background-color: #555555; }
+  .container-fluid.content img {
+    width: 50%; }
