@@ -2,6 +2,8 @@
 layout: post
 title: Character Recognition Neural Network
 category: other
+permalink: /character-recognition-neural-network
+
 ---
 
 ## Approach and Engine Specifics
