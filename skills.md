@@ -5,8 +5,8 @@ title: Skills
 
 <div class = "row">
 <div class = "col-sm-6">
+<h1>Programming Languages</h1>
 {% markdown %}
-# Programming Languages
  - **Python**: Additional experience with matplotlib, PIL, and OpenCV for Python.
  - **C#**
  - **Node.js**: Used in conjunction with MySQL, socket.io, and OAUTH2 for Google sign-in.

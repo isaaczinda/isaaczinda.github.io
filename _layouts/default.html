@@ -9,7 +9,7 @@
     <link rel="stylesheet" href="https://bootswatch.com/lumen/bootstrap.min.css">
     <script src="https://code.jquery.com/jquery-3.1.1.min.js"   integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8="   crossorigin="anonymous"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
-    <link rel="stylesheet" href="css/styles.css">
+    <link rel="stylesheet" href="{{base}}/css/styles.css">
 
   </head>
 
@@ -31,14 +31,26 @@
         <!-- Collect the nav links, forms, and other content for toggling -->
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
           <ul class="nav navbar-nav">
-            <li {% if page.path == "index.md" %}class="active"{% endif %}><a href="{{base}}/index.html">Home</a></li>
+            <li {% if page.path == "index.html" %}class="active"{% endif %}><a href="{{base}}/index.html">Home</a></li>
             <li {% if page.path == "work_experience.md" %}class="active"{% endif %}><a href="{{base}}/work_experience.html">Experience</a></li>
             <li {% if page.path == "projects.html" %}class="active"{% endif %}><a href="{{base}}/projects.html">Projects</a></li>
             <li {% if page.path == "skills.md" %}class="active"{% endif %}><a href="{{base}}/skills.html">Skills</a></li>
+            <li role="presentation" class="dropdown">
+              <a class="dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">
+                Other Work <span class="caret"></span>
+              </a>
+              <ul class="dropdown-menu">
+                {% for post in site.posts %}
+                  {% if post.category == 'other' %}
+                    <li><a href = "{{post.url}}">{{post.title}}</a></li>
+                  {% endif %}
+                {% endfor %}
+              </ul>
+            </li>
           </ul>
 
           <ul class="nav navbar-nav navbar-right">
-            <!-- <li><a href="#">Contact</a></li> -->
+            <li><a href="{{base}}/downloads/resume.docx">Download Resume</a></li>
           </ul>
         </div><!-- /.navbar-collapse -->
       </div><!-- /.container-fluid -->

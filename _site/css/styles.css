@@ -1,3 +1,6 @@
+p, li {
+  font-size: 1.1em; }
+
 .navbar li {
   font-size: 1.5em; }
 
@@ -7,19 +10,57 @@
 .jump-to-menu h1 {
   text-align: center; }
 
+.contact-info {
+  text-align: center; }
+
+hr {
+  border: 0;
+  height: 1px;
+  background: #333;
+  background-image: linear-gradient(to right, #ccc, #333, #ccc); }
+
+.navbar-brand {
+  font-weight: 500;
+  font-size: 2em !important;
+  color: #666666 !important; }
+
+.portrait-image {
+  width: 100% !important;
+  padding-bottom: 15px; }
+
+.welcome-text {
+  text-align: center;
+  font-size: 1.5em; }
+
 h1 {
-  font-weight: 300 !important;
+  font-weight: 500;
   font-size: 2em; }
-  h1 strong {
-    font-weight: 500 !important; }
+  h1 em {
+    font-weight: 300;
+    font-style: normal; }
+
+h2 {
+  font-weight: 300;
+  font-size: 1.5em; }
+
+h3 {
+  font-weight: 300 !important;
+  font-size: 1.25em;
+  text-decoration: underline; }
 
 .container-fluid.content {
   background-color: #e7e7e7; }
   .container-fluid.content img {
     width: 100%; }
 
+.portrait-image {
+  display: none; }
+
 @media (min-width: 768px) {
   .container-fluid.content {
     width: 70%; }
     .container-fluid.content img {
-      width: 30%; } }
+      width: 30%; }
+
+  .portrait-image {
+    display: block; } }

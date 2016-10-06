@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Robotics Independent Study
+category: projects
 ---
 
 <!-- we need this so that we can access images -->

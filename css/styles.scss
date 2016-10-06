@@ -1,6 +1,10 @@
 ---
 ---
 
+p, li {
+  font-size: 1.1em;
+}
+
 .navbar li {
   font-size: 1.5em;
 }
@@ -13,18 +17,56 @@
   text-align: center;
 }
 
+.contact-info {
+  text-align: center;
+}
 
+hr {
+    border: 0;
+    height: 1px;
+    background: #333;
+    background-image: linear-gradient(to right, #ccc, #333, #ccc);
+}
+
+.navbar-brand {
+  font-weight: 500;
+  font-size: 2em !important;
+  color: #666666 !important;
+}
+
+.portrait-image {
+  width: 100% !important;
+  padding-bottom: 15px;
+}
+
+.welcome-text {
+  text-align: center;
+  font-size: 1.5em;
+}
 
 h1 {
-  font-weight: 300 !important;
+  font-weight: 500;
 
-  strong {
-    font-weight: 500 !important;
+  em {
+    font-weight: 300;
+    font-style: normal;
   }
 
   font-size: 2em
 }
 
+h2 {
+  font-weight: 300;
+  font-size: 1.5em;
+}
+
+h3 {
+  font-weight: 300 !important;
+  font-size: 1.25em;
+  text-decoration: underline;
+}
+
+// properties for phone screen
 .container-fluid.content {
   background-color: rgb(231, 231, 231);
 
@@ -33,7 +75,11 @@ h1 {
   }
 }
 
-// change widths for computer screen
+.portrait-image {
+  display: none;
+}
+
+// override there properties for computer screen
 @media (min-width: 768px) {
   .container-fluid.content{
     img {
@@ -41,5 +87,9 @@ h1 {
     }
 
     width: 70%;
+  }
+
+  .portrait-image {
+    display: block;
   }
 }
