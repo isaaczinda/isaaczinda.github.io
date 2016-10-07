@@ -75,13 +75,19 @@ h3 {
   }
 }
 
-.left {
+.photo {
   img {
     width: 100%;
   }
+
+  p {
+    font-style: italic;
+  }
+
   width: 25%;
-  align: left;
-  display: block-inline;
+  float: left;
+  padding-right: 10px;
+  padding-top: 5px;
 }
 
 .portrait-image {

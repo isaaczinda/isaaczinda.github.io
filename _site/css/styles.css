@@ -53,12 +53,15 @@ h3 {
   .container-fluid.content img {
     width: 100%; }
 
-.left {
+.photo {
   width: 25%;
-  align: left;
-  display: block-inline; }
-  .left img {
+  float: left;
+  padding-right: 10px;
+  padding-top: 5px; }
+  .photo img {
     width: 100%; }
+  .photo p {
+    font-style: italic; }
 
 .portrait-image {
   display: none; }
