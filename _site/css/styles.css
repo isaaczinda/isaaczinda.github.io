@@ -53,14 +53,19 @@ h3 {
   .container-fluid.content img {
     width: 100%; }
 
+.left {
+  width: 25%;
+  align: left;
+  display: block-inline; }
+  .left img {
+    width: 100%; }
+
 .portrait-image {
   display: none; }
 
 @media (min-width: 768px) {
   .container-fluid.content {
     width: 70%; }
-    .container-fluid.content img {
-      width: 30%; }
 
   .portrait-image {
     display: block; } }

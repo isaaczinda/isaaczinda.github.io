@@ -75,6 +75,15 @@ h3 {
   }
 }
 
+.left {
+  img {
+    width: 100%;
+  }
+  width: 25%;
+  align: left;
+  display: block-inline;
+}
+
 .portrait-image {
   display: none;
 }
@@ -82,10 +91,6 @@ h3 {
 // override there properties for computer screen
 @media (min-width: 768px) {
   .container-fluid.content{
-    img {
-      width: 30%;
-    }
-
     width: 70%;
   }
 

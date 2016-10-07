@@ -6,7 +6,7 @@ category: other
 
 ## First Tech Challenge Description
 
-The First Tech Challenge, or FTC, is a nationwide robotics competition. High-school students are given three months and an almost unlimited list of materials to construct a robot which fits in an 18 inch cube and plays a specific game. A video describing this year's game can be seen [here](https://www.youtube.com/watch?v=ABmBxCwHV94, "First Tech Challenge video"). Robots successful in their regionals' competitions will advance to state, Super Regionals, and then worlds. Individuals as well as teams can receive awards. Students who have demonstrated technical expertise, commitment to the FIRST community, and the ability to lead teammates can be selected as a Dean's list semi-finalist, finalist, or winner. FTC has become a passion of mine due to its fun yet difficult challenges great community.
+The First Tech Challenge, or FTC, is a nationwide robotics competition. High school students are given three months and an almost unlimited list of materials to construct a robot which fits in an 18 inch cube and plays a specific game. A video describing this year's game can be seen [here](https://www.youtube.com/watch?v=ABmBxCwHV94, "First Tech Challenge video"). Robots successful in their regionals' competitions will advance to State, Super Regionals, and then Worlds. Individuals as well as teams can receive awards. Students who have demonstrated technical expertise, commitment to the FIRST community, and the ability to lead teammates can be selected as a Dean's list semi-finalist, finalist, or winner. FTC has become a passion of mine due to its fun yet difficult challenges and great community.
 
 
 ## Technical Work
@@ -31,9 +31,9 @@ The First Tech Challenge, or FTC, is a nationwide robotics competition. High-sch
 ### 2015 / 16
 
  - Our robot was a finalist at Regionals and won the Inspire Award, which is given to the team that "is chosen by the judges as having best represented a role model FIRST Tech Challenge Team." This award qualified us for the State Competition.
- - The team won the Think Award and the second place Inspire Award at State. This helped us qualify for the Super Regional competition where we will compete again the entire west coast on March 26th!
+ - The team won the Think Award and the second place Inspire Award at State. This helped us qualify for the Super Regional competition where we competed against the entire west coast!
 
 ### 2014 / 15
 
- - I was selected as a National Dean's List finalist at the State Competition. A Dean's List winner demonstrates technical expertise, commitment to the FIRST community, and the ability to lead teammates. Here is the link to [my school's writeup about this award](http://www.seattleacademy.info/wp/robotics-competes-at-superregional-zinda-%E2%80%9916-named-to-ftc-dean%E2%80%99s-list-finalist/ "Dean's list article").
+ - I was selected as a National Dean's List finalist at the State Competition. A Dean's List winner demonstrates technical expertise, commitment to the FIRST community, and the ability to lead teammates. Here is the link to [my school's write up about this award](http://www.seattleacademy.info/wp/robotics-competes-at-superregional-zinda-%E2%80%9916-named-to-ftc-dean%E2%80%99s-list-finalist/ "Dean's list article").
  - My team placed second and won the second place Inspire Award at the State Competition, which qualified us for the Super Regional Competition.
