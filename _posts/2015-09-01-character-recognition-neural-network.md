@@ -12,13 +12,14 @@ I began the project by building a hidden-layer neural network engine from scratc
 
 ## Character Recognition
 
+<div class = "photo">
+	<img src = "{{base}}/img/neural-network.jpg"/>
+	<p>Examples of letters and neural network's output, where higher number indicates more likely.</p>
+</div>
+
 I used my engine to create a program capable of recognizing handwritten characters. To collect data for training, I drew letters via a python program, which compressed them to 10x16 images and automatically saved them to their correct folder. All in all, I collected 30-50 samples for each letter -- over 1000 images in all. The network itself has 160 input nodes, 20 hidden layer nodes, and 26 outputs (one for each character). After training the network and reducing the error as much as possible, it was able to identify letters correctly a large majority of the time.
 
-## Examples
 
-Here are some examples of letters identified by my neural network. The blue writing on the right -- the network's output -- shows which letters are the best matches. The decimal number is the likelihood from 0 to 1 (one being highest) that the letter is a match.
-
-![example character recognition]({{base}}/img/neural-network.jpg "example character recognition")
 
 ## Download / Program Usage
 
