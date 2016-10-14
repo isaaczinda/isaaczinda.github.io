@@ -1,14 +1,10 @@
 p, li {
   font-size: 1.1em; }
 
-.navbar li {
-  font-size: 1.5em; }
-
-.navbar .navbar-brand {
-  font-size: 1.5em; }
-
 .jump-to-menu h1 {
   text-align: center; }
+.jump-to-menu p {
+  margin-bottom: 5px; }
 
 .contact-info {
   text-align: center; }
@@ -16,21 +12,17 @@ p, li {
 hr {
   border: 0;
   height: 1px;
-  background: #333;
-  background-image: linear-gradient(to right, #ccc, #333, #ccc); }
-
-.navbar-brand {
-  font-weight: 500;
-  font-size: 2em !important;
-  color: #666666 !important; }
+  background: #333; }
 
 .portrait-image {
   width: 100% !important;
   padding-bottom: 15px; }
 
 .welcome-text {
-  text-align: center;
-  font-size: 1.5em; }
+  text-align: left;
+  font-size: 1em; }
+  .welcome-text h1 {
+    margin-top: 0px; }
 
 h1 {
   font-weight: 500;
@@ -48,27 +40,26 @@ h3 {
   font-size: 1.25em;
   text-decoration: underline; }
 
+.home-content {
+  padding-top: 20px; }
+
 .container-fluid.content {
-  background-color: #e7e7e7; }
+  background-color: #f8f8f8; }
   .container-fluid.content img {
     width: 100%; }
 
 .photo {
-  width: 25%;
   float: left;
   padding-right: 10px;
   padding-top: 5px; }
-  .photo img {
-    width: 100%; }
   .photo p {
     font-style: italic; }
+  @media (min-width: 768px) {
+    .photo img, .photo p {
+      max-width: 250px; } }
+  @media (min-width: 1200px) {
+    .photo img, .photo p {
+      max-width: 300px; } }
 
 .portrait-image {
   display: none; }
-
-@media (min-width: 768px) {
-  .container-fluid.content {
-    width: 70%; }
-
-  .portrait-image {
-    display: block; } }

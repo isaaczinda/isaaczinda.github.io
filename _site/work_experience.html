@@ -14,12 +14,18 @@
     <script src="https://code.jquery.com/jquery-3.1.1.min.js"   integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8="   crossorigin="anonymous"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
     <link rel="stylesheet" href="./css/styles.css">
-
+    <link rel="stylesheet" href="./css/navbar.css">
   </head>
 
   <body>
+
     <nav class="navbar navbar-default">
       <div class="container-fluid">
+        <div class = "site-title">
+          <h1>ISAAC ZINDA</h1>
+        </div>
+
+      <hr>
 
         <!-- Brand and toggle get grouped for better mobile display -->
         <div class="navbar-header">
@@ -36,12 +42,10 @@
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
           <ul class="nav navbar-nav">
             <li ><a href="./index.html">Home</a></li>
-            <li ><a href="./work_experience.html">Experience</a></li>
-            <li ><a href="./projects.html">Projects</a></li>
-            <li ><a href="./skills.html">Skills</a></li>
+            <li class="active"><a href="./work_experience.html">Experience</a></li>
             <li role="presentation" class="dropdown">
               <a class="dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">
-                Other Work <span class="caret"></span>
+                Long-term Projects <span class="caret"></span>
               </a>
               <ul class="dropdown-menu">
                 
@@ -63,9 +67,12 @@
                 
               </ul>
             </li>
+            <li ><a href="./projects.html">Projects</a></li>
+            <li ><a href="./skills.html">Skills</a></li>
+
           </ul>
 
-          <ul class="nav navbar-nav navbar-right">
+          <ul class="nav navbar-nav nav-float-right">
             <li><a href="./downloads/resume.docx">Download Resume</a></li>
           </ul>
         </div><!-- /.navbar-collapse -->
@@ -89,8 +96,8 @@
       <h1>Research Intern, <em>University of Washington Summer 2015</em></h1>
 
       <div class = "photo">
-        <img src = "/img/capacitance-matrix.png"/>
-        <p>Visualization a smartphone's capacitance matrix.</p>
+        <img src = "/img/cropped-capacitance-matrix.png"/>
+        <p>Visualization of a smartphone's capacitance matrix.</p>
       </div>
 
       <p>While interning at the University of Washington's Ubiquitous Computing Lab, I worked individually on a project called RainCheck. RainCheck makes it easy to use your phone in the rain and with wet hands. Instead of just looking at the touch points that the phone's touch screen controller generates, RainCheck looks at the phone's raw capacitance values. These values can be requested from touch screen controller with a series of I2C commands. It then uses various heuristics to discern the difference between a water droplet and someone's finger. In order to get access to this kind of low-level data, I wrote a modified kernel module in C for the Nexus 5 smartphone. The process of building a custom kernel -- as well as a live demo of RainCheck -- is available <a href = "https://ubicomplab.cs.washington.edu/raincheck/">here</a>.</p>

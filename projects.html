@@ -4,7 +4,7 @@ title: Projects
 ---
 
 <div class = "row">
-  <div class = "col-sm-8">
+  <div class = "col-sm-9">
     {% for post in site.posts %}
       {% if post.category == 'projects' %}
 
@@ -14,14 +14,14 @@ title: Projects
       {% endif %}
     {% endfor %}
   </div>
-  <div class = "col-sm-4 jump-to-menu">
+  <div class = "col-sm-3 jump-to-menu">
     <h1>Jump to</h1>
-    <ul>
+    <!-- <ul> -->
       {% for post in site.posts %}
         {% if post.category == 'projects' %}
-          <li><a href = "#{{post.title}}">{{ post.title }}</a></li>
+          <p><a href = "#{{post.title}}">{{ post.title }}</a></p>
         {% endif %}
       {% endfor %}
-    </ul>
+    <!-- </ul> -->
   </div>
 </div>

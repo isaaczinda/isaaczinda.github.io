@@ -1,20 +1,23 @@
 ---
 ---
 
+$primary-color-orange: #FF9900;
+$secondary-color-blue: #336688;
+
+$medium-device: 768px;
+$large-device: 1200px;
+
 p, li {
   font-size: 1.1em;
 }
 
-.navbar li {
-  font-size: 1.5em;
-}
-
-.navbar .navbar-brand {
-  font-size: 1.5em;
-}
-
-.jump-to-menu h1 {
-  text-align: center;
+.jump-to-menu {
+  h1 {
+    text-align: center;
+  }
+  p {
+    margin-bottom: 5px;
+  }
 }
 
 .contact-info {
@@ -25,13 +28,6 @@ hr {
     border: 0;
     height: 1px;
     background: #333;
-    background-image: linear-gradient(to right, #ccc, #333, #ccc);
-}
-
-.navbar-brand {
-  font-weight: 500;
-  font-size: 2em !important;
-  color: #666666 !important;
 }
 
 .portrait-image {
@@ -40,8 +36,12 @@ hr {
 }
 
 .welcome-text {
-  text-align: center;
-  font-size: 1.5em;
+  text-align: left;
+  font-size: 1em;
+
+  h1 {
+    margin-top: 0px;
+  }
 }
 
 h1 {
@@ -66,9 +66,13 @@ h3 {
   text-decoration: underline;
 }
 
+.home-content {
+  padding-top: 20px;
+}
+
 // properties for phone screen
 .container-fluid.content {
-  background-color: rgb(231, 231, 231);
+  background-color: #f8f8f8;
 
   img {
     width: 100%;
@@ -76,31 +80,26 @@ h3 {
 }
 
 .photo {
-  img {
-    width: 100%;
-  }
-
   p {
     font-style: italic;
   }
 
-  width: 25%;
   float: left;
   padding-right: 10px;
   padding-top: 5px;
+
+  img, p{
+    @media (min-width: $medium-device) {
+      max-width: 250px;
+
+    }
+
+    @media (min-width: $large-device) {
+      max-width: 300px;
+    }
+  }
 }
 
 .portrait-image {
   display: none;
-}
-
-// override there properties for computer screen
-@media (min-width: 768px) {
-  .container-fluid.content{
-    width: 70%;
-  }
-
-  .portrait-image {
-    display: block;
-  }
 }

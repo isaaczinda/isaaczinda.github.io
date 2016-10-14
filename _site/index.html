@@ -14,12 +14,18 @@
     <script src="https://code.jquery.com/jquery-3.1.1.min.js"   integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8="   crossorigin="anonymous"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
     <link rel="stylesheet" href="./css/styles.css">
-
+    <link rel="stylesheet" href="./css/navbar.css">
   </head>
 
   <body>
+
     <nav class="navbar navbar-default">
       <div class="container-fluid">
+        <div class = "site-title">
+          <h1>ISAAC ZINDA</h1>
+        </div>
+
+      <hr>
 
         <!-- Brand and toggle get grouped for better mobile display -->
         <div class="navbar-header">
@@ -37,11 +43,9 @@
           <ul class="nav navbar-nav">
             <li class="active"><a href="./index.html">Home</a></li>
             <li ><a href="./work_experience.html">Experience</a></li>
-            <li ><a href="./projects.html">Projects</a></li>
-            <li ><a href="./skills.html">Skills</a></li>
             <li role="presentation" class="dropdown">
               <a class="dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">
-                Other Work <span class="caret"></span>
+                Long-term Projects <span class="caret"></span>
               </a>
               <ul class="dropdown-menu">
                 
@@ -63,9 +67,12 @@
                 
               </ul>
             </li>
+            <li ><a href="./projects.html">Projects</a></li>
+            <li ><a href="./skills.html">Skills</a></li>
+
           </ul>
 
-          <ul class="nav navbar-nav navbar-right">
+          <ul class="nav navbar-nav nav-float-right">
             <li><a href="./downloads/resume.docx">Download Resume</a></li>
           </ul>
         </div><!-- /.navbar-collapse -->
@@ -73,19 +80,14 @@
     </nav>
 
     <div class="container-fluid content">
-      <div class = "row">
-  <div class = "welcome-text col-sm-12">
-    <h1>Welcome to isaaczinda.com</h1>
-    <hr>
-  </div>
-</div>
-
-<div class = "row">
+      <div class = "row home-content">
   <div class = "col-sm-4">
     <img class = "portrait-image" src="/img/portrait.jpg"/>
   </div>
   <div class = "col-sm-8">
-
+    <div class = "welcome-text">
+      <h1>I am a computer science major at Harvey Mudd College interested in backend development and data science.</h1>
+    </div>
 
     <p>I have created this website to demonstrate my passion for computer science and to provide a showcase for my resume. As a freshman at Harvey Mudd College this year, I plan to major in computer science and applied math. I have worked with a wide range of tools in many different professional settings. I have interned at Microsoft Research and worked in the University of Washington Ubiquitous Computing Lab.  I have designed a neural network from scratch, helped build a high-altitude wind model, worked on the Linux kernel, and developed numerous websites. Please feel free to reach out to me if you have any questions about my work.</p>
 

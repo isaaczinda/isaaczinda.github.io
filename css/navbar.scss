@@ -1,0 +1,103 @@
+---
+---
+
+$primary-color-orange: #FF9900;
+$secondary-color-blue: #336688;
+
+$medium-device: 768px;
+$large-device: 1200px;
+
+// #FF9900, #336688, #FFCC00
+
+.navbar {
+  background-color: #f8f8f8;
+  // border: 1px solid grey !important;
+  // border-radius: 0px;
+  // border-bottom: 0px solid black !important;
+
+  hr {
+    margin: 5px;
+  }
+
+  .site-title {
+    text-align: center;
+    font-size: 1.5em;
+    h1 {
+      font-weight: 300 !important;
+    }
+  }
+}
+
+.title-text {
+    font-weight: bolder;
+    font-size: 1em;
+    color: #666666;
+    // text-shadow: -2px 0 $secondary-color-blue, 0 2px $secondary-color-blue, 2px 0 $secondary-color-blue, 0 -2px $secondary-color-blue;
+
+    text-align: center;
+}
+
+.navbar {
+  li {
+    font-size: 1.25em;
+
+    a {
+      padding: 10px !important;
+    }
+  }
+
+  border-width: 0px;
+}
+
+.nav {
+    li {
+      border-bottom: 4px solid transparent;
+    }
+
+    //only underlink active links if we're on a computer
+    @media (min-width: $medium-device) {
+      li.active {
+        border-bottom: 4px solid $primary-color-orange;
+      }
+    }
+}
+
+a {
+  color: $secondary-color-blue;
+}
+
+// override there properties for computer screen
+@media (min-width: $medium-device) {
+  .container-fluid.content{
+    width: 750px;
+  }
+
+  .navbar-collapse {
+    padding: 0px;
+  }
+
+  .navbar {
+    width: 750px;
+    margin: auto;
+    margin-bottom: 20px;
+  }
+
+  //only float the download link right is wer're on a computer screen
+  .nav-float-right {
+    float: right;
+  }
+
+  .portrait-image {
+    display: block;
+  }
+
+  @media (min-width: $large-device) {
+    .container-fluid.content{
+      width: 1100px;
+    }
+
+    .navbar {
+      width: 1100px;
+    }
+  }
+}
