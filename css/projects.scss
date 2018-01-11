@@ -4,7 +4,7 @@
 $medium-device: 768px;
 $large-device: 1200px;
 
-img {
+.projects img {
   border-style: solid;
   border-width: 1px;
   border-color: grey;
@@ -12,14 +12,14 @@ img {
 
 // if we are on a computer, make images in posts smaller
 @media (min-width: $medium-device) {
-  img {
+  .projects img {
     width: 300px;
   }
 }
 
 // otherwise, make images full width
 @media (max-width: $medium-device) {
-  img {
+  .projects img {
     width: 100%;
   }
 }
