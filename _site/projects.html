@@ -7,14 +7,15 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Projects</title>
-    <link rel="stylesheet" href="https://bootswatch.com/lumen/bootstrap.min.css">
+    <link rel="stylesheet" href="./css/lumen-boostrap.min.css">
     <script src="https://code.jquery.com/jquery-3.1.1.min.js"   integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8="   crossorigin="anonymous"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="./css/home.css">
     <link rel="stylesheet" href="./css/styles.css">
     <link rel="stylesheet" href="./css/navbar.css">
+    <link rel="stylesheet" href="./css/projects.css">
   </head>
 
   <body>
@@ -52,6 +53,8 @@
                   
                 
                   
+                
+                  
                     <li><a href = "/character-recognition-neural-network">Character Recognition Neural Network</a></li>
                   
                 
@@ -65,6 +68,7 @@
                 
                   
                 
+                <li><a href = "http://isaaczinda.com/raincheck">RainCheck</a></li>
               </ul>
             </li>
             <li class="active"><a href="./projects.html">Projects</a></li>
@@ -80,17 +84,25 @@
     </nav>
 
     <div class="container-fluid content">
-      <div class = "row">
+      <div class = "row projects">
   <div class = "col-sm-9">
     
       
 
+        <h1><a name = "Rendering Engine Using Ray Casting"></a>Rendering Engine Using Ray Casting, <em>January 2018</em></h1>
+        <p><p>Program allows user to import objects from STL files and specify different properties (color, shininess, reflection intensity). You can setup any number of point lights to illuminate these objects. I used the <a href="https://en.wikipedia.org/wiki/Phong_reflection_model">Phong Reflection Model</a> to make the lighting realistic, and have also included shadows. Below is a scene that I rendered with the engine:</p>
+
+<p><img src="/img/ray-casting-blocks.png" alt="Rendered Blocks and Ball" /></p>
+</p>
+
+      
+    
+      
+
         <h1><a name = "Robotics Independent Study"></a>Robotics Independent Study, <em>January 2016</em></h1>
-        <p><div class = "photo">
-  <img src = "/img/robotics-independent-study.png"/>
-  <p>Model of our robot, created in SolidWorks.</p>
-</div>
-<p>Worked with a friend to create a robot capable of climbing vertical glass walls using pneumatic suction cups. The robot is controlled using an Arduino, and designed entirely in SolidWorks. Custom laser cut and 3D printed parts were used as an alternative to metal components to reduce the robot's weight.</p>
+        <p><p>Worked with a friend to create a robot capable of climbing vertical glass walls using pneumatic suction cups. The robot is controlled using an Arduino, and designed entirely in SolidWorks. Custom laser cut and 3D printed parts were used as an alternative to metal components to reduce the robot's weight.</p>
+
+<p><img src="/img/robotics-independent-study.png" alt="CAD file" /></p>
 </p>
 
       
@@ -127,6 +139,10 @@
   <div class = "col-sm-3 jump-to-menu">
     <h1>Jump to</h1>
     <!-- <ul> -->
+      
+        
+          <p><a href = "#Rendering Engine Using Ray Casting">Rendering Engine Using Ray Casting</a></p>
+        
       
         
           <p><a href = "#Robotics Independent Study">Robotics Independent Study</a></p>

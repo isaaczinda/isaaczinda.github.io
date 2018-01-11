@@ -27,9 +27,6 @@
   .nav li.active {
     border-bottom: 4px solid #FF9900; } }
 
-a {
-  color: #336688; }
-
 @media (min-width: 768px) {
   .container-fluid.content {
     width: 750px; }

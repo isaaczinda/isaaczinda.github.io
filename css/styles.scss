@@ -2,7 +2,7 @@
 ---
 
 $primary-color-orange: #FF9900;
-$secondary-color-blue: #336688;
+$secondary-color-blue: #5599bb;
 
 $medium-device: 768px;
 $large-device: 1200px;
@@ -11,37 +11,10 @@ p, li {
   font-size: 1.1em;
 }
 
-.jump-to-menu {
-  h1 {
-    text-align: center;
-  }
-  p {
-    margin-bottom: 5px;
-  }
-}
-
-.contact-info {
-  text-align: center;
-}
-
 hr {
     border: 0;
     height: 1px;
     background: #333;
-}
-
-.portrait-image {
-  width: 100% !important;
-  padding-bottom: 15px;
-}
-
-.welcome-text {
-  text-align: left;
-  font-size: 1em;
-
-  h1 {
-    margin-top: 0px;
-  }
 }
 
 h1 {
@@ -66,17 +39,9 @@ h3 {
   text-decoration: underline;
 }
 
-.home-content {
-  padding-top: 20px;
-}
-
 // properties for phone screen
 .container-fluid.content {
   background-color: #f8f8f8;
-
-  img {
-    width: 100%;
-  }
 }
 
 .photo {
@@ -100,6 +65,6 @@ h3 {
   }
 }
 
-.portrait-image {
-  display: none;
+a {
+  color: $secondary-color-blue;
 }
